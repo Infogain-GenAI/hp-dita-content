@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="hp-printer-overview">
+  <title>HP LaserJet Overview</title>
+  <shortdesc>
+    The HP LaserJet series provides enterprise-grade printing with fast
+    speeds and professional-quality output.
+  </shortdesc>
+  <conbody>
+    <p>
+      HP LaserJet printers are designed for high-volume printing environments.
+      They support a wide range of paper sizes and media types.
+    </p>
+    <section id="key-features">
+      <title>Key Features</title>
+      <ul>
+        <li>Print speeds up to 45 pages per minute</li>
+        <li>Automatic duplex printing</li>
+        <li>Network-ready with built-in Ethernet and Wi-Fi</li>
+        <li>HP JetIntelligence toner cartridges for consistent quality</li>
+      </ul>
+    </section>
+  </conbody>
+</concept>
