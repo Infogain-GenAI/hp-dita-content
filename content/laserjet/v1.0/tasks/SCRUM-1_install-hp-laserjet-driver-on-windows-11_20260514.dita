@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install-hp-driver">
+    <title>Install HP LaserJet Driver on Windows 11</title>
+    <shortdesc>Follow these steps to install the HP LaserJet driver on a Windows 11 system.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ensure that your HP LaserJet printer is connected to your computer and powered on.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Download the latest HP LaserJet driver from the HP support website.</cmd>
+                <result>The driver package is saved to your computer.</result>
+            </step>
+            <step>
+                <cmd>Navigate to the downloaded driver package and double-click it to begin the installation.</cmd>
+                <result>The installation wizard opens.</result>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions in the installation wizard.</cmd>
+                <result>The installation process begins.</result>
+            </step>
+            <step>
+                <cmd>When prompted by User Account Control (UAC), click <uicontrol>Yes</uicontrol> to allow the installation to proceed.</cmd>
+                <result>The installation continues with administrative privileges.</result>
+            </step>
+            <step>
+                <cmd>Complete the installation by following the remaining on-screen instructions.</cmd>
+                <result>The HP LaserJet driver is installed on your Windows 11 system.</result>
+            </step>
+        </steps>
+    </taskbody>
+</task>
