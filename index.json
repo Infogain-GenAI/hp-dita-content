@@ -2,8 +2,8 @@
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics in this repository",
     "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-14T11:16:48.671978+00:00",
-    "total_topics": 1
+    "last_updated": "2026-05-14T11:16:53.032026+00:00",
+    "total_topics": 2
   },
   "topics": [
     {
@@ -15,6 +15,16 @@
       "filename": "SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
       "path": "content/laserjet/v1.0/tasks/SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
       "created_at": "2026-05-14T11:16:48.671959+00:00"
+    },
+    {
+      "ticket_id": "SCRUM-1",
+      "title": "Network Timeout Configuration",
+      "topic_type": "reference",
+      "product": "laserjet",
+      "version": "v1.0",
+      "filename": "SCRUM-1_network-timeout-configuration_20260514.dita",
+      "path": "content/laserjet/v1.0/references/SCRUM-1_network-timeout-configuration_20260514.dita",
+      "created_at": "2026-05-14T11:16:53.031993+00:00"
     }
   ]
 }
