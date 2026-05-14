@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="network-timeout-configuration">
-    <title>Network Timeout Configuration</title>
-    <shortdesc>This section provides details on the network timeout configuration settings.</shortdesc>
-    <refbody>
-        <section>
-            <title>Default Network Timeout Value</title>
-            <p>The default network timeout value is set to 30 seconds. This value can be adjusted based on network performance requirements.</p>
-        </section>
-    </refbody>
-</reference>
+<section>
+    <title>Configuration Reference</title>
+    <p>Ensure the network timeout value is set correctly in the driver configuration:</p>
+    <table>
+        <tgroup cols="2">
+            <thead>
+                <row>
+                    <entry>Setting</entry>
+                    <entry>Default Value</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>Network Timeout</entry>
+                    <entry>60 seconds</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+</section>
