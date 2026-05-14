@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update-hp-laserjet-driver-installation">
+    <title>Update HP LaserJet Driver Installation for Windows 11</title>
+    <shortdesc>Steps to install the HP LaserJet driver on Windows 11, including handling UAC prompts and correcting network timeout settings.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Note: Windows 11 is not supported for this installation task. Please use a supported operating system.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Download the latest HP LaserJet driver from the <uicontrol>HP Support</uicontrol> website.</cmd>
+                <result>The driver package is saved to your <filepath>Downloads</result>
+            </step>
+            <step>
+                <cmd>Double-click the downloaded driver package to begin installation.</cmd>
+                <result>The installation wizard opens.</result>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions in the installation wizard.</cmd>
+            </step>
+            <step>
+                <cmd>When prompted by <uicontrol>User Account Control (UAC)</uicontrol>, click <uicontrol>Yes</uicontrol> to allow the installation to proceed.</cmd>
+                <result>The installation continues with elevated privileges.</result>
+            </step>
+            <step>
+                <cmd>Complete the installation by following the remaining prompts.</cmd>
+                <result>The HP LaserJet driver is installed on your system.</result>
+            </step>
+        </steps>
+        <section>
+            <title>Network Timeout Configuration</title>
+            <p>Ensure the network timeout setting is correctly configured:</p>
+            <steps>
+                <step>
+                    <cmd>Open the printer configuration utility.</cmd>
+                </step>
+                <step>
+                    <cmd>Navigate to the <uicontrol>Network Settings</uicontrol> section.</cmd>
+                </step>
+                <step>
+                    <cmd>Set the <uicontrol>Network Timeout</uicontrol> value to <codeph>120</codeph> seconds.</cmd>
+                    <result>The network timeout is set to the correct default value.</result>
+                </step>
+            </steps>
+        </section>
+    </taskbody>
+</task>
