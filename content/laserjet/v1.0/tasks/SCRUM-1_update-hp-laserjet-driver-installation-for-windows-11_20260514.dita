@@ -5,12 +5,12 @@
     <shortdesc>Steps to install the HP LaserJet driver on Windows 11, including handling UAC prompts and correcting network timeout settings.</shortdesc>
     <taskbody>
         <prereq>
-            <p>Note: Windows 11 is not supported for this installation task. Please use a supported operating system.</p>
+            <p>Note: This installation process is not supported on systems without administrative privileges.</p>
         </prereq>
         <steps>
             <step>
                 <cmd>Download the latest HP LaserJet driver from the <uicontrol>HP Support</uicontrol> website.</cmd>
-                <result>The driver package is saved to your <filepath>Downloads</result>
+                <result>The driver package is saved to your <filepath>Downloads</filepath>
             </step>
             <step>
                 <cmd>Double-click the downloaded driver package to begin installation.</cmd>
