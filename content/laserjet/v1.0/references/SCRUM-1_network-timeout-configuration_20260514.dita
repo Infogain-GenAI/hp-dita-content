@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="network-timeout-configuration">
+    <title>Network Timeout Configuration</title>
+    <shortdesc>Details the configuration settings for network timeout, including the default value.</shortdesc>
+    <refbody>
+        <section>
+            <title>Network Timeout Setting</title>
+            <p>The network timeout setting determines the duration the system waits for a network response before timing out.</p>
+            <table>
+                <title>Network Timeout Configuration Parameters</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <entry>Description</entry>
+                            <entry>Details</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>The time in seconds the system waits for a network response before timing out. The default value is <b>30</b> seconds.</entry>
+                            <entry><codeph>network.timeout</codeph></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

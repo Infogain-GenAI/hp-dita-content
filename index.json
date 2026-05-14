@@ -2,19 +2,19 @@
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics in this repository",
     "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-14T09:21:00.975913+00:00",
+    "last_updated": "2026-05-14T09:21:06.073853+00:00",
     "total_topics": 1
   },
   "topics": [
     {
       "ticket_id": "SCRUM-1",
-      "title": "Install HP LaserJet Driver on Windows 11",
-      "topic_type": "task",
+      "title": "Network Timeout Configuration",
+      "topic_type": "reference",
       "product": "laserjet",
       "version": "v1.0",
-      "filename": "SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
-      "path": "content/laserjet/v1.0/tasks/SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
-      "created_at": "2026-05-14T09:21:00.975891+00:00"
+      "filename": "SCRUM-1_network-timeout-configuration_20260514.dita",
+      "path": "content/laserjet/v1.0/references/SCRUM-1_network-timeout-configuration_20260514.dita",
+      "created_at": "2026-05-14T09:21:06.073825+00:00"
     }
   ]
 }
