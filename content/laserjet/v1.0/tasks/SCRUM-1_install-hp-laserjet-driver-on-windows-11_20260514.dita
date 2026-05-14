@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<task id="install-hp-laserjet-driver-windows11">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install-hp-laserjet-driver">
     <title>Install HP LaserJet Driver on Windows 11</title>
-    <shortdesc>Follow these steps to install the HP LaserJet driver on Windows 11, including handling User Account Control (UAC) prompts and configuring network settings.</shortdesc>
+    <shortdesc>Steps to download and install the HP LaserJet driver on Windows 11, including a User Account Control (UAC) warning.</shortdesc>
     <taskbody>
         <prereq>
             <p>Ensure that your computer is connected to the internet and that you have administrative privileges.</p>
@@ -12,28 +13,19 @@
                 <result>The driver package is saved to your computer.</result>
             </step>
             <step>
-                <cmd>Double-click the downloaded driver package to begin the installation.</cmd>
+                <cmd>Locate the downloaded driver package and double-click to start the installation.</cmd>
                 <result>The installation wizard opens.</result>
             </step>
             <step>
-                <cmd>Follow the on-screen instructions in the installation wizard.</cmd>
-                <result>The installation process begins.</result>
+                <cmd>Follow the on-screen instructions to proceed with the installation.</cmd>
             </step>
             <step>
                 <cmd>When prompted by User Account Control (UAC), click <uicontrol>Yes</uicontrol> to allow the installation to proceed.</cmd>
-                <result>The installation continues with elevated permissions.</result>
+                <result>The installation continues.</result>
             </step>
             <step>
-                <cmd>Configure the network settings as prompted by the installation wizard.</cmd>
-                <result>The printer is connected to the network.</result>
-            </step>
-            <step>
-                <cmd>Review the default network timeout settings in the configuration reference.</cmd>
-                <result>The correct default value is applied.</result>
-            </step>
-            <step>
-                <cmd>Complete the installation by following any remaining prompts.</cmd>
-                <result>The HP LaserJet driver is successfully installed on your Windows 11 computer.</result>
+                <cmd>Complete the installation by following the remaining prompts.</cmd>
+                <result>The HP LaserJet driver is installed on your computer.</result>
             </step>
         </steps>
     </taskbody>
