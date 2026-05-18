@@ -2,7 +2,7 @@
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics in this repository",
     "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-18T16:26:07.552062+00:00",
+    "last_updated": "2026-05-18T16:26:18.535875+00:00",
     "total_topics": 3
   },
   "topics": [
@@ -34,7 +34,7 @@
       "version": "v1.0",
       "filename": "SCRUM-1_update-hp-laserjet-driver-installation-for-windows-11_20260518.dita",
       "path": "content/laserjet/v1.0/tasks/SCRUM-1_update-hp-laserjet-driver-installation-for-windows-11_20260518.dita",
-      "created_at": "2026-05-18T16:26:07.552028+00:00"
+      "created_at": "2026-05-18T16:26:18.535844+00:00"
     }
   ]
 }

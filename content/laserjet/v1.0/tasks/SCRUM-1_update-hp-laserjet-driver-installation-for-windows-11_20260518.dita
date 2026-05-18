@@ -2,27 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="update-hp-laserjet-driver-installation">
     <title>Update HP LaserJet Driver Installation for Windows 11</title>
-    <shortdesc>Instructions to install the HP LaserJet driver on Windows 11 and update network timeout settings.</shortdesc>
+    <shortdesc>Steps to install the HP LaserJet driver on Windows 11 and update network timeout configuration.</shortdesc>
     <taskbody>
-        <prereq>
-            <p>Ensure that your Windows 11 system is up to date and you have administrative privileges.</p>
-        </prereq>
+        <prereq>Ensure that your Windows 11 system is up to date and that you have administrative privileges.</prereq>
         <steps>
             <step>
-                <cmd>Download the latest HP LaserJet driver from the HP support website.</cmd>
+                <cmd>Download the latest HP LaserJet driver from the official HP website.</cmd>
                 <result>The driver package is saved to your computer.</result>
             </step>
             <step>
-                <cmd>Double-click the downloaded driver package to start the installation.</cmd>
+                <cmd>Locate the downloaded driver package and double-click to start the installation.</cmd>
                 <result>The installation wizard opens.</result>
             </step>
             <step>
                 <cmd>Follow the on-screen instructions to complete the installation.</cmd>
-                <result>The driver is installed on your system.</result>
+                <result>The HP LaserJet driver is installed on your system.</result>
             </step>
             <step>
-                <cmd>Restart your computer to apply the changes.</cmd>
-                <result>Your system is ready to use the HP LaserJet printer.</result>
+                <cmd>Configure the network settings as needed.</cmd>
+                <result>The printer is connected to the network.</result>
             </step>
         </steps>
     </taskbody>
