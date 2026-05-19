@@ -1,0 +1,59 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="LFCAS-6511_hp-l2700-getting-started">
+    <title>Getting Started with HP Latex 2700 Printer Series</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Unpack the printer</cmd>
+                <info>
+                    <p>Carefully remove the printer from its packaging. Ensure all components are present and undamaged.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Set up the printer location</cmd>
+                <info>
+                    <p>Choose a suitable location for your printer that allows for easy access and ventilation. Ensure the area is free from dust and direct sunlight.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Connect the power supply</cmd>
+                <info>
+                    <p>Connect the printer to a power source using the provided power cord. Ensure the power outlet is grounded and meets the printer's electrical requirements.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Install the ink cartridges</cmd>
+                <info>
+                    <p>Open the ink compartment and insert the HP 883 or HP 893 ink cartridges. Ensure each cartridge is securely placed in its corresponding slot.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Load the substrate</cmd>
+                <info>
+                    <p>Load the desired substrate, such as PVC banners or self-adhesive vinyls, onto the printer. Follow the on-screen instructions for proper alignment and tensioning.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Perform initial calibration</cmd>
+                <info>
+                    <p>Run the automatic color calibration using the built-in spectrophotometer to ensure accurate color reproduction.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Print a test page</cmd>
+                <info>
+                    <p>Print a test page to verify the printer's setup and ensure print quality meets expectations. Adjust settings as necessary.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Review safety precautions</cmd>
+                <info>
+                    <p>Read the safety guidelines provided in the user manual to ensure safe operation of the printer. Pay special attention to warning labels and emergency procedures.</p>
+                </info>
+            </step>
+        </steps>
+        <note type="important">
+            <p>Ensure that all setup steps are completed before starting regular printing operations to avoid damage to the printer or print quality issues.</p>
+        </note>
+    </taskbody>
+</task>

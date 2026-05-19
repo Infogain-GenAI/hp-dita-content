@@ -1,0 +1,16 @@
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="solutions-v1.0">
+  <title>HP SOLUTIONS Documentation v1.0</title>
+
+  <!-- Concepts -->
+  <topicref href="../concepts/LFCAS-6741_drivers-overview.dita"/>
+  <topicref href="../concepts/LFCAS-6809_hp-click-overview.dita"/>
+
+  <!-- Tasks -->
+  <topicref href="../tasks/LFCAS-6741_install-printer-drivers.dita"/>
+  <topicref href="../tasks/LFCAS-6809_using-hp-click.dita"/>
+  <topicref href="../tasks/LFCAS-6810_install-hp-click-driver.dita"/>
+
+  <!-- References -->
+  <topicref href="../references/LFCAS-6810_hp-click-driver-reference.dita"/>
+</map>

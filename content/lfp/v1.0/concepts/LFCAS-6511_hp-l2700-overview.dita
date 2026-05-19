@@ -1,0 +1,19 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="LFCAS-6511_hp-l2700-overview">
+    <title>HP Latex 2700 Printer Series Overview</title>
+    <conbody>
+        <p>Welcome to the HP Latex 2700 Printer Series, designed to deliver high-quality, durable prints on a wide range of flexible materials. This printer series is equipped with advanced features to enhance your printing experience and ensure exceptional output quality.</p>
+        <p>The HP Latex 2700 Printer Series utilizes water-based HP Latex inks, providing a strong and vibrant color gamut with a thin ink layer that preserves the gloss and feel of the substrate. With a resolution of 1200 dpi and a 12 picoliter drop size, you can achieve high-quality output with rich colors.</p>
+        <ul>
+            <li>Print on a variety of substrates, including PVC banners, self-adhesive vinyls, papers, wall coverings, PET films, and textiles.</li>
+            <li>Durable prints with outdoor display permanence of up to three years unlaminated, and up to five years laminated.</li>
+            <li>Automatic color calibration with a built-in spectrophotometer ensures accurate and consistent color reproduction.</li>
+            <li>Produce indoor-quality prints at speeds up to 69 m²/h (743 ft²/h).</li>
+            <li>Water-based ink provides high adhesion and outstanding scratch resistance with the new HP Latex Overcoat fluid.</li>
+            <li>Deliver glossy white on transparent and colored substrates with high-opacity white HP Latex Ink that resists yellowing over time.</li>
+        </ul>
+        <p>The HP Latex 2700 Printer Series is engineered to simplify your workflow and reduce reprints through features like automatic maintenance, assisted loading workflows, automatic print-quality corrections, and unattended flexible printing. Increase your uptime with this smart printer.</p>
+        <note type="important">Ensure you have the appropriate technical training and experience to operate the printer safely, and always adhere to the safety guidelines provided in the documentation.</note>
+        <p>For more information, including documentation and useful links, visit the HP support and solutions websites. Access training materials and videos to maximize the potential of your HP Latex 2700 Printer Series.</p>
+    </conbody>
+</concept>

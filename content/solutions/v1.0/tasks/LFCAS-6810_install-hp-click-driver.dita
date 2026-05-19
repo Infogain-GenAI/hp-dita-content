@@ -1,0 +1,45 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="LFCAS-6810_install-hp-click-driver">
+    <title>Installing the HP Click Driver</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Download the HP Click Driver from the official HP website.</cmd>
+                <info>
+                    <p>Ensure that you select the correct driver version compatible with your operating system.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Open the downloaded file to begin the installation process.</cmd>
+                <info>
+                    <p>If prompted by your operating system, allow the installation to proceed.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions to complete the installation.</cmd>
+                <info>
+                    <p>During installation, you may be asked to configure network settings. Refer to the network configuration section below for guidance.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Configure network settings if required.</cmd>
+                <info>
+                    <p>Access the printer network configuration settings through the front panel by navigating to <b>Network &gt; Gigabit Ethernet &gt; Modify Configuration</b>.</p>
+                    <p>Ensure that the correct network protocols are enabled or disabled to optimize network traffic and security.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Restart your computer and printer to finalize the installation.</cmd>
+                <info>
+                    <p>After restarting, verify that the HP Click Driver is functioning correctly by printing a test page.</p>
+                </info>
+            </step>
+        </steps>
+        <note type="important">
+            <p>Ensure that your printer is connected to the network and powered on before starting the installation process.</p>
+        </note>
+        <note type="warning">
+            <p>Disabling unused network protocols can reduce unnecessary network traffic and enhance security. Refer to the HP Jetdirect Print Server Administrator’s Guide for detailed instructions.</p>
+        </note>
+    </taskbody>
+</task>

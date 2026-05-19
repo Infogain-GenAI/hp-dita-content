@@ -1,0 +1,114 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="LFCAS-6810_hp-click-driver-reference">
+    <title>HP Click Driver Settings Reference</title>
+    <refbody>
+        <section>
+            <title>Networking</title>
+            <p>The HP Click Driver supports various network configurations to ensure seamless connectivity and communication with your network environment. The embedded Jetdirect print server facilitates connections to IEEE 802.3 10Base-T Ethernet, IEEE 802.3u 100Base-TX Fast Ethernet, and 802.3ab 1000Base-T Gigabit Ethernet compliant networks.</p>
+            <p>Upon connection and power-up, the printer auto-negotiates link speeds of 10, 100, or 1000 Mbps, and can operate in full- or half-duplex mode. Manual configuration of the link is possible through the printer’s front panel or other configuration tools once network communication is established.</p>
+            <p>The printer supports multiple network protocols simultaneously, including TCP/IPv4 and TCP/IPv6, and offers security features to manage IP traffic and configure IP Security (IPsec) protocols.</p>
+        </section>
+        <section>
+            <title>Control Network Protocols</title>
+            <p>The printer can support multiple network communication protocols concurrently, allowing network computers using different protocols to communicate with the printer. Some protocols require configuration before network communication can occur, while others automatically sense required parameters.</p>
+            <p>To reduce unnecessary network traffic, disable unused protocols. This action helps to:</p>
+            <ul>
+                <li>Reduce network traffic by eliminating broadcast messages from unused protocols.</li>
+                <li>Provide better control over who can print to the printer by preventing users from other networks from routing print jobs to this printer.</li>
+                <li>Display protocol-specific error conditions for enabled protocols only.</li>
+            </ul>
+            <p>To disable unused protocols, use the device’s control panel menu or refer to the HP Jetdirect Print Server Administrator’s Guide for your print server model.</p>
+        </section>
+        <section>
+            <title>Front-panel Menu Items</title>
+            <p>Access the printer network configuration settings via the front panel by navigating to <b>Network &gt; Gigabit Ethernet &gt; Modify Configuration</b>.</p>
+            <table>
+                <title>Front-panel Menu Items</title>
+                <row>
+                    <entry>Menu item</entry>
+                    <entry>Sub-menu item</entry>
+                    <entry>Sub-menu item</entry>
+                    <entry>Values and description</entry>
+                </row>
+                <row>
+                    <entry>Information</entry>
+                    <entry>Print Sec Report</entry>
+                    <entry>-</entry>
+                    <entry>Yes: Prints a report. No (default): Does not print a report.</entry>
+                </row>
+                <row>
+                    <entry>TCP/IP</entry>
+                    <entry>Host Name</entry>
+                    <entry>-</entry>
+                    <entry>An alphanumeric string, up to 32 characters, used to identify the device. Default is NPIxxxxxx, where xxxxxx is the last six digits of the LAN hardware (MAC) address.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>IPv4 Settings</entry>
+                    <entry>Config Method</entry>
+                    <entry>Specifies the method for configuring TCP/IPv4 parameters: Bootp, DHCP (default), Auto IP, Manual.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>DHCP Release</entry>
+                    <entry>No (default): Saves current DHCP lease. Yes: Releases current DHCP lease and IP address.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>DHCP Renew</entry>
+                    <entry>No (default): Does not request DHCP lease renewal. Yes: Requests renewal of current DHCP lease.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Manual Settings</entry>
+                    <entry>Configure parameters directly: IP Address, Subnet Mask, Syslog Server, Default Gateway, Idle Timeout.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Default IP</entry>
+                    <entry>Specify default IP address: Auto IP or Legacy.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Primary DNS</entry>
+                    <entry>Specify IP address of a Primary DNS Server. Appears only if Manual configuration is prioritized over DHCP.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Secondary DNS</entry>
+                    <entry>Specify IP address of a Secondary DNS Server. Appears only if Manual configuration is prioritized over DHCP.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>IPv6 Settings</entry>
+                    <entry>Enable</entry>
+                    <entry>Enable or disable IPv6 operation: Off or On.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Address</entry>
+                    <entry>Manually configure an IPv6 address using the Manual Settings menu.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>DHCPv6 Policy</entry>
+                    <entry>Specify stateful auto-configuration method: Router Specified, Router Unavailable, Always.</entry>
+                </row>
+                <row>
+                    <entry>-</entry>
+                    <entry>-</entry>
+                    <entry>Primary DNS</entry>
+                    <entry>Specify an IPv6 address for a primary DNS server. Appears only if Manual configuration is prioritized over DHCP.</entry>
+                </row>
+            </table>
+        </section>
+    </refbody>
+</reference>

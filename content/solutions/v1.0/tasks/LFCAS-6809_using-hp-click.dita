@@ -1,0 +1,32 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="LFCAS-6809_using-hp-click">
+    <title>Using HP Click to Submit and Manage Print Jobs</title>
+    <taskbody>
+        <p>HP Click is a powerful tool that allows you to submit and manage print jobs directly from your computer to your HP printer. This task will guide you through the process of using HP Click to efficiently handle your printing needs.</p>
+        <steps>
+            <step>
+                <cmd>Launch HP Click on your computer.</cmd>
+                <info>Ensure that your computer is connected to the same network as your HP printer.</info>
+            </step>
+            <step>
+                <cmd>Select the files you wish to print.</cmd>
+                <info>You can choose from a variety of file formats including TIFF, JPEG, HP-GL/2, and PDF.</info>
+            </step>
+            <step>
+                <cmd>Configure your print settings.</cmd>
+                <info>HP Click allows you to adjust settings such as print quality, color options, and paper source. You can also choose to save these settings as a quickset for future use.</info>
+                <note type="important">Quickset changes made during a print job are temporary and will not be saved permanently unless explicitly saved.</note>
+            </step>
+            <step>
+                <cmd>Submit the print job.</cmd>
+                <info>Once you have configured your settings, click the 'Print' button to send the job to the printer.</info>
+            </step>
+            <step>
+                <cmd>Monitor the print job status.</cmd>
+                <info>HP Click provides real-time updates on the status of your print job. You can view the progress and manage the queue directly from the application.</info>
+            </step>
+        </steps>
+        <note type="warning">Ensure that your printer is powered on and connected to the network before submitting a print job.</note>
+        <p>By following these steps, you can efficiently use HP Click to manage your print jobs, ensuring high-quality output with minimal effort.</p>
+    </taskbody>
+</task>

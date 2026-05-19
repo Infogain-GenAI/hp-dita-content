@@ -1,0 +1,50 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="LFCAS-6741_install-printer-drivers">
+    <title>Installing HP Printer Drivers for Software Solutions</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure your HP printer is connected to the network.</cmd>
+                <info>
+                    <p>The printer should be connected to a network that supports IEEE 802.3 10Base-T Ethernet, IEEE 802.3u 100Base-TX Fast Ethernet, or 802.3ab 1000Base-T Gigabit Ethernet.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Power on the printer and allow it to auto-negotiate network settings.</cmd>
+                <info>
+                    <p>The printer will automatically configure itself to operate at a link speed of 10, 100, or 1000 Mbps and will use full- or half-duplex mode as necessary.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Access the printer's front panel to configure network settings if needed.</cmd>
+                <info>
+                    <p>Navigate to <b>Network &gt; Gigabit Ethernet &gt; Modify Configuration</b> to manually configure settings such as IP address, subnet mask, and gateway.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Install the HP printer drivers on your computer.</cmd>
+                <info>
+                    <p>Download the latest drivers from the HP website or use the installation CD provided with your printer.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions to complete the driver installation.</cmd>
+                <info>
+                    <p>Ensure that you select the correct printer model and network settings during the installation process.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Test the printer by printing a test page.</cmd>
+                <info>
+                    <p>This will confirm that the printer is correctly installed and configured on your network.</p>
+                </info>
+            </step>
+        </steps>
+        <note type="important">
+            <p>Ensure that any unused network protocols are disabled to reduce unnecessary network traffic and enhance security.</p>
+        </note>
+        <note type="warning">
+            <p>Incorrect configuration of network settings can lead to connectivity issues. Refer to the HP Jetdirect Print Server Administrator’s Guide for detailed configuration instructions.</p>
+        </note>
+    </taskbody>
+</task>

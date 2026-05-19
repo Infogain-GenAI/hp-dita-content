@@ -1,0 +1,11 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="LFCAS-6741_drivers-overview">
+    <title>HP Software Solutions — Drivers Overview</title>
+    <conbody>
+        <p>The HP Software Solutions provide a comprehensive suite of drivers that facilitate seamless communication between HP printers and network environments. These drivers are designed to support a variety of network protocols and configurations, ensuring compatibility and optimal performance across different network setups.</p>
+        <p>HP printers equipped with embedded Jetdirect print servers can connect to IEEE 802.3 10Base-T Ethernet, IEEE 802.3u 100Base-TX Fast Ethernet, and 802.3ab 1000Base-T Gigabit Ethernet compliant networks. The printers are capable of auto-negotiating link speeds and duplex modes, but manual configuration is also possible through the printer's front panel or other configuration tools.</p>
+        <p>Multiple network protocols, including TCP/IPv4 and TCP/IPv6, are supported simultaneously, allowing diverse network environments to communicate with the printer. Security features are integrated to control IP traffic and support IP Security (IPsec) protocols, enhancing the security of network communications.</p>
+        <note type="important">It is crucial to configure network protocols appropriately to ensure efficient communication and to reduce unnecessary network traffic. Disabling unused protocols can prevent unwanted broadcast messages and restrict access to authorized users only.</note>
+        <p>For detailed configuration options, users can access the printer network settings via the front panel menu. This includes options for setting TCP/IP parameters, enabling or disabling IPv6, and configuring DNS server addresses. Advanced configurations can be managed through the embedded Web server or the HP Jetdirect Print Server Administrator’s Guide.</p>
+    </conbody>
+</concept>

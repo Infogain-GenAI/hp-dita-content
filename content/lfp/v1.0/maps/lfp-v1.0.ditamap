@@ -1,0 +1,12 @@
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="lfp-v1.0">
+  <title>HP LFP Documentation v1.0</title>
+
+  <!-- Concepts -->
+  <topicref href="../concepts/LFCAS-6510_power-options-overview.dita"/>
+  <topicref href="../concepts/LFCAS-6511_hp-l2700-overview.dita"/>
+
+  <!-- Tasks -->
+  <topicref href="../tasks/LFCAS-6510_sleep-mode-timers.dita"/>
+  <topicref href="../tasks/LFCAS-6511_hp-l2700-getting-started.dita"/>
+</map>
