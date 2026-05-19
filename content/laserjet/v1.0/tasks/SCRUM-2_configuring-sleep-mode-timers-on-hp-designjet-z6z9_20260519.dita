@@ -1,0 +1,37 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="LFCAS-6510_sleep-mode-timers">
+    <title>Configuring Sleep Mode Timers on HP DesignJet Z6/Z9+</title>
+    <taskbody>
+        <p>This task describes how to configure the sleep mode timers on the HP DesignJet Z6/Z9+ printer series to optimize energy efficiency and ensure quick response times.</p>
+        <steps>
+            <step>
+                <cmd>Access the printer's front panel.</cmd>
+                <info>The front panel is a touch-sensitive screen located on the front right of the printer.</info>
+            </step>
+            <step>
+                <cmd>Tap the <b>System</b> icon on the front panel.</cmd>
+                <info>This will open the system settings menu where various printer options can be configured.</info>
+            </step>
+            <step>
+                <cmd>Select <b>Power options</b> from the menu.</cmd>
+                <info>Here you can adjust settings related to the printer's power management.</info>
+            </step>
+            <!-- NEW_START -->
+            <step>
+                <cmd>Choose <b>Sleep mode wait time</b>.</cmd>
+                <info>You can set the sleep mode timer from 5 to 60 minutes. The default time is 10 minutes, which includes 5 minutes in dim mode.</info>
+            </step>
+            <!-- NEW_END -->
+            <step>
+                <cmd>Adjust the timer to your preferred setting.</cmd>
+                <info>Use the slider or input field to set the desired time before the printer enters sleep mode.</info>
+            </step>
+            <step>
+                <cmd>Confirm your selection and exit the menu.</cmd>
+                <info>The printer will now enter sleep mode after the specified period of inactivity.</info>
+            </step>
+        </steps>
+        <note type="important">It is recommended to leave the printer powered on or in sleep mode to avoid wasting ink and time due to long preparation times after idle periods.</note>
+        <note type="warning">Ensure that the printer is not set to power off automatically if you require it to remain connected to the network for remote management tasks.</note>
+    </taskbody>
+</task>
