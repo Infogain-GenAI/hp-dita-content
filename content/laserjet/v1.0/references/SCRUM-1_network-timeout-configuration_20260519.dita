@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="network-timeout-config">
+    <title>Network Timeout Configuration</title>
+    <shortdesc>Details the default network timeout setting for the application.</shortdesc>
+    <refbody>
+        <section>
+            <title>Configuration Details</title>
+            <p>The <codeph>network.timeout</codeph> setting determines the default timeout duration for network operations.</p>
+            <table>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <entry><p>Parameter</p></entry>
+                            <entry><p>Default Value</p></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><p>network.timeout</p></entry>
+                            <entry><p>60 seconds</p></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>
