@@ -1,0 +1,37 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="HP-007">
+    <title>Connecting to a Wireless Network</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Be sure that the WLAN device is on.</cmd>
+            </step>
+            <step>
+                <cmd>On the taskbar, select the network status icon, and then select the right arrow icon next to the Wi-Fi button to see the available networks.</cmd>
+                <info>
+                    <p>If the WLAN is a security-enabled WLAN, you are prompted to enter a security code. Enter the code, and then select Next to complete the connection.</p>
+                    <note>
+                        <p>If no WLANs are listed, you might be out of range of a wireless router or access point.</p>
+                    </note>
+                    <note>
+                        <p>Depending on your computer model, if you do not see the WLAN that you want to connect to, follow one of these methods:</p>
+                        <ul>
+                            <li>On the taskbar, right-click the network status icon, and then select Network and Internet settings.</li>
+                            <li>Select WiFi, and then select Show available networks.</li>
+                        </ul>
+                        <p>A list of options is displayed, which allows you to manually search for and connect to a network or to create a new network connection.</p>
+                    </note>
+                </info>
+            </step>
+            <step>
+                <cmd>Connect to one of the available networks.</cmd>
+                <info>
+                    <p>After the connection is made, select the network status icon at the far right of the taskbar to verify the name and status of the connection.</p>
+                    <note>
+                        <p>The functional range (how far your wireless signals travel) depends on WLAN implementation, router manufacturer, and interference from other electronic devices or structural barriers such as walls and floors.</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="HP-014">
+    <title>Keyboard Action Keys Reference</title>
+    <refbody>
+        <section>
+            <p>This section provides a reference for the keyboard action keys available on your HP laptop. These keys allow you to perform specific functions quickly and efficiently.</p>
+        </section>
+        <table>
+            <title>Keyboard Action Keys and Descriptions</title>
+            <row>
+                <entry>Key</entry>
+                <entry>Description</entry>
+            </row>
+            <row>
+                <entry>fn+esc</entry>
+                <entry>Displays information about system hardware components and the system BIOS version number (select products only).</entry>
+            </row>
+            <!-- Additional rows for other action keys can be added here -->
+        </table>
+        <note>
+            <p>Note: The availability of keyboard action keys may vary depending on the specific model of your HP laptop.</p>
+        </note>
+    </refbody>
+</reference>

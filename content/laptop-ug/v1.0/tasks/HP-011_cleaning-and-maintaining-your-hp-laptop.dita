@@ -1,0 +1,57 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="HP-011">
+    <title>Cleaning and Maintaining Your HP Laptop</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Use Disk Cleanup to search the hard drive for unnecessary files that you can safely delete to free up disk space and help the computer run more efficiently.</cmd>
+                <info>
+                    <p>To run Disk Cleanup:</p>
+                    <ol>
+                        <li>Select the Search icon in the taskbar, type disk in the search box, and then select Disk Cleanup.</li>
+                        <li>Follow the on-screen instructions.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Update your programs and drivers regularly to resolve issues and provide new features and options.</cmd>
+                <info>
+                    <p>To update your programs and drivers, follow these steps:</p>
+                    <ol>
+                        <li>Select the Search icon in the taskbar, type support in the search box, and then select HP Support Assistant.</li>
+                        <li>Under My notebook, select Updates.</li>
+                        <li>Follow the on-screen instructions.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Clean your computer regularly to remove dirt and debris so that your device continues to operate at its best.</cmd>
+                <info>
+                    <p>To clean your computer:</p>
+                    <ol>
+                        <li>Wear disposable gloves made of latex (or nitrile gloves, if you are latex-sensitive) when cleaning the surfaces.</li>
+                        <li>Turn off your device and unplug the power cord and other connected external devices. Remove any installed batteries from items such as wireless keyboards.</li>
+                        <li>Moisten a microfiber cloth with water. The cloth should be moist, but not dripping wet.</li>
+                        <li>Wipe the exterior of the product gently with the moistened cloth.</li>
+                        <li>Start with the display (if applicable). Wipe carefully in one direction, and move from the top of the display to the bottom. Finish with any flexible cables, like power cord, keyboard cable, and USB cables.</li>
+                        <li>Be sure that surfaces have completely air-dried before turning the device on after cleaning.</li>
+                        <li>Discard the gloves after each cleaning. Clean your hands immediately after you remove the gloves.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Clean your computer with a disinfectant to help prevent the spread of harmful bacteria and viruses.</cmd>
+                <info>
+                    <p>Follow these steps when disinfecting high-touch, external surfaces on your computer:</p>
+                    <ol>
+                        <li>Wear disposable gloves made of latex (or nitrile gloves, if you are latex-sensitive) when cleaning the surfaces.</li>
+                        <li>Turn off your device and unplug the power cord and other connected external devices. Remove any installed batteries from items such as wireless keyboards.</li>
+                        <li>Moisten a microfiber cloth with a mixture of 70% isopropyl alcohol and 30% water. The cloth should be moist, but not dripping wet.</li>
+                        <li>Wipe the exterior of the product gently with the moistened cloth.</li>
+                        <li>Start with the display (if applicable). Wipe carefully in one direction, and move from the top of the display to the bottom. Finish with any flexible cables, like power cord, keyboard cable, and USB cables.</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

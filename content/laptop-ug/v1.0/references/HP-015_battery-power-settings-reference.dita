@@ -1,0 +1,94 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="HP-015">
+    <title>Battery Power Settings Reference</title>
+    <refbody>
+        <section>
+            <title>Managing Power</title>
+            <p>Your computer can operate on either battery power or external power. When the computer is running on battery power and an external power source is not available to charge the battery, it is important to monitor and conserve the battery charge. Some power management features described in this chapter might not be available on your computer.</p>
+        </section>
+        <section>
+            <title>Using Sleep and Hibernation</title>
+            <p>Windows has two power-saving states, Sleep and Hibernation.</p>
+            <ul>
+                <li>
+                    <p><b>Sleep</b>—The Sleep state automatically initiates after a period of inactivity. Your work is available in memory, allowing you to resume your work quickly. You can also initiate Sleep manually. Depending on your computer model, the Sleep state might also support Modern Standby mode. This mode keeps some internal operations awake and enables your computer to receive web notifications, such as emails, while in Sleep.</p>
+                </li>
+                <li>
+                    <p><b>Hibernation</b>—The Hibernation state is automatically initiated if the battery reaches a critical level or the computer has been in the Sleep state for an extended period of time. In the Hibernation state, your work is saved to a hibernation file and the computer powers down. You can also initiate Hibernation manually.</p>
+                </li>
+            </ul>
+            <note type="important">Several well-known vulnerabilities exist when a computer is in the Sleep state. To prevent an unauthorized user from accessing data on your computer, even encrypted data, HP recommends that you always initiate Hibernation instead of Sleep anytime the computer will be out of your physical possession. This practice is particularly important when you travel with your computer.</note>
+            <note type="important">To reduce the risk of possible audio and video degradation, loss of audio or video playback functionality, or loss of information, do not initiate Sleep while reading from or writing to a disc or an external media card.</note>
+        </section>
+        <section>
+            <title>Initiating and Exiting Sleep</title>
+            <p>You can initiate Sleep in several ways:</p>
+            <ul>
+                <li>Select the Start button, select the Power icon, and then select Sleep.</li>
+                <li>Close the display (select products only).</li>
+                <li>Press the Sleep hot key (select products only); for example, fn+f1 or fn+f12.</li>
+                <li>Briefly press the power button (select products only).</li>
+            </ul>
+            <p>You can exit Sleep in any of the following ways:</p>
+            <ul>
+                <li>Briefly press the power button.</li>
+                <li>If the computer is closed, raise the display (select products only).</li>
+                <li>Press a key on the keyboard (select products only).</li>
+                <li>Tap the touchpad (select products only).</li>
+            </ul>
+            <note type="important">If you have set a password to be required on exiting Sleep, you must enter your Windows password before your work returns to the screen.</note>
+        </section>
+        <section>
+            <title>Initiating and Exiting Hibernation (Select Products Only)</title>
+            <p>You can enable user-initiated Hibernation and change other power settings and timeouts using Power Options.</p>
+            <ol>
+                <li>Select the Search icon in the taskbar, type power in the search box, and then select Choose a power plan.</li>
+                <li>In the left pane, select Choose what the power buttons do (wording might vary by product).</li>
+                <li>Depending on your product, you can enable Hibernation for battery power or external power in any of the following ways:
+                    <ul>
+                        <li>Power button—Under Power and sleep buttons and lid settings (wording might vary by product), select When I press the power button, and then select Hibernate.</li>
+                        <li>Sleep button (select products only)—Under Power and sleep buttons and lid settings (wording might vary by product), select When I press the sleep button, and then select Hibernate.</li>
+                        <li>Lid (select products only)—Under Power and sleep buttons and lid settings (wording might vary by product), select When I close the lid, and then select Hibernate.</li>
+                        <li>Power menu—Select Change Settings that are currently unavailable, and then, under Shutdown settings, select the Hibernate check box.</li>
+                    </ul>
+                </li>
+                <li>Select Save changes.</li>
+            </ol>
+            <p>To initiate Hibernation, use the method that you enabled in step 3. To exit Hibernation, briefly press the power button.</p>
+            <note type="important">If you have set a password to be required on exiting Hibernation, you must enter your Windows password before your work returns to the screen.</note>
+        </section>
+        <section>
+            <title>Shutting Down (Turning Off) the Computer</title>
+            <p>The Shut down command closes all open programs, including the operating system, and then turns off the display and the computer. Shut down the computer when it will be unused and disconnected from external power for an extended period.</p>
+            <note type="important">Unsaved information is lost when the computer shuts down. Be sure to save your work before shutting down the computer.</note>
+            <p>The recommended procedure is to use the Windows Shut down command.</p>
+            <note>If the computer is in the Sleep state or in Hibernation, first exit Sleep or Hibernation by briefly pressing the power button.</note>
+            <ol>
+                <li>Save your work and close all open programs.</li>
+                <li>Select the Start button, select the Power icon, and then select Shut down.</li>
+            </ol>
+            <p>If the computer is unresponsive and you are unable to use the preceding shutdown procedures, try the following emergency procedures in the sequence provided:</p>
+            <ol>
+                <li>Press ctrl+alt+delete, select the Power icon, and then select Shut down.</li>
+                <li>Press and hold the power button for at least 4 seconds.</li>
+                <li>If your computer has a user-replaceable battery (select products only), disconnect the computer from external power, and then remove the battery.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Using the Power Icon</title>
+            <p>The Power icon is located on the Windows taskbar. The Power icon allows you to quickly access power settings and view the remaining battery charge.</p>
+            <ul>
+                <li>To view the percentage of remaining battery charge, place the mouse pointer over the Power icon.</li>
+                <li>To view power settings, right-click the Power icon, and then select Power and sleep settings.</li>
+            </ul>
+            <p>Different power icons indicate whether the computer is running on battery or external power. Placing the mouse pointer over the icon reveals a message if the battery has reached a low or critical battery level.</p>
+        </section>
+        <section>
+            <title>Running on Battery Power</title>
+            <p>When the computer has a charged battery and is not plugged into external power, the computer runs on battery power. When the computer is off and unplugged from external power, the battery slowly discharges. The computer displays a message when the battery reaches a low or critical battery level.</p>
+            <note type="warning">To reduce potential safety issues, use only the battery provided with the computer, a replacement battery provided by HP, or a compatible battery purchased from HP.</note>
+            <p>Computer battery life varies, depending on power management settings, programs running on the computer, screen brightness, external devices connected to the computer, and other factors.</p>
+            <note>Select computer products can switch between graphic controllers to conserve battery charge.</note>
+        </section>
+    </refbody>
+</reference>

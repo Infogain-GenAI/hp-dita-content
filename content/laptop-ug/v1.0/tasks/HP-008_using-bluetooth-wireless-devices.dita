@@ -1,0 +1,41 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="HP-008">
+    <title>Using Bluetooth Wireless Devices</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure that the Bluetooth device is turned on.</cmd>
+            </step>
+            <step>
+                <cmd>On the taskbar, select the network status icon.</cmd>
+                <info>
+                    <p>This icon is typically located at the far right of the taskbar.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the Bluetooth icon to view available Bluetooth devices.</cmd>
+                <info>
+                    <p>If the Bluetooth icon is not visible, ensure that Bluetooth is enabled in the operating system settings.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the Bluetooth device you wish to connect to from the list of available devices.</cmd>
+                <info>
+                    <p>Ensure that the device is in pairing mode and within range, typically within 10 meters (approximately 33 feet).</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Follow any on-screen instructions to complete the pairing process.</cmd>
+                <info>
+                    <p>You may be prompted to enter a passcode or confirm the connection on both devices.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Verify the connection status by checking the Bluetooth settings.</cmd>
+                <info>
+                    <p>Once connected, the device should appear as connected in the Bluetooth settings.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

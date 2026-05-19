@@ -1,0 +1,66 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="HP-012">
+    <title>Backing Up and Restoring Your Computer</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Back up your information using Windows tools or HP software.</cmd>
+                <info>
+                    <p>HP recommends that you back up your information immediately after initial setup. You can do this task either using Windows Backup locally with an external USB flash drive or using online tools.</p>
+                    <note type="note">If computer storage is 32 GB or less, Microsoft® System Restore is disabled by default.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Create recovery media using the HP Cloud Recovery Download Tool.</cmd>
+                <info>
+                    <p>You can use the HP Cloud Recovery Download Tool to create HP Recovery media on a bootable USB flash drive.</p>
+                    <p>For details, go to <xref href="http://www.hp.com" scope="external">http://www.hp.com</xref>, search for HP Cloud Recovery, and then select the result that matches the type of computer that you have.</p>
+                    <note type="note">If you cannot create recovery media yourself, contact support to obtain recovery discs. Go to <xref href="http://www.hp.com/support" scope="external">http://www.hp.com/support</xref>, select your country or region, and then follow the on-screen instructions.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Restore your system using available tools.</cmd>
+                <info>
+                    <p>HP recommends that you attempt to restore your system using the Restoring and recovery methods.</p>
+                    <ol>
+                        <li>Run a Microsoft System Restore.</li>
+                        <li>Run Reset this PC.</li>
+                        <li>Recover using HP Recovery media.</li>
+                    </ol>
+                    <note type="note">The options Remove everything and then Fully clean the drive can take several hours to complete and leave no information on your computer. It is the safest way to reset your computer before you recycle it.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Recover your system using HP Recovery media.</cmd>
+                <info>
+                    <p>Insert the HP Recovery media, and then restart the computer.</p>
+                    <note type="note">HP recommends that you follow the Restoring and recovery methods to restore your computer before you obtain and use the HP recovery discs. Using a recent backup can return your machine to a working state sooner than using the HP recovery discs. After the system is restored, reinstalling all the operating system software released since your initial purchase can be a lengthy process.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Change the computer boot order if necessary.</cmd>
+                <info>
+                    <p>If your computer does not restart using the HP Recovery media, you can change the computer boot order, which is the order of devices listed in BIOS for startup information.</p>
+                    <steps>
+                        <step>
+                            <cmd>Insert the HP Recovery media.</cmd>
+                        </step>
+                        <step>
+                            <cmd>Access the system Startup menu.</cmd>
+                            <info>
+                                <ul>
+                                    <li>For computers or tablets with keyboards attached, turn on or restart the computer or tablet, quickly press <kbd>esc</kbd>, and then press <kbd>f9</kbd> for boot options.</li>
+                                    <li>For tablets without keyboards, turn on or restart the tablet, quickly press and hold the volume up button, and then select <kbd>f9</kbd>.</li>
+                                    <li>Or, turn on or restart the tablet, quickly press and hold the volume down button, and then select <kbd>f9</kbd>.</li>
+                                </ul>
+                            </info>
+                        </step>
+                        <step>
+                            <cmd>Select the optical drive or USB flash drive from which you want to boot, and then follow the on-screen instructions.</cmd>
+                        </step>
+                    </steps>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

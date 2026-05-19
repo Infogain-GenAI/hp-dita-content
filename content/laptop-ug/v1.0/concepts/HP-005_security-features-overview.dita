@@ -1,0 +1,52 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="HP-005">
+    <title>Security Features Overview</title>
+    <conbody>
+        <p>Computer security is essential for protecting the confidentiality, integrity, and availability of your information. Standard security solutions provided by the Windows operating system, HP applications, Computer Setup (BIOS), and other third-party software can help protect your computer from a variety of risks, such as viruses, worms, and other types of malicious code.</p>
+        <note>Some security features listed in this chapter might not be available on your computer.</note>
+        <section>
+            <title>Protecting the computer</title>
+            <p>Standard security features provided by the Windows operating system and Computer Setup (BIOS, which runs under any operating system) can protect your personal settings and data from a variety of risks.</p>
+            <note>Security solutions are designed to act as deterrents. These deterrents may not prevent a product from being mishandled or stolen.</note>
+            <note>Before you send your computer for service, back up and delete confidential files, and remove all password settings.</note>
+            <note>Your computer supports Computrace, which is an online security-based tracking and recovery service available in select regions. If the computer is stolen, Computrace can track the computer if the unauthorized user accesses the Internet. You must purchase the software and subscribe to the service to use Computrace. For information about ordering the Computrace software, go to <xref href="http://www.hp.com">http://www.hp.com</xref>.</note>
+        </section>
+        <table>
+            <title>Security solutions</title>
+            <row>
+                <entry>Computer risk</entry>
+                <entry>Security feature</entry>
+            </row>
+            <row>
+                <entry>Unauthorized use of the computer</entry>
+                <entry>HP Client Security software, in combination with a password, smart card, contactless card, registered fingerprints, or other authentication credential; BIOS power-on password</entry>
+            </row>
+            <row>
+                <entry>Unauthorized access to Computer Setup (BIOS)</entry>
+                <entry>BIOS administrator password in Computer Setup*</entry>
+            </row>
+            <row>
+                <entry>Unauthorized access to the contents of a hard drive</entry>
+                <entry>DriveLock password (select products only) in Computer Setup*</entry>
+            </row>
+            <row>
+                <entry>Unauthorized startup from an optional external optical drive</entry>
+                <entry>Boot options feature in Computer Setup* (select products only), optional external hard drive (select products only), or internal network adapter</entry>
+            </row>
+            <row>
+                <entry>Unauthorized access to a Windows user account</entry>
+                <entry>Windows user password</entry>
+            </row>
+            <row>
+                <entry>Unauthorized access to data</entry>
+                <entry>Windows BitLocker</entry>
+            </row>
+            <row>
+                <entry>Unauthorized removal of the computer</entry>
+                <entry>Security cable slot (used with an optional security cable on select products only)</entry>
+            </row>
+        </table>
+        <note>*Computer Setup is an embedded, ROM-based utility that can be used even when the operating system is not working or will not load. You can use a pointing device (touchpad, pointing stick, or USB mouse) or the keyboard to navigate and make selections in Computer Setup.</note>
+        <note>On tablets without keyboards, you can use the touch screen.</note>
+    </conbody>
+</concept>

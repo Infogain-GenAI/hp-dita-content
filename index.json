@@ -1,60 +1,187 @@
 {
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics in this repository",
-    "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-19T07:57:05.098140+00:00",
-    "total_topics": 5
+    "generated_by": "HP Docs AI Assistant \u2013 PDF Import",
+    "last_updated": "2026-05-19T11:40:59.369763+00:00",
+    "total_topics": 16,
+    "source_document": "HP Laptop User Guide (2024)"
   },
   "topics": [
     {
-      "ticket_id": "SCRUM-1",
-      "title": "Install HP LaserJet Driver on Windows 11",
-      "topic_type": "task",
-      "product": "laserjet",
+      "ticket_id": null,
+      "title": "HP Laptop User Guide Overview",
+      "topic_type": "concept",
+      "product": "laptop-ug",
       "version": "v1.0",
-      "filename": "SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
-      "path": "content/laserjet/v1.0/tasks/SCRUM-1_install-hp-laserjet-driver-on-windows-11_20260514.dita",
-      "created_at": "2026-05-14T11:36:25.300833+00:00"
+      "filename": "HP-001_hp-laptop-user-guide-overview.dita",
+      "path": "content/laptop-ug/v1.0/concepts/HP-001_hp-laptop-user-guide-overview.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
     },
     {
-      "ticket_id": "SCRUM-1",
-      "title": "Network Timeout Configuration",
+      "ticket_id": null,
+      "title": "HP Laptop Hardware Components",
+      "topic_type": "concept",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-002_hp-laptop-hardware-components.dita",
+      "path": "content/laptop-ug/v1.0/concepts/HP-002_hp-laptop-hardware-components.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Network Connection Features",
+      "topic_type": "concept",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-003_network-connection-features.dita",
+      "path": "content/laptop-ug/v1.0/concepts/HP-003_network-connection-features.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Entertainment Features Overview",
+      "topic_type": "concept",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-004_entertainment-features-overview.dita",
+      "path": "content/laptop-ug/v1.0/concepts/HP-004_entertainment-features-overview.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Security Features Overview",
+      "topic_type": "concept",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-005_security-features-overview.dita",
+      "path": "content/laptop-ug/v1.0/concepts/HP-005_security-features-overview.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Getting Started with Your HP Laptop",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-006_getting-started-with-your-hp-laptop.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-006_getting-started-with-your-hp-laptop.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Connecting to a Wireless Network",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-007_connecting-to-a-wireless-network.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-007_connecting-to-a-wireless-network.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Using Bluetooth Wireless Devices",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-008_using-bluetooth-wireless-devices.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-008_using-bluetooth-wireless-devices.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Managing Sleep and Hibernation",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-009_managing-sleep-and-hibernation.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-009_managing-sleep-and-hibernation.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Setting a BIOS Administrator Password",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-010_setting-a-bios-administrator-password.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-010_setting-a-bios-administrator-password.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Cleaning and Maintaining Your HP Laptop",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-011_cleaning-and-maintaining-your-hp-laptop.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-011_cleaning-and-maintaining-your-hp-laptop.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Backing Up and Restoring Your Computer",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-012_backing-up-and-restoring-your-computer.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-012_backing-up-and-restoring-your-computer.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Using Touchpad and Touch Screen Gestures",
+      "topic_type": "task",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-013_using-touchpad-and-touch-screen-gestures.dita",
+      "path": "content/laptop-ug/v1.0/tasks/HP-013_using-touchpad-and-touch-screen-gestures.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Keyboard Action Keys Reference",
       "topic_type": "reference",
-      "product": "laserjet",
+      "product": "laptop-ug",
       "version": "v1.0",
-      "filename": "SCRUM-1_network-timeout-configuration_20260514.dita",
-      "path": "content/laserjet/v1.0/references/SCRUM-1_network-timeout-configuration_20260514.dita",
-      "created_at": "2026-05-14T11:36:32.955839+00:00"
+      "filename": "HP-014_keyboard-action-keys-reference.dita",
+      "path": "content/laptop-ug/v1.0/references/HP-014_keyboard-action-keys-reference.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
     },
     {
-      "ticket_id": "SCRUM-1",
-      "title": "Update HP LaserJet Driver Installation for Windows 11",
-      "topic_type": "task",
-      "product": "laserjet",
-      "version": "v1.0",
-      "filename": "SCRUM-1_update-hp-laserjet-driver-installation-for-windows-11_20260518.dita",
-      "path": "content/laserjet/v1.0/tasks/SCRUM-1_update-hp-laserjet-driver-installation-for-windows-11_20260518.dita",
-      "created_at": "2026-05-18T16:26:18.535844+00:00"
-    },
-    {
-      "ticket_id": "SCRUM-1",
-      "title": "Install HP Driver on Windows 11",
-      "topic_type": "task",
-      "product": "laserjet",
-      "version": "v1.0",
-      "filename": "SCRUM-1_install-hp-driver-on-windows-11_20260519.dita",
-      "path": "content/laserjet/v1.0/tasks/SCRUM-1_install-hp-driver-on-windows-11_20260519.dita",
-      "created_at": "2026-05-19T07:56:57.975914+00:00"
-    },
-    {
-      "ticket_id": "SCRUM-1",
-      "title": "Network Timeout Configuration",
+      "ticket_id": null,
+      "title": "Battery Power Settings Reference",
       "topic_type": "reference",
-      "product": "laserjet",
+      "product": "laptop-ug",
       "version": "v1.0",
-      "filename": "SCRUM-1_network-timeout-configuration_20260519.dita",
-      "path": "content/laserjet/v1.0/references/SCRUM-1_network-timeout-configuration_20260519.dita",
-      "created_at": "2026-05-19T07:57:05.098117+00:00"
+      "filename": "HP-015_battery-power-settings-reference.dita",
+      "path": "content/laptop-ug/v1.0/references/HP-015_battery-power-settings-reference.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
+    },
+    {
+      "ticket_id": null,
+      "title": "Computer Security Settings Reference",
+      "topic_type": "reference",
+      "product": "laptop-ug",
+      "version": "v1.0",
+      "filename": "HP-016_computer-security-settings-reference.dita",
+      "path": "content/laptop-ug/v1.0/references/HP-016_computer-security-settings-reference.dita",
+      "created_at": "2026-05-19T11:40:59.369763+00:00",
+      "source": "HP Laptop User Guide (2024) - PDF import"
     }
   ]
 }

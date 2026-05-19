@@ -1,0 +1,95 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="HP-002">
+    <title>HP Laptop Hardware Components</title>
+    <conbody>
+        <p>Your computer features top-rated components. This chapter provides details about your components, where they are located, and how they work.</p>
+        <section>
+            <title>Locating hardware</title>
+            <p>Use these instructions to find out what hardware is installed on your computer.</p>
+            <ul>
+                <li>Select the Search icon in the taskbar, type <b>device manager</b> in the search box, and then select the Device Manager app. A list displays all the devices installed on your computer.</li>
+            </ul>
+            <p>For information about system hardware components and the system BIOS version number, press <b>fn+esc</b> (select products only).</p>
+        </section>
+        <section>
+            <title>Locating software</title>
+            <p>Use these instructions to find out what software is installed on your computer:</p>
+            <ul>
+                <li>Right-click the Start button, and then select <b>Apps and Features</b>.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Right-side components</title>
+            <p>Use the illustration and table to identify the components on the right side of the computer.</p>
+            <table>
+                <title>Right-side components and their descriptions</title>
+                <row>
+                    <entry>Component</entry>
+                    <entry>Description</entry>
+                </row>
+                <row>
+                    <entry>(1) SIM card slot</entry>
+                    <entry>Supports a wireless subscriber identity module (SIM) card.</entry>
+                </row>
+                <row>
+                    <entry>(2) USB 5 Gbps powered port</entry>
+                    <entry>Connects and supplies power to a USB device, provides high-speed data transfer, and (for select products) charges small devices (such as a smartphone) when the computer is on or in Sleep mode.</entry>
+                </row>
+                <row>
+                    <entry>(3) RJ-45 (network) jack/status lights</entry>
+                    <entry>Connects a network cable. Green (left): The network is connected. Amber (right): Activity is occurring on the network.</entry>
+                </row>
+                <row>
+                    <entry>(4) Security cable slot</entry>
+                    <entry>Attaches an optional security cable to the computer.</entry>
+                </row>
+            </table>
+        </section>
+        <section>
+            <title>Left-side components</title>
+            <p>Use the illustration and table to identify the components on the left side of the computer.</p>
+            <note>Refer to the illustration that most closely matches your computer.</note>
+            <table>
+                <title>Left-side components and their descriptions</title>
+                <row>
+                    <entry>Component</entry>
+                    <entry>Description</entry>
+                </row>
+                <row>
+                    <entry>(1) HDMI port</entry>
+                    <entry>Connects an optional video or audio device, such as a high-definition television, any compatible digital or audio component, or a high-speed High Definition Multimedia Interface (HDMI) device.</entry>
+                </row>
+                <row>
+                    <entry>(2) USB 5 Gbps port with HP Sleep and Charge</entry>
+                    <entry>Connects a USB device, provides high-speed data transfer, and charges small devices (such as a smartphone), even when the computer is off.</entry>
+                </row>
+                <row>
+                    <entry>(3) USB Type-C® power connector port, 10 Gbps</entry>
+                    <entry>Connects an AC adapter that has a USB Type-C connector, supplying power to the computer and, if needed, charging the computer battery. Connects a USB device, provides high-speed data transfer, and (for select products) charges small devices (such as a smartphone) when the computer is on or in Sleep mode. Connects a display device that has a USB Type-C connector, providing DisplayPort output.</entry>
+                </row>
+                <row>
+                    <entry>(4) Power light</entry>
+                    <entry>On: The computer is on. Blinking: The computer is in the Sleep state, a power-saving state. The computer shuts off power to the display and other unneeded components. Off: The computer is off or in Hibernation. Hibernation is a power-saving state that uses the least amount of power.</entry>
+                </row>
+                <row>
+                    <entry>(5) Audio-out (headphone)/Audio-in (microphone) combo jack</entry>
+                    <entry>Connects optional powered stereo speakers, headphones, earbuds, a headset, or a television audio cable. Also connects an optional headset microphone. This jack does not support optional standalone microphones.</entry>
+                </row>
+                <row>
+                    <entry>(6) USB Type-C power connector and Thunderbolt™ port with HP Sleep and Charge and DisplayPort output</entry>
+                    <entry>Connects an AC adapter that has a USB Type-C connector, supplying power to the computer and, if needed, charging the computer battery. Connects a USB device, provides high-speed data transfer, and charges small devices (such as a smartphone), even when the computer is off. Connects a display device that has a USB Type-C connector, providing DisplayPort output.</entry>
+                </row>
+                <row>
+                    <entry>(7) Smart card reader</entry>
+                    <entry>Supports optional smart cards.</entry>
+                </row>
+            </table>
+        </section>
+        <section>
+            <title>Display components</title>
+            <p>Use the illustration and table to identify the display components.</p>
+            <p>Your computer display is shipped from the factory in low blue light mode for improved eye comfort and safety. Also, blue light mode automatically adjusts blue light emissions when you are using the computer at night or for reading.</p>
+            <note>To reduce the risk of serious injury, read the Safety & Comfort Guide. It describes proper workstation setup and proper posture, health, and work habits for computer users. The Safety & Comfort Guide also provides important electrical and mechanical safety information.</note>
+        </section>
+    </conbody>
+</concept>

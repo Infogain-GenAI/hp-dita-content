@@ -1,0 +1,142 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="HP-016">
+    <title>Computer Security Settings Reference</title>
+    <refbody>
+        <section>
+            <title>Security</title>
+            <p>Computer security is essential for protecting the confidentiality, integrity, and availability of your information. Standard security solutions provided by the Windows operating system, HP applications, Computer Setup (BIOS), and other third-party software can help protect your computer from a variety of risks, such as viruses, worms, and other types of malicious code.</p>
+            <note>Some security features listed in this chapter might not be available on your computer.</note>
+        </section>
+        <section>
+            <title>Protecting the computer</title>
+            <p>Standard security features provided by the Windows operating system and Computer Setup (BIOS, which runs under any operating system) can protect your personal settings and data from a variety of risks.</p>
+            <note>Security solutions are designed to act as deterrents. These deterrents may not prevent a product from being mishandled or stolen.</note>
+            <note>Before you send your computer for service, back up and delete confidential files, and remove all password settings.</note>
+            <note>Some features listed in this chapter might not be available on your computer.</note>
+            <note>Your computer supports Computrace, which is an online security-based tracking and recovery service available in select regions. If the computer is stolen, Computrace can track the computer if the unauthorized user accesses the Internet. You must purchase the software and subscribe to the service to use Computrace. For information about ordering the Computrace software, go to <xref href="http://www.hp.com">http://www.hp.com</xref>.</note>
+        </section>
+        <section>
+            <title>Security solutions</title>
+            <table>
+                <title>Table 8-1 Security solutions</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <entry>Computer risk</entry>
+                            <entry>Security feature</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Unauthorized use of the computer</entry>
+                            <entry>HP Client Security software, in combination with a password, smart card, contactless card, registered fingerprints, or other authentication credential; BIOS power-on password</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized access to Computer Setup (BIOS)</entry>
+                            <entry>BIOS administrator password in Computer Setup*</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized access to the contents of a hard drive</entry>
+                            <entry>DriveLock password (select products only) in Computer Setup*</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized startup from an optional external optical drive</entry>
+                            <entry>Boot options feature in Computer Setup* (select products only), optional external hard drive (select products only), or internal network adapter</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized access to a Windows user account</entry>
+                            <entry>Windows user password</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized access to data</entry>
+                            <entry>Windows BitLocker</entry>
+                        </row>
+                        <row>
+                            <entry>Unauthorized removal of the computer</entry>
+                            <entry>Security cable slot (used with an optional security cable on select products only)</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note>*Computer Setup is an embedded, ROM-based utility that can be used even when the operating system is not working or will not load. You can use a pointing device (touchpad, pointing stick, or USB mouse) or the keyboard to navigate and make selections in Computer Setup.</note>
+            <note>On tablets without keyboards, you can use the touch screen.</note>
+        </section>
+        <section>
+            <title>Using passwords</title>
+            <p>A password is a group of characters that you choose to secure your computer information. You can set several types of passwords, depending on how you want to control access to your information. You can set passwords in Windows or in Computer Setup, which is preinstalled on the computer.</p>
+            <ul>
+                <li>BIOS administrator, power-on, and DriveLock passwords are set in Computer Setup and are managed by the system BIOS.</li>
+                <li>Windows passwords are set only in the Windows operating system.</li>
+                <li>If you forget both the DriveLock user password and the DriveLock master password set in Computer Setup, the hard drive that is protected by the passwords is permanently locked and can no longer be used.</li>
+            </ul>
+            <p>You can use the same password for a Computer Setup feature and for a Windows security feature.</p>
+            <p>Use the following tips for creating and saving passwords:</p>
+            <ul>
+                <li>When creating passwords, follow the requirements set by the program.</li>
+                <li>Do not use the same password for multiple applications or websites, and do not reuse your Windows password for any other application or website.</li>
+                <li>Use the Password Manager feature of HP Client Security to store your user names and passwords for your websites and applications. You can securely read them in the future if they cannot be remembered.</li>
+                <li>Do not store passwords in a file on the computer.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Setting passwords in Windows</title>
+            <p>Windows passwords can help protect your computer from unauthorized access.</p>
+            <table>
+                <title>Table 8-2 Types of Windows passwords and their functions</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <entry>Password</entry>
+                            <entry>Function</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Administrator password*</entry>
+                            <entry>Protects access to a Windows administrator-level account. <note>Setting the Windows administrator password does not set the BIOS administrator password.</note></entry>
+                        </row>
+                        <row>
+                            <entry>User password*</entry>
+                            <entry>Protects access to a Windows user account.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note>*For information about setting a Windows administrator password or a Windows user password, select the Search icon in the taskbar, type support in the search box, and then select the HP Support Assistant app.</note>
+        </section>
+        <section>
+            <title>Setting passwords in Computer Setup</title>
+            <p>Computer Setup passwords provide additional layers of security for your computer.</p>
+            <table>
+                <title>Table 8-3 Types of Computer Setup passwords and their functions</title>
+                <tgroup cols="2">
+                    <thead>
+                        <row>
+                            <entry>Password</entry>
+                            <entry>Function</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>BIOS administrator password*</entry>
+                            <entry>Protects access to Computer Setup. <note>If features have been enabled to prevent removing the BIOS administrator password, you may not be able to remove it until those features have been disabled.</note></entry>
+                        </row>
+                        <row>
+                            <entry>Power-on password</entry>
+                            <entry>Must be entered each time you turn on or restart the computer. <note>If you forget your power-on password, you cannot turn on or restart the computer.</note></entry>
+                        </row>
+                        <row>
+                            <entry>DriveLock master password*</entry>
+                            <entry>Protects access to the internal hard drive that is protected by DriveLock, and is set under DriveLock Passwords during the enable process. This password is also used to remove DriveLock protection.</entry>
+                        </row>
+                        <row>
+                            <entry>DriveLock user password*</entry>
+                            <entry>Protects access to the internal hard drive that is protected by DriveLock, and is set under DriveLock Passwords during the enable process.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note>*For details about each of these passwords, see the following topics.</note>
+        </section>
+    </refbody>
+</reference>
