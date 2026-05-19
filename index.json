@@ -2,8 +2,8 @@
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics",
     "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-19T18:18:52.111536+00:00",
-    "total_topics": 11,
+    "last_updated": "2026-05-19T18:19:03.489992+00:00",
+    "total_topics": 12,
     "source_tickets": "LFCAS-6510/SCRUM-2, LFCAS-6511/SCRUM-3, LFCAS-6741/SCRUM-4, LFCAS-6809/SCRUM-5, LFCAS-6810/SCRUM-6",
     "ticket_aliases": {
       "SCRUM-2": "LFCAS-6510",
@@ -133,6 +133,16 @@
       "filename": "SCRUM-2_configuring-sleep-mode-timers-on-hp-designjet-z6z9_20260519.dita",
       "path": "content/lfp/v1.0/tasks/SCRUM-2_configuring-sleep-mode-timers-on-hp-designjet-z6z9_20260519.dita",
       "created_at": "2026-05-19T18:18:52.111504+00:00"
+    },
+    {
+      "ticket_id": "SCRUM-2",
+      "title": "HP DesignJet Z6/Z9+ Power Options Overview",
+      "topic_type": "concept",
+      "product": "lfp",
+      "version": "v1.0",
+      "filename": "SCRUM-2_hp-designjet-z6z9-power-options-overview_20260519.dita",
+      "path": "content/lfp/v1.0/concepts/SCRUM-2_hp-designjet-z6z9-power-options-overview_20260519.dita",
+      "created_at": "2026-05-19T18:19:03.489954+00:00"
     }
   ]
 }

@@ -1,0 +1,28 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="LFCAS-6510_power-options-overview">
+    <title>HP DesignJet Z6/Z9+ Power Options Overview</title>
+    <conbody>
+        <p>The HP DesignJet Z6/Z9+ printers are designed to optimize energy efficiency while maintaining high performance. This overview provides insights into the power options available for these printers, including sleep mode settings and power management features.</p>
+        <section>
+            <title>Power Management</title>
+            <p>The printer can be left powered on without wasting energy, which improves response time and overall system reliability. When not in use for a specified period, the printer enters sleep mode to conserve energy. Interaction with the printer's front-panel display or sending a new print job will wake the printer from sleep mode, allowing it to resume printing immediately.</p>
+            <note type="important">It is recommended to leave the printer powered on or in sleep mode to avoid wasting ink and time, as the printer performs maintenance on the printheads during sleep mode.</note>
+        </section>
+        <section>
+            <title>Sleep Mode</title>
+            <!-- NEW_START -->
+            <p>Sleep mode reduces the printer's power consumption by turning off certain components while maintaining network connectivity. The printer can be awakened from sleep mode by pressing the power button, opening a door, or sending a print job. The sleep mode wait time can be set from <b>5 to 240 minutes</b>. The default is <b>20 minutes</b>.</p>
+            <!-- NEW_END -->
+            <note type="important">Earlier versions of the User Guide incorrectly stated the timer range as 5–60 minutes with a 10-minute default. The correct values per LFCAS-6510 are: range 5–240 minutes, default 20 minutes.</note>
+        </section>
+        <section>
+            <title>Changing Power Options</title>
+            <p>To adjust the sleep mode wait time or other power settings, use the printer's front panel:</p>
+            <ul>
+                <li>Tap the settings icon, then select <b>System</b>.</li>
+                <li>Navigate to <b>Power options</b> and adjust the <b>Sleep mode wait time</b> as needed.</li>
+            </ul>
+            <p>These settings can also be modified through the Embedded Web Server under the Settings pane.</p>
+        </section>
+    </conbody>
+</concept>
