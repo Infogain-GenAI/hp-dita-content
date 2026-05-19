@@ -19,7 +19,7 @@
             <!-- NEW_START -->
             <step>
                 <cmd>Choose <b>Sleep mode wait time</b>.</cmd>
-                <info>You can set the sleep mode timer from 5 to 240 minutes. The default time is 20 minutes.</info>
+                <info>You can set the sleep mode timer from 5 to 240 minutes. The default time is 20 minutes, which includes 5 minutes in dim mode.</info>
             </step>
             <!-- NEW_END -->
             <step>
