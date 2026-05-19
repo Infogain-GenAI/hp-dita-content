@@ -1,11 +1,31 @@
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+﻿<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="LFCAS-6741_drivers-overview">
-    <title>HP Software Solutions — Drivers Overview</title>
+    <title>HP Software Solutions - Drivers Overview</title>
     <conbody>
-        <p>The HP Software Solutions provide a comprehensive suite of drivers that facilitate seamless communication between HP printers and network environments. These drivers are designed to support a variety of network protocols and configurations, ensuring compatibility and optimal performance across different network setups.</p>
-        <p>HP printers equipped with embedded Jetdirect print servers can connect to IEEE 802.3 10Base-T Ethernet, IEEE 802.3u 100Base-TX Fast Ethernet, and 802.3ab 1000Base-T Gigabit Ethernet compliant networks. The printers are capable of auto-negotiating link speeds and duplex modes, but manual configuration is also possible through the printer's front panel or other configuration tools.</p>
-        <p>Multiple network protocols, including TCP/IPv4 and TCP/IPv6, are supported simultaneously, allowing diverse network environments to communicate with the printer. Security features are integrated to control IP traffic and support IP Security (IPsec) protocols, enhancing the security of network communications.</p>
-        <note type="important">It is crucial to configure network protocols appropriately to ensure efficient communication and to reduce unnecessary network traffic. Disabling unused protocols can prevent unwanted broadcast messages and restrict access to authorized users only.</note>
-        <p>For detailed configuration options, users can access the printer network settings via the front panel menu. This includes options for setting TCP/IP parameters, enabling or disabling IPv6, and configuring DNS server addresses. Advanced configurations can be managed through the embedded Web server or the HP Jetdirect Print Server Administrator’s Guide.</p>
+        <p>HP large-format printers support several driver options for Windows and macOS, each suited to different workflow requirements. Selecting the correct driver ensures reliable connectivity, accurate color output, and full access to printer features.</p>
+        <section>
+            <title>HP DesignJet Printer Driver</title>
+            <p>The HP DesignJet printer driver integrates the printer as a standard system printer in Windows or macOS. Once installed, users can print to the device from any application using the operating system print dialog. The driver exposes print-quality presets, paper type selection, color management profiles, and scaling options.</p>
+            <ul>
+                <li>Supported on Windows 10/11 (64-bit) and macOS 12 or later.</li>
+                <li>Install via the HP Support website or the HP Smart app.</li>
+                <li>Supports PostScript and HP-PCL job languages depending on the printer model.</li>
+            </ul>
+        </section>
+        <section>
+            <title>HP Click Printing Software</title>
+            <p>HP Click is a free, lightweight desktop application designed for direct file submission to HP large-format printers without requiring a full RIP. It is the recommended driver for simple sign and display workflows.</p>
+            <ul>
+                <li>Accepts PDF, TIFF, JPEG, and HP-GL/2 file formats.</li>
+                <li>Provides quicksets for common substrates and print-quality combinations.</li>
+                <li>Installs a virtual system printer (HP Click Driver) that lets users print from any application via the OS print dialog.</li>
+                <li>Available for Windows 10/11 and macOS 12 or later.</li>
+            </ul>
+        </section>
+        <section>
+            <title>RIP Software Drivers</title>
+            <p>For production environments requiring advanced color management, nesting, or tiling, third-party RIP software (such as SAi FlexiPRINT, Onyx, or Caldera) connects to the printer via its IP address or USB. RIP drivers offer the most precise control over ink density, color profiling, and media profiles.</p>
+            <note type="important">Always download printer drivers from the official HP Support website to ensure driver authenticity and compatibility with the current firmware version.</note>
+        </section>
     </conbody>
 </concept>

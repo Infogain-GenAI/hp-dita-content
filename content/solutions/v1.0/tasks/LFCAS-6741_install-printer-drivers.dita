@@ -1,50 +1,48 @@
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+﻿<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="LFCAS-6741_install-printer-drivers">
     <title>Installing HP Printer Drivers for Software Solutions</title>
     <taskbody>
+        <prereq>
+            <p>Ensure the printer is powered on and connected to the same network as the host computer, or connected via USB. Administrator rights are required on the computer.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd>Ensure your HP printer is connected to the network.</cmd>
+                <cmd>Go to <b>hp.com/support</b> and search for your HP printer model.</cmd>
                 <info>
-                    <p>The printer should be connected to a network that supports IEEE 802.3 10Base-T Ethernet, IEEE 802.3u 100Base-TX Fast Ethernet, or 802.3ab 1000Base-T Gigabit Ethernet.</p>
+                    <p>Select <b>Software, Drivers and Firmware</b> from the product support page, then choose your operating system.</p>
                 </info>
             </step>
             <step>
-                <cmd>Power on the printer and allow it to auto-negotiate network settings.</cmd>
+                <cmd>Download the full driver package for your operating system.</cmd>
                 <info>
-                    <p>The printer will automatically configure itself to operate at a link speed of 10, 100, or 1000 Mbps and will use full- or half-duplex mode as necessary.</p>
+                    <p>For Windows: download the <b>HP DesignJet Full Feature Software and Driver</b> (.exe installer).
+                    For macOS: download the <b>HP Easy Start</b> package (.dmg).</p>
                 </info>
             </step>
             <step>
-                <cmd>Access the printer's front panel to configure network settings if needed.</cmd>
+                <cmd>Run the installer and follow the on-screen prompts.</cmd>
                 <info>
-                    <p>Navigate to <b>Network &gt; Gigabit Ethernet &gt; Modify Configuration</b> to manually configure settings such as IP address, subnet mask, and gateway.</p>
+                    <p>When prompted for a connection type, select <b>Network (Ethernet/Wi-Fi)</b> or <b>USB</b> as appropriate. The installer will scan for available printers on the network.</p>
                 </info>
             </step>
             <step>
-                <cmd>Install the HP printer drivers on your computer.</cmd>
+                <cmd>Select your printer from the list of discovered devices and click <b>Next</b>.</cmd>
                 <info>
-                    <p>Download the latest drivers from the HP website or use the installation CD provided with your printer.</p>
+                    <p>If the printer is not found automatically, enter its IP address manually. The IP address is shown on the printer front panel under <b>Connectivity &gt; Network &gt; IP address</b>.</p>
                 </info>
             </step>
             <step>
-                <cmd>Follow the on-screen instructions to complete the driver installation.</cmd>
+                <cmd>Complete the installation and print a test page to confirm the driver is working.</cmd>
                 <info>
-                    <p>Ensure that you select the correct printer model and network settings during the installation process.</p>
-                </info>
-            </step>
-            <step>
-                <cmd>Test the printer by printing a test page.</cmd>
-                <info>
-                    <p>This will confirm that the printer is correctly installed and configured on your network.</p>
+                    <p>On Windows, open <b>Devices and Printers</b>, right-click the printer, and select <b>Printer properties &gt; Print Test Page</b>.</p>
                 </info>
             </step>
         </steps>
         <note type="important">
-            <p>Ensure that any unused network protocols are disabled to reduce unnecessary network traffic and enhance security.</p>
+            <p>Always use the driver version that matches your printer firmware. After a firmware update, check for an updated driver on the HP Support website.</p>
         </note>
         <note type="warning">
-            <p>Incorrect configuration of network settings can lead to connectivity issues. Refer to the HP Jetdirect Print Server Administrator’s Guide for detailed configuration instructions.</p>
+            <p>Do not install drivers from unofficial third-party sources. Only use packages downloaded directly from hp.com to avoid security risks and compatibility issues.</p>
         </note>
     </taskbody>
 </task>

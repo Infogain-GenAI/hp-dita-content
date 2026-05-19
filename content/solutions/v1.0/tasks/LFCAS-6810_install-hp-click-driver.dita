@@ -1,45 +1,47 @@
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+﻿<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="LFCAS-6810_install-hp-click-driver">
     <title>Installing the HP Click Driver</title>
     <taskbody>
+        <prereq>
+            <p>Ensure your HP large-format printer is powered on and connected to the network. Administrator rights are required on the host computer.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd>Download the HP Click Driver from the official HP website.</cmd>
+                <cmd>Navigate to <b>hp.com/go/HPClick</b> to download the HP Click installer.</cmd>
                 <info>
-                    <p>Ensure that you select the correct driver version compatible with your operating system.</p>
+                    <p>Select the installer for your operating system: Windows 10/11 (64-bit) or macOS 12 or later. The download is free.</p>
                 </info>
             </step>
             <step>
-                <cmd>Open the downloaded file to begin the installation process.</cmd>
+                <cmd>Run the downloaded installer (<b>HPClickSetup.exe</b> on Windows or <b>HPClick.dmg</b> on macOS).</cmd>
                 <info>
-                    <p>If prompted by your operating system, allow the installation to proceed.</p>
+                    <p>On Windows, click <b>Yes</b> when prompted by User Account Control. On macOS, open the .dmg and drag HP Click to the Applications folder.</p>
                 </info>
             </step>
             <step>
-                <cmd>Follow the on-screen instructions to complete the installation.</cmd>
+                <cmd>Launch HP Click after installation completes.</cmd>
                 <info>
-                    <p>During installation, you may be asked to configure network settings. Refer to the network configuration section below for guidance.</p>
+                    <p>On first launch, HP Click scans the local network for supported HP printers. If your printer is not found automatically, click <b>Add printer manually</b> and enter the printer IP address.</p>
                 </info>
             </step>
             <step>
-                <cmd>Configure network settings if required.</cmd>
+                <cmd>Select your printer in HP Click and click <b>Install driver</b> when prompted.</cmd>
                 <info>
-                    <p>Access the printer network configuration settings through the front panel by navigating to <b>Network &gt; Gigabit Ethernet &gt; Modify Configuration</b>.</p>
-                    <p>Ensure that the correct network protocols are enabled or disabled to optimize network traffic and security.</p>
+                    <p>This installs the <b>HP Click virtual printer driver</b>, adding a system-level printer entry. You can then print to HP Click from any application via <b>File &gt; Print</b>.</p>
                 </info>
             </step>
             <step>
-                <cmd>Restart your computer and printer to finalize the installation.</cmd>
+                <cmd>Print a test file to confirm the HP Click Driver is working correctly.</cmd>
                 <info>
-                    <p>After restarting, verify that the HP Click Driver is functioning correctly by printing a test page.</p>
+                    <p>Drag a PDF or JPEG file onto the HP Click window and click <b>Print</b>. Verify the job completes on the printer.</p>
                 </info>
             </step>
         </steps>
         <note type="important">
-            <p>Ensure that your printer is connected to the network and powered on before starting the installation process.</p>
+            <p>HP Click requires the printer and computer to be on the same local network subnet. If they are on different subnets, add the printer via its IP address manually.</p>
         </note>
         <note type="warning">
-            <p>Disabling unused network protocols can reduce unnecessary network traffic and enhance security. Refer to the HP Jetdirect Print Server Administrator’s Guide for detailed instructions.</p>
+            <p>Uninstall any previous version of HP Click before installing a new version to avoid driver conflicts.</p>
         </note>
     </taskbody>
 </task>
