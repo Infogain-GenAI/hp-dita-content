@@ -2,7 +2,7 @@
   "_meta": {
     "description": "Auto-generated catalogue of all DITA topics",
     "generated_by": "HP Docs AI Assistant",
-    "last_updated": "2026-05-20T17:58:50.597188+00:00",
+    "last_updated": "2026-05-29T11:39:48.426422+00:00",
     "total_topics": 10,
     "source_tickets": "LFCAS-6510/TICKET-2, LFCAS-6511/TICKET-3, LFCAS-6741/TICKET-4, LFCAS-6809/TICKET-5, LFCAS-6810/TICKET-6",
     "ticket_aliases": {
@@ -121,7 +121,7 @@
       "version": "v1.0",
       "filename": "LFCAS-6510_sleep-mode-timers.dita",
       "path": "content/lfp/v1.0/tasks/LFCAS-6510_sleep-mode-timers.dita",
-      "created_at": "2026-05-20T17:58:50.597154+00:00"
+      "created_at": "2026-05-29T11:39:48.425363+00:00"
     }
   ]
 }
