@@ -16,10 +16,12 @@
                 <cmd>Select <b>Power options</b> from the menu.</cmd>
                 <info>Here you can adjust settings related to the printer's power management.</info>
             </step>
+            <!-- NEW_START -->
             <step>
                 <cmd>Choose <b>Sleep mode wait time</b>.</cmd>
                 <info>You can set the sleep mode timer from 5 to 60 minutes. The default time is 10 minutes, which includes 5 minutes in dim mode.</info>
             </step>
+            <!-- NEW_END -->
             <step>
                 <cmd>Adjust the timer to your preferred setting.</cmd>
                 <info>Use the slider or input field to set the desired time before the printer enters sleep mode.</info>
