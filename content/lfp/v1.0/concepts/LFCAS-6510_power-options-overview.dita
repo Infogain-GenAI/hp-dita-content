@@ -10,7 +10,9 @@
         </section>
         <section>
             <title>Sleep Mode</title>
+            <!-- NEW_START -->
             <p>Sleep mode reduces the printer's power consumption by turning off certain components while maintaining network connectivity. The printer can be awakened from sleep mode by pressing the power button, opening a door, or sending a print job. The sleep mode wait time can be set from <b>5 to 240 minutes</b>. The default is <b>20 minutes</b>, which includes 5 minutes in dim mode.</p>
+            <!-- NEW_END -->
             <note type="important">Earlier versions of the User Guide incorrectly stated the timer range as 5–60 minutes with a 10-minute default. The correct values per LFCAS-6510 are: range 5–240 minutes, default 20 minutes.</note>
         </section>
         <section>
