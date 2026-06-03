@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//SDL//DTD DITA Map//EN" "sdlMap.dtd"[
+]>
+<?ish ishref="GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4" version="1" lang="en-US"?>
+<map id="GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4" xml:lang="en-US">
+	<title id="GUID-680BB7C6-173E-410A-8DD2-C7AF8A5E2DD1">Photo Printing</title>
+	<topicref format="dita" href="GUID-A526FED0-225D-4B42-B91C-2212AECDF26D" ishcondition="Feature=PhotoPrint" type="concept">
+		<topicmeta>
+			<navtitle>Print, Select, and View Photos</navtitle>
+		</topicmeta>
+		<topicref format="dita" href="GUID-9F6D5282-3D6B-4123-AF25-02DCCEF77D61" type="task">
+			<topicmeta>
+				<navtitle>To View and Select Photos</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref format="dita" href="GUID-79A3EDC1-3BC2-4096-9B3B-2B1597F9BCDD" type="task">
+			<topicmeta>
+				<navtitle>Print Photos</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref format="dita" href="GUID-5A989569-79D6-4F01-AAA7-CE1A10B4302E" type="task">
+			<topicmeta>
+				<navtitle>Printing All Photos on Media Card or USB Key</navtitle>
+			</topicmeta>
+		</topicref>
+	</topicref>
+</map>
