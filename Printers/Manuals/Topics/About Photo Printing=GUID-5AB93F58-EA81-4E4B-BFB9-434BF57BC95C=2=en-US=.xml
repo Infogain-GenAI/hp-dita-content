@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE reference PUBLIC "-//SDL//DTD DITA Reference//EN" "sdlReference.dtd"[]>
+<?ish ishref="GUID-5AB93F58-EA81-4E4B-BFB9-434BF57BC95C" version="2" lang="en-US"?><reference id="GUID-5AB93F58-EA81-4E4B-BFB9-434BF57BC95C" xml:lang="en-US"> 
+  <title id="GUID-F9EE47E7-DBBB-4905-8852-1F147564091C">About Photo Printing</title> 
+  <refbody> 
+	 <section id="GUID-40495322-BE4C-410E-9F89-7E8422568939"> 
+		<p>Minimum Ink Droplet Size: 5 ink droplet sizes, as small as 1.5 picoliters 
+		</p> 
+		<p>Maximum Print Resolution: 5760 x 2820 dpi 
+		</p> 
+		<p>Photo Print Speed: 4" x 6" photo in as fast as 6 seconds 
+		</p> 
+		<p>PC-Free Printing: 
+		<ul id="UL_F1754CA3B4CA4B36BF2058B31753D4B5"> 
+		  <li id="LI_F0F8C3506E154049A77A4D770BCCC495">Auto Photo Correction 
+		  </li> 
+		  <li id="LI_C55A1DD585BE49ABB29F6D8C28364F43">Select and print photos 
+		  </li> 
+		  <li id="LI_C1428B6ABD0E438A892D2AA367110925">Crop, rotate and enlarge 
+		  </li> 
+		  <li id="LI_791DAD53C95949A8B1E2F32584D13609">View and print-by-date 
+		  </li> 
+		  <li id="LI_72445D5D120F4609BA643078108370B8">Print your own picture packages 
+		  </li> 
+		  <li id="LI_25EA7FBACE454EF1B65BD5907C299A88">Print passport and photo ID 
+		  </li> 
+		  <li id="LI_1AE39DFC310247DE973BCA0CFFCB7160">Select multiple photos to print on a single page 
+		  </li> 
+		  <li id="LI_FA408EBF42F04D7391C682756D4C2276">Print college-ruled, wide-ruled and graph papers 
+		  </li> 
+		  <li id="LI_72451304E3A94041A4E15CF9FF75E945">Make personalized notepaper using your own photos 
+		  </li> 
+		  <li id="LI_A9589B76BAF245139C82AC51AB7C35B5">Photo index sheet 
+		  </li> 
+		  <li id="LI_D4F08D7FC36D47E1B8B562022B83B7F2">Photo greeting cards 
+		  </li>
+		  <li id="LI_3B08EA594E5D4CA18DFBF40D906A4006">Scrapbook pages
+		  </li> 
+		  <li id="LI_DFD0E2701CB44A25B9AA59D127F3FA21">Coloring book pages 
+		  </li> 
+		</ul> 
+		</p> 
+		<p>Layouts: 
+		<ul id="UL_FD6E52AB333A43F0A3ABD63CD9DB7D14"> 
+		  <li id="LI_3CE95396355C464DBDCADC2549902CB9">Borderless 
+		  </li> 
+		  <li id="LI_D983449FAA1546F9886F5B339199B8D0">Classic borders 
+		  </li> 
+		  <li id="LI_A64E751CD06C4D57B9B0D6DBD5025492">Picture packages 
+		  </li> 
+		  <li id="LI_F2CA986A959947FDB33A59D9174F5DD0">Photo ID 
+		  </li> 
+		  <li id="LI_A29547F7B50C4F5F9596D5D033DA4DFC">2-up, 4-up, 8-up, 20-up 
+		  </li> 
+		</ul> 
+		</p> 
+	 </section> 
+  </refbody> 
+</reference>
