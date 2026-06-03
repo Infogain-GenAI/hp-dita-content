@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//SDL//DTD DITA Topic//EN" "sdlTopic.dtd"[
+]>
+<?ish ishref="GUID-80B74B83-3A9E-47EA-99A8-EC84DBA1FEF5" version="1" lang="en-US"?>
+<topic id="GUID-80B74B83-3A9E-47EA-99A8-EC84DBA1FEF5" xml:lang="en-US">
+<title id="GUID-476889E2-92DD-4825-96E9-5087542795D5">Trademarks</title>
+<shortdesc>This library includes trademark variable. Each label variable is defined in a separate paragraph by means of the &lt;tm&gt; element. The &lt;tm&gt; attribute 'varid' should hold a unique name for the variable. </shortdesc>
+<body>
+<p>
+<ph id="REG_PERMAINK">
+<tm tmtype="reg" trademark="PERMAInk">PERMAInk</tm>
+</ph><!--did quick Google search and not a copyrighted product name-->
+</p>
+<p>
+<ph id="REG_COMPACTFLASH">
+<tm trademark="CompactFlash" tmtype="reg">CompactFlash</tm>
+</ph>
+</p>
+<p>
+<ph id="REG_MICRODRIVE">
+<tm trademark="Microdrive" tmtype="reg">Microdrive</tm>
+</ph>
+</p>
+<p>
+<ph id="REG_MEMORY_STICK">
+<tm trademark="Memory Stick" tmtype="reg">Memory Stick</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MEMORY_STICK_DUO">
+<tm trademark="Memory Stick Duo" tmtype="tm">Memory Stick Duo</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MAGICGATE"><tm trademark="MagicGate" tmtype="tm">MagicGate</tm> Memory Stick</ph>
+</p>
+<p>
+<ph id="TM_MAGICGATE_MEMORY_STICK_DUO">
+<tm trademark="MagicGate Memory Stick Duo" tmtype="tm">MagicGate Memory Stick Duo</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MEMORY_STICK_PRO">
+<tm tmtype="tm" trademark="Memory Stick PRO">Memory Stick PRO</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MEMORY_STICK_PRO_DUO">
+<tm trademark="Memory Stick Pro Duo" tmtype="tm">Memory Stick Pro Duo</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_SD">Secure Digital (<tm trademark="SD" tmtype="tm"> SD</tm>)</ph>
+</p>
+<p>
+<ph id="TM_SDHC">
+<tm trademark="SDHC" tmtype="tm">SDHC </tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MINI_SD">
+<tm trademark="mini SD" tmtype="tm">mini SD</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MEMORY_STICK_MICRO">
+<tm trademark="Memory Stick Micro" tmtype="tm">Memory Stick Micro</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MICRO_SD">
+<tm trademark="micro SD" tmtype="tm">micro SD</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MICRO_SDHC">
+<tm trademark="micro SDHC" tmtype="tm">micro SDHC</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_MULTIMEDIACARD">
+<tm trademark="MultiMediaCard" tmtype="tm">MultiMediaCard</tm>
+</ph>
+</p>
+<p>
+<ph id="TM_XD-PICTURE_CARD">
+<tm trademark="xD-Picture Card" tmtype="tm">xD-Picture Card</tm>
+</ph>
+</p>
+<p>
+<ph id="REG_WINDOWS_VISTA">
+<tm trademark="Windows Vista" tmtype="reg">Windows Vista</tm>
+</ph>
+</p>
+<p>
+<ph id="REG_2000_MAC_OS"><tm trademark="2000 Mac OS" tmtype="reg">2000 Mac OS</tm> X 10.3.9</ph>
+</p>
+</body>
+</topic>
