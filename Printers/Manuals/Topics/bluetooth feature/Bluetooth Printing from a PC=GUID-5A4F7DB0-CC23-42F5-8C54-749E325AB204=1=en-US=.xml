@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE concept PUBLIC "-//SDL//DTD DITA Concept//EN" "sdlConcept.dtd"[
+]>
+<?ish ishref="GUID-5A4F7DB0-CC23-42F5-8C54-749E325AB204" version="1" lang="en-US"?>
+<concept id="GUID-5A4F7DB0-CC23-42F5-8C54-749E325AB204" xml:lang="en-US"> 
+  <title id="GUID-21BB6D9A-D1AD-447F-A5F4-EFC077EA0124">Bluetooth Printing from a PC</title> 
+  <conbody> 
+	 <p>If your PC has an internal Bluetooth radio, then consult the documentation that came with the PC for information concerning the PC’s Bluetooth wireless feature. 
+	 </p> 
+	 <p>If your PC does not have an internal Bluetooth radio, then you must use a Bluetooth PC card or adapter to make the PC Bluetooth wireless technology enabled. 
+	 </p> 
+	 <p>Consult the documentation that came with the Bluetooth device or contact the manufacturer for printing instructions. 
+	 </p> 
+	 <p>The basic steps to install and configure your PC include the following: 
+	 </p> 
+	 <ol id="OL_F38320B02A7F47F69DAA65F99F769EE3"> 
+		<li id="LI_5F548FEC7B354EAAAB12B5C5CEF2F81A">Install the print driver for the printer on your PC. 
+		</li> 
+		<li id="LI_C662F726C9C04C9C86369B60E2FFF963">Set the printer port on your PC to use the Bluetooth port. 
+		</li> 
+		<li id="LI_81A67949F0154EA28BBF99BA6D383BFE">Print a test page to the printer. 
+		</li> 
+	 </ol> 
+  </conbody> 
+</concept>
