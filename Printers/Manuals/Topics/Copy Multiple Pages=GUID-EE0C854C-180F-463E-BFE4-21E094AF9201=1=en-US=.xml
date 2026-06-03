@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE task PUBLIC "-//SDL//DTD DITA Task//EN" "sdlTask.dtd"[]>
+<?ish ishref="GUID-EE0C854C-180F-463E-BFE4-21E094AF9201" version="1" lang="en-US"?><task id="GUID-EE0C854C-180F-463E-BFE4-21E094AF9201" xml:lang="en-US"> 
+  <title id="GUID-039F29DA-EB42-49C5-A25E-F585CF3364C7">Copy Multiple Pages</title> 
+  <shortdesc>Use the automatic document feeder (ADF) to copy multiple page documents. 
+  </shortdesc> 
+  <prolog> 
+	 <metadata> 
+		<keywords> 
+		  <keyword ishcondition="MODEL=810AIO">810AIO</keyword> 
+		  <keyword ishcondition="MODEL=820AIO">820AIO</keyword> 
+		  <keyword ishcondition="MODEL=910AIO">910AIO</keyword> 
+		  <keyword ishcondition="MODEL=920AIO">920AIO</keyword> 
+		  <keyword ishcondition="Series='800_Series'"> 800 Series</keyword> 
+		  <keyword ishcondition="Series='900_Series'"> 900 Series</keyword> 
+		  <keyword>Acadian</keyword> 
+		  <indexterm>copying<indexterm>multiple pages</indexterm></indexterm> 
+		  <indexterm>documents<indexterm>copying multiple pages</indexterm></indexterm> 
+		</keywords> </metadata>
+  </prolog> 
+  <taskbody> 
+	 <steps id="STEPS_D7828EF2D1EE4D4299432B25761F68B8"><!--Reference  appropriate content from Copy Single Page topic-->
+		<step id="GUID-8517229C-46A4-46E4-AD8F-EDBAD95B3340" conref="GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F#GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F/TURN_PRINTER_ON"> 
+		  <cmd>Turn the printer on. 
+		  </cmd> 
+		</step> 
+		<step id="GUID-50283B1D-F3D8-42FF-88D8-F5A71C3E099E" conref="GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F#GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F/PRESS_COPY_BUTTON"> 
+		  <cmd>Press the 
+			 <uicontrol>Copy</uicontrol> button. 
+		  </cmd> 
+		</step> 
+		<step id="STEP_A9CAA49ECA6840759E4F018ADB0A7741"> 
+		  <cmd>Load the original document in the ADF with the print side down. 
+		  </cmd> 
+		  <info>The maximum number of pages you can load in the ADF is 30 pages. 
+		  </info> 
+		</step> 
+		<step id="GUID-05441FCE-F08F-4EBB-A59D-FBDDAECA17C6" conref="GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F#GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F/SET_NUMBER_COPIES"> 
+		  <cmd>Use the number buttons to specify the number of copies to make. 
+		  </cmd> 
+		  <info>The default is one copy. 
+		  </info> 
+		</step> 
+		<step id="GUID-997B565A-8806-42AE-9019-3FAF35F4B963" conref="GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F#GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F/SET_BW_OR_COLOR"> 
+		  <cmd>Specify to make black-and-white or color copies. 
+		  </cmd> 
+		</step> 
+		<step id="GUID-D85F7A1E-393D-4324-9B08-BA9274FA9E09" conref="GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F#GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F/PRESS_GO_BUTTON"> 
+		  <cmd>Press the 
+			 <uicontrol>GO</uicontrol> button. 
+		  </cmd> 
+		  <stepresult>The printer delivers the copies through the Document Output Feeder. 
+		  </stepresult> 
+		</step> 
+	 </steps> 
+  </taskbody> 
+</task>
