@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//SDL//DTD DITA Topic//EN" "sdlTopic.dtd"[
+]>
+<?ish ishref="GUID-9244599E-6CDD-4C73-A045-1D2BFB0399A2" version="1" lang="en-US"?>
+<topic id="GUID-9244599E-6CDD-4C73-A045-1D2BFB0399A2" xml:lang="en-US"> 
+  <title id="GUID-4F6C347C-335D-46BC-94DF-44A934DB5C53">Printer Notices</title> 
+  <shortdesc>This library groups notices that can be used for content reference (conref). Each element that you want to conref to should be in a separate note &lt;element&gt;. 
+  </shortdesc> 
+  <body> 
+	 <section id="SECTION_8A393702216F4FF9933DA254948A200E"> 
+		<title id="GUID-F18FAA89-2868-4B04-BBB3-483B071C0376">Ink</title> 
+		<p> 
+		  <note id="NOTE_INK_DO_NOT_TOUCH">Do not remove or touch the copper contacts on the ink cartridge. Touching these parts may adversely affect the performance of the printer. 
+		  </note> 
+		</p> 
+	 </section> 
+	 <section id="SECTION_CEA7F3A86F6E46CA9031B799357419D2"> 
+		<title id="GUID-C4E94447-5D69-4A1F-9ACF-BA03DA92F975">Printing</title> 
+		<p> 
+		  <note id="NOTE_COVER_SLAM">If you slam the document cover, the document may move out of alignment and you may damage the printer. 
+		  </note> 
+		</p> 
+		<p> 
+		  <note id="CAUTION_NO_HEAVY_OBJECTS" type="caution">Do not place heavy objects on the glass. 
+		  </note> 
+		</p> 
+		<p> 
+		  <note id="NOTE_TURN_OFF_PRINTER">Cancel print jobs and turn off the printer before attempting to remove jammed paper. 
+		  </note> 
+		</p> 
+		<p> 
+		  <note type="caution" id="CAUTION_CUT_FINGERS">Be careful not to cut your fingers on the sharp paper edges. 
+		  </note> 
+		</p> 
+		<p> 
+		  <note type="danger" id="DANGER_PRINT_LID_CLOSED">Do not print with the document cover open. The bright light is dangerous to your eyes. 
+		  </note> 
+		</p> 
+	 </section> 
+	 <section id="SECTION_04BCAD4A38C54884BF136E49CE94BBF1"> 
+		<title id="GUID-D2562C6B-D4A2-475A-9BE2-5B57D0F6DDCC">Set up</title> 
+		<p> 
+		  <note id="NOTE_USB_CONNECTION">To have improved performance, plug the USB cable directly into the computer. Do not plug it into a USB hub. 
+		  </note> 
+		</p> 
+	 </section> 
+  </body> 
+</topic>
