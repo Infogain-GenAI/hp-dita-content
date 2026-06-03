@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//SDL//DTD DITA Topic//EN" "sdlTopic.dtd"[]>
+<?ish ishref="GUID-F350E035-AB00-49FB-AD74-C1DE90681530" version="1" lang="en-US"?><topic id="GUID-F350E035-AB00-49FB-AD74-C1DE90681530" xml:lang="en-US"> 
+  <title id="GUID-FA0698A3-0DD0-4B83-83D5-31912B2C3262">URLs</title> 
+  <shortdesc>This library groups URLs that can be used for content reference (conref). Each element that you want to conref to should be in a separate &lt;element&gt;. 
+  </shortdesc> 
+  <body> 
+	 <p> 
+		<xref href="http://www.Acadianoffice.com" scope="external" format="html" id="US_URL"> 
+		</xref> 
+	 </p> 
+	 <p> 
+		<xref href="http://www.Acadianoffice.de" scope="external" format="html" id="GERMAN_URL"> 
+		</xref> 
+	 </p> 
+	 <p> 
+		<xref href="Acadian_help@Acadian.com" scope="external" format="html" id="GLOBAL_TECH_SUPPORT"> 
+		</xref> 
+	 </p> 
+  </body> 
+</topic>
