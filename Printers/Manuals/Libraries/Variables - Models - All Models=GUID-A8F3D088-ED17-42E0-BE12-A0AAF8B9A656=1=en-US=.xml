@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//SDL//DTD DITA Topic//EN" "sdlTopic.dtd"[
+]>
+<?ish ishref="GUID-A8F3D088-ED17-42E0-BE12-A0AAF8B9A656" version="1" lang="en-US"?>
+<topic id="GUID-A8F3D088-ED17-42E0-BE12-A0AAF8B9A656" xml:lang="en-US"> 
+  <title id="GUID-476889E2-92DD-4825-96E9-5087542795D5">All Models</title> 
+  <shortdesc cid="3M4kA">This library includes label variables. Each label variable is defined in a separate paragraph by means of the &lt;ph&gt; element. The &lt;ph&gt; attribute 'varid' should hold a unique name for the variable. 
+  </shortdesc> 
+  <body cid="MoJ6r"> 
+	 <p cid="XmFX2"> 
+		<ph varid="Model"> AIO</ph> 
+	 </p> 
+  </body> 
+</topic>
