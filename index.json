@@ -1,412 +1,2968 @@
 {
-  "version": "1.0",
-  "product": "Printers",
-  "structure": "Tridion Docs (GUID-based)",
-  "last_updated": "2026-06-03T09:07:10Z",
+  "version": "2.0",
+  "product": "HP Software Solutions",
+  "structure": "Tridion Docs (GUID-based) - SW Solutions UG",
+  "last_updated": "2026-06-09T16:45:00Z",
+  "total_topics": 269,
   "topics": [
     {
-      "guid": "GUID-9244599E-6CDD-4C73-A045-1D2BFB0399A2",
-      "title": "Printer Notices",
-      "path": "Printers/Manuals/Libraries/Printer Notices=GUID-9244599E-6CDD-4C73-A045-1D2BFB0399A2=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/c_sw-solutions_ug_Title=GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-solutions",
+      "chapter": "root",
+      "filename": "c_sw-solutions_ug_Title=GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47=1=en-US=.xml"
     },
     {
-      "guid": "GUID-80B74B83-3A9E-47EA-99A8-EC84DBA1FEF5",
-      "title": "Trademarks",
-      "path": "Printers/Manuals/Libraries/Trademarks=GUID-80B74B83-3A9E-47EA-99A8-EC84DBA1FEF5=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/c_sw-solutions_ug_Title=GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-solutions",
+      "chapter": "root",
+      "filename": "c_sw-solutions_ug_Title=GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47=1=en-US=.xml"
     },
     {
-      "guid": "GUID-F350E035-AB00-49FB-AD74-C1DE90681530",
-      "title": "URLs",
-      "path": "Printers/Manuals/Libraries/URLs=GUID-F350E035-AB00-49FB-AD74-C1DE90681530=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-DA105829-7C51-4BD0-9EBD-88321DF3520A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/r_sw-solutions_ug_About-this-edition=GUID-DA105829-7C51-4BD0-9EBD-88321DF3520A=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-solutions",
+      "chapter": "root",
+      "filename": "r_sw-solutions_ug_About-this-edition=GUID-DA105829-7C51-4BD0-9EBD-88321DF3520A=1=en-US=.xml"
     },
     {
-      "guid": "GUID-219B85D9-CA7B-48BA-B09D-5CDEE48BE8D2",
-      "title": "Variables - Corporate - Company Names",
-      "path": "Printers/Manuals/Libraries/Variables - Corporate - Company Names=GUID-219B85D9-CA7B-48BA-B09D-5CDEE48BE8D2=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/_unplaced/topics/l-generic-short-descriptions=GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760=8=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-solutions",
+      "chapter": "topics",
+      "filename": "l-generic-short-descriptions=GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760=8=en-US=.xml"
     },
     {
-      "guid": "GUID-ADE4BCD8-2699-4BFA-992F-5EBE596CF9A6",
-      "title": "Variables - Models - 810AIO",
-      "path": "Printers/Manuals/Libraries/Variables - Models - 810AIO=GUID-ADE4BCD8-2699-4BFA-992F-5EBE596CF9A6=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-86659381-6644-4ECF-BD51-8BDC1AF11609",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/_unplaced/topics/v_sw-solutions_sm_conrefs=GUID-86659381-6644-4ECF-BD51-8BDC1AF11609=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-solutions",
+      "chapter": "topics",
+      "filename": "v_sw-solutions_sm_conrefs=GUID-86659381-6644-4ECF-BD51-8BDC1AF11609=1=en-US=.xml"
     },
     {
-      "guid": "GUID-F4F5B879-5090-4E2D-AF48-2BD8ADAFB864",
-      "title": "Variables - Models - 910AIO",
-      "path": "Printers/Manuals/Libraries/Variables - Models - 910AIO=GUID-F4F5B879-5090-4E2D-AF48-2BD8ADAFB864=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-2EDC92F2-507B-4273-B7CF-898BD5F5D09C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Distribute-msi-package=GUID-2EDC92F2-507B-4273-B7CF-898BD5F5D09C=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_Distribute-msi-package=GUID-2EDC92F2-507B-4273-B7CF-898BD5F5D09C=1=en-US=.xml"
     },
     {
-      "guid": "GUID-A8F3D088-ED17-42E0-BE12-A0AAF8B9A656",
-      "title": "Variables - Models - All Models",
-      "path": "Printers/Manuals/Libraries/Variables - Models - All Models=GUID-A8F3D088-ED17-42E0-BE12-A0AAF8B9A656=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Drivers=GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_Drivers=GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921=2=en-US=.xml"
     },
     {
-      "guid": "GUID-3E7127EE-2B2E-47A0-B39A-CBC74032A817",
-      "title": "Variables - Series - 900 Series",
-      "path": "Printers/Manuals/Libraries/Variables - Series - 900 Series=GUID-3E7127EE-2B2E-47A0-B39A-CBC74032A817=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-837E1A5A-1048-4CC8-AD3F-2CC5665505DD",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_How-to-check-the-driver-version=GUID-837E1A5A-1048-4CC8-AD3F-2CC5665505DD=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_How-to-check-the-driver-version=GUID-837E1A5A-1048-4CC8-AD3F-2CC5665505DD=1=en-US=.xml"
     },
     {
-      "guid": "GUID-429201BA-6EE2-4E7D-9C3E-F6D7C75B7753",
-      "title": "Variables - Series - All Series",
-      "path": "Printers/Manuals/Libraries/Variables - Series - All Series=GUID-429201BA-6EE2-4E7D-9C3E-F6D7C75B7753=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-083793BE-0368-4799-9114-F005F4073F48",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_How-to-set-up-a-print-server=GUID-083793BE-0368-4799-9114-F005F4073F48=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_How-to-set-up-a-print-server=GUID-083793BE-0368-4799-9114-F005F4073F48=2=en-US=.xml"
     },
     {
-      "guid": "GUID-75D27C30-6CED-4642-866A-DD0BC60C0383",
-      "title": "Wireless Printing",
-      "path": "Printers/Manuals/Libraries/Wireless Printing=GUID-75D27C30-6CED-4642-866A-DD0BC60C0383=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "library"
+      "guid": "GUID-A1365872-69CB-4A95-AFF4-29142BD0430E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Setup-and-installation_drivers=GUID-A1365872-69CB-4A95-AFF4-29142BD0430E=3=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_Setup-and-installation_drivers=GUID-A1365872-69CB-4A95-AFF4-29142BD0430E=3=en-US=.xml"
     },
     {
-      "guid": "GUID-EA857808-3F1B-458E-912E-A3082982F4EF",
-      "title": "Bluetooth Printing",
-      "path": "Printers/Manuals/Maps/Bluetooth Printing=GUID-EA857808-3F1B-458E-912E-A3082982F4EF=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-7BC77407-9AE7-42F2-AA4A-23AF23B4680B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Support-elevation=GUID-7BC77407-9AE7-42F2-AA4A-23AF23B4680B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_Support-elevation=GUID-7BC77407-9AE7-42F2-AA4A-23AF23B4680B=1=en-US=.xml"
     },
     {
-      "guid": "GUID-2EA98930-2EEB-4A49-8F4F-DE233C31F3FA",
-      "title": "Copying Guide",
-      "path": "Printers/Manuals/Maps/Copying Guide=GUID-2EA98930-2EEB-4A49-8F4F-DE233C31F3FA=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-86F73047-E082-4D0D-9A0C-3E4A1D8796C2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Troubleshooting=GUID-86F73047-E082-4D0D-9A0C-3E4A1D8796C2=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "c_sw-solutions_sm_Troubleshooting=GUID-86F73047-E082-4D0D-9A0C-3E4A1D8796C2=1=en-US=.xml"
     },
     {
-      "guid": "GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4",
-      "title": "Photo Printing",
-      "path": "Printers/Manuals/Maps/Photo Printing=GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_sm_Introduction_drivers=GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED=4=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_sm_Introduction_drivers=GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED=4=en-US=.xml"
     },
     {
-      "guid": "GUID-05FB2A11-03EA-4929-90FA-6CA3E0AB23A9",
-      "title": "Printing Guide",
-      "path": "Printers/Manuals/Maps/Printing Guide=GUID-05FB2A11-03EA-4929-90FA-6CA3E0AB23A9=2=en-US=.xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_sm_Transitioning-from-v3v4-drivers-to-ipp-class-driver=GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE=3=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_sm_Transitioning-from-v3v4-drivers-to-ipp-class-driver=GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE=3=en-US=.xml"
     },
     {
-      "guid": "GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7",
-      "title": "QuickStart",
-      "path": "Printers/Manuals/Maps/QuickStart=GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-D296C403-323B-40DE-9949-CFCD3B1E2DA7",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_sm_XPS-driver-features=GUID-D296C403-323B-40DE-9949-CFCD3B1E2DA7=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_sm_XPS-driver-features=GUID-D296C403-323B-40DE-9949-CFCD3B1E2DA7=1=en-US=.xml"
     },
     {
-      "guid": "GUID-51CD87A0-5FCD-452D-90B5-15E5ECCF73A7",
-      "title": "Troubleshooting Guide",
-      "path": "Printers/Manuals/Maps/Troubleshooting Guide=GUID-51CD87A0-5FCD-452D-90B5-15E5ECCF73A7=1=en-US= (1).xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-150673DF-7797-4B6E-9A21-32CDA449BF65",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_ug_Preset-synchronization-tool=GUID-150673DF-7797-4B6E-9A21-32CDA449BF65=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_ug_Preset-synchronization-tool=GUID-150673DF-7797-4B6E-9A21-32CDA449BF65=1=en-US=.xml"
     },
     {
-      "guid": "GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB",
-      "title": "User Guide",
-      "path": "Printers/Manuals/Maps/User Guide=GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB=2=en-US= (1).xml",
-      "folder": "Manuals",
-      "type": "ditamap"
+      "guid": "GUID-462159A4-A936-4125-A332-645D621D574E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_ug_V3-drivers=GUID-462159A4-A936-4125-A332-645D621D574E=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_ug_V3-drivers=GUID-462159A4-A936-4125-A332-645D621D574E=1=en-US=.xml"
     },
     {
-      "guid": "GUID-5AB93F58-EA81-4E4B-BFB9-434BF57BC95C",
-      "title": "About Photo Printing",
-      "path": "Printers/Manuals/Topics/About Photo Printing=GUID-5AB93F58-EA81-4E4B-BFB9-434BF57BC95C=2=en-US=.xml",
-      "folder": "Manuals",
-      "type": "reference"
+      "guid": "GUID-6B48171A-0DC0-4BC4-AA6D-C813DE891BF6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/e_sw-solutions_ug_V4-drivers=GUID-6B48171A-0DC0-4BC4-AA6D-C813DE891BF6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "e_sw-solutions_ug_V4-drivers=GUID-6B48171A-0DC0-4BC4-AA6D-C813DE891BF6=1=en-US=.xml"
     },
     {
-      "guid": "GUID-38D0D0A3-1356-487F-8642-0DE935134DE4",
-      "title": "Bluetooth Printing from a Camera",
-      "path": "Printers/Manuals/Topics/bluetooth feature/Bluetooth Printing from a Camera=GUID-38D0D0A3-1356-487F-8642-0DE935134DE4=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_distribute-MSI-package-client=GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72=3=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "r_sw-solutions_sm_distribute-MSI-package-client=GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72=3=en-US=.xml"
     },
     {
-      "guid": "GUID-A790A878-5F17-41CD-994E-53FF50493215",
-      "title": "Bluetooth Printing from a Handheld Device",
-      "path": "Printers/Manuals/Topics/bluetooth feature/Bluetooth Printing from a Handheld Device=GUID-A790A878-5F17-41CD-994E-53FF50493215=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_distribute-MSI-package-server=GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "r_sw-solutions_sm_distribute-MSI-package-server=GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654=2=en-US=.xml"
     },
     {
-      "guid": "GUID-CCFC37F6-8C8D-464D-B73A-D8C73535F5C7",
-      "title": "Bluetooth Printing from a Mobile Phone",
-      "path": "Printers/Manuals/Topics/bluetooth feature/Bluetooth Printing from a Mobile Phone=GUID-CCFC37F6-8C8D-464D-B73A-D8C73535F5C7=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-513B3075-6AA8-496F-B37D-1B701037C5E5",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_First-actions_support-elevation=GUID-513B3075-6AA8-496F-B37D-1B701037C5E5=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "r_sw-solutions_sm_First-actions_support-elevation=GUID-513B3075-6AA8-496F-B37D-1B701037C5E5=1=en-US=.xml"
     },
     {
-      "guid": "GUID-5A4F7DB0-CC23-42F5-8C54-749E325AB204",
-      "title": "Bluetooth Printing from a PC",
-      "path": "Printers/Manuals/Topics/bluetooth feature/Bluetooth Printing from a PC=GUID-5A4F7DB0-CC23-42F5-8C54-749E325AB204=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-7A3160C5-594E-435E-892C-3BEAB92F3750",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_How-to-reach-hp-support=GUID-7A3160C5-594E-435E-892C-3BEAB92F3750=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "r_sw-solutions_sm_How-to-reach-hp-support=GUID-7A3160C5-594E-435E-892C-3BEAB92F3750=2=en-US=.xml"
     },
     {
-      "guid": "GUID-385E4113-E788-48F1-AA17-D476B786776D",
-      "title": "Bluetooth",
-      "path": "Printers/Manuals/Topics/bluetooth feature/Bluetooth=GUID-385E4113-E788-48F1-AA17-D476B786776D=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-69A58DC9-3BA2-416B-A733-83729739DE45",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_Select-job-processing-side_drivers=GUID-69A58DC9-3BA2-416B-A733-83729739DE45=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "r_sw-solutions_sm_Select-job-processing-side_drivers=GUID-69A58DC9-3BA2-416B-A733-83729739DE45=2=en-US=.xml"
     },
     {
-      "guid": "GUID-7F1BF24B-618B-407A-9BDA-F8C039CCA08C",
-      "title": "Clear Paper Jams",
-      "path": "Printers/Manuals/Topics/Clear Paper Jams=GUID-7F1BF24B-618B-407A-9BDA-F8C039CCA08C=2=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_Bi-directionality-troubleshooting=GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F=3=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_Bi-directionality-troubleshooting=GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F=3=en-US=.xml"
     },
     {
-      "guid": "GUID-32F3CA70-7A23-4067-97E1-9435DE65A8C5",
-      "title": "Connect the Printer to the Computer",
-      "path": "Printers/Manuals/Topics/Connect the Printer to the Computer=GUID-32F3CA70-7A23-4067-97E1-9435DE65A8C5=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-check-the-driver-version-under-macos=GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD=2=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_How-to-check-the-driver-version-under-macos=GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD=2=en-US=.xml"
     },
     {
-      "guid": "GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F",
-      "title": "Copy a Single Page",
-      "path": "Printers/Manuals/Topics/Copy a Single Page=GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-check-the-driver-version-under-windows=GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C=3=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_How-to-check-the-driver-version-under-windows=GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C=3=en-US=.xml"
     },
     {
-      "guid": "GUID-48FF09FC-D1C4-4B91-B116-1FB32FEFCA4F",
-      "title": "Copy Both Sides of a Document",
-      "path": "Printers/Manuals/Topics/Copy Both Sides of a Document=GUID-48FF09FC-D1C4-4B91-B116-1FB32FEFCA4F=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-B27047DD-F4B6-458B-AD47-AEA9984E2AC2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-install-a-driver-assisted-under-Windows=GUID-B27047DD-F4B6-458B-AD47-AEA9984E2AC2=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_How-to-install-a-driver-assisted-under-Windows=GUID-B27047DD-F4B6-458B-AD47-AEA9984E2AC2=1=en-US=.xml"
     },
     {
-      "guid": "GUID-EE0C854C-180F-463E-BFE4-21E094AF9201",
-      "title": "Copy Multiple Pages",
-      "path": "Printers/Manuals/Topics/Copy Multiple Pages=GUID-EE0C854C-180F-463E-BFE4-21E094AF9201=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-860392D6-ECC9-45CC-A757-E6986872708E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-install-a-driver-inf-under-Windows=GUID-860392D6-ECC9-45CC-A757-E6986872708E=2=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_How-to-install-a-driver-inf-under-Windows=GUID-860392D6-ECC9-45CC-A757-E6986872708E=2=en-US=.xml"
     },
     {
-      "guid": "GUID-B1697E1C-FBEA-47AE-84D8-AA19187399ED",
-      "title": "Copying",
-      "path": "Printers/Manuals/Topics/Copying=GUID-B1697E1C-FBEA-47AE-84D8-AA19187399ED=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
+      "guid": "GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_Installed-base-handbook=GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7=2=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_Installed-base-handbook=GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7=2=en-US=.xml"
     },
     {
-      "guid": "GUID-A169B668-1FAA-455D-95D4-70AE83EAAA38",
-      "title": "Improve Copy Quality",
-      "path": "Printers/Manuals/Topics/Improve Copy Quality=GUID-A169B668-1FAA-455D-95D4-70AE83EAAA38=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_V3-print-archecture=GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_V3-print-archecture=GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A=1=en-US=.xml"
     },
     {
-      "guid": "GUID-8BBCB12E-75F4-45D6-B209-DB3F3FDAE8A9",
-      "title": "Improve Print Quality",
-      "path": "Printers/Manuals/Topics/Improve Print Quality=GUID-8BBCB12E-75F4-45D6-B209-DB3F3FDAE8A9=1=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-28BA4614-46FE-4443-AEBD-A050312456B5",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=2=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-drivers",
+      "chapter": "Drivers",
+      "filename": "t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=2=en-US=.xml"
     },
     {
-      "guid": "GUID-B191D266-062D-4FBA-9A78-736652EA94A0",
-      "title": "Install Ink Cartridges",
-      "path": "Printers/Manuals/Topics/Install Ink Cartridges=GUID-B191D266-062D-4FBA-9A78-736652EA94A0=2=en-US=.xml",
-      "folder": "Manuals",
-      "type": "task"
+      "guid": "GUID-C624F152-3D31-41B3-B633-5E56998234D0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_machan_ug_e13_Installation=GUID-C624F152-3D31-41B3-B633-5E56998234D0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_machan_ug_e13_Installation=GUID-C624F152-3D31-41B3-B633-5E56998234D0=1=en-US=.xml"
     },
     {
-      "guid": "GUID-A638C946-95D0-4FA3-9AFC-112378A4DFF0",
-      "title": "Introduction",
-      "path": "Printers/Manuals/Topics/Introduction=GUID-A638C946-95D0-4FA3-9AFC-112378A4DFF0=2=en-US=.xml",
-      "folder": "Manuals",
-      "type": "concept"
-    }
-  ],
-  "cross_references": {
-    "GUID-EA857808-3F1B-458E-912E-A3082982F4EF": [
-      "Bluetooth Printing"
-    ],
-    "GUID-385E4113-E788-48F1-AA17-D476B786776D": [
-      "Bluetooth Printing"
-    ],
-    "GUID-38D0D0A3-1356-487F-8642-0DE935134DE4": [
-      "Bluetooth Printing"
-    ],
-    "GUID-A790A878-5F17-41CD-994E-53FF50493215": [
-      "Bluetooth Printing"
-    ],
-    "GUID-CCFC37F6-8C8D-464D-B73A-D8C73535F5C7": [
-      "Bluetooth Printing"
-    ],
-    "GUID-5A4F7DB0-CC23-42F5-8C54-749E325AB204": [
-      "Bluetooth Printing"
-    ],
-    "GUID-2EA98930-2EEB-4A49-8F4F-DE233C31F3FA": [
-      "Copying Guide",
-      "User Guide"
-    ],
-    "GUID-B1697E1C-FBEA-47AE-84D8-AA19187399ED": [
-      "Copying Guide"
-    ],
-    "GUID-CF5E8203-1AAC-4BAD-80AA-7EC3CE89B42F": [
-      "Copying Guide"
-    ],
-    "GUID-EE0C854C-180F-463E-BFE4-21E094AF9201": [
-      "Copying Guide"
-    ],
-    "GUID-48FF09FC-D1C4-4B91-B116-1FB32FEFCA4F": [
-      "Copying Guide"
-    ],
-    "GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4": [
-      "Photo Printing",
-      "User Guide"
-    ],
-    "GUID-A526FED0-225D-4B42-B91C-2212AECDF26D": [
-      "Photo Printing"
-    ],
-    "GUID-9F6D5282-3D6B-4123-AF25-02DCCEF77D61": [
-      "Photo Printing"
-    ],
-    "GUID-79A3EDC1-3BC2-4096-9B3B-2B1597F9BCDD": [
-      "Photo Printing"
-    ],
-    "GUID-5A989569-79D6-4F01-AAA7-CE1A10B4302E": [
-      "Photo Printing"
-    ],
-    "GUID-05FB2A11-03EA-4929-90FA-6CA3E0AB23A9": [
-      "Printing Guide",
-      "User Guide"
-    ],
-    "GUID-CB510469-B5F5-4A7D-BE93-6C8529385742": [
-      "Printing Guide"
-    ],
-    "GUID-5AB93F58-EA81-4E4B-BFB9-434BF57BC95C": [
-      "Printing Guide"
-    ],
-    "GUID-D92D79B7-EB20-4BB0-B17E-DE1209152E14": [
-      "Printing Guide"
-    ],
-    "GUID-D96F850B-8A42-469D-99B1-7A1A93E8E3DB": [
-      "Printing Guide"
-    ],
-    "GUID-EB0B7678-1ED2-4E1F-8334-563A73C39753": [
-      "Printing Guide"
-    ],
-    "GUID-2810F9C9-252A-4F81-8674-8A0DFFFA6861": [
-      "Printing Guide"
-    ],
-    "GUID-D654A2BD-54EF-496A-BA69-86C5D20DB8EA": [
-      "Printing Guide"
-    ],
-    "GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7": [
-      "QuickStart",
-      "User Guide"
-    ],
-    "GUID-20CF1AD0-AD51-4512-B52D-0F7E048C569C": [
-      "QuickStart"
-    ],
-    "GUID-612687DB-EDDE-4DF0-86CE-905D8E0000A8": [
-      "QuickStart"
-    ],
-    "GUID-A85DAEEA-DFDB-4318-BC7F-EBFE2ACA0ED8": [
-      "QuickStart"
-    ],
-    "GUID-AB78677D-E18D-42DE-81DE-8B8CDFE53CD0": [
-      "QuickStart"
-    ],
-    "GUID-D1C00C11-E412-452B-9E94-C60423412D96": [
-      "QuickStart"
-    ],
-    "GUID-B191D266-062D-4FBA-9A78-736652EA94A0": [
-      "QuickStart",
-      "Troubleshooting Guide"
-    ],
-    "GUID-57E71C4B-56B4-41B2-B07A-B15B61CE110D": [
-      "QuickStart"
-    ],
-    "GUID-A51E42C1-2A69-49AE-A342-67EC5756B99D": [
-      "QuickStart"
-    ],
-    "GUID-32F3CA70-7A23-4067-97E1-9435DE65A8C5": [
-      "QuickStart"
-    ],
-    "GUID-51CD87A0-5FCD-452D-90B5-15E5ECCF73A7": [
-      "Troubleshooting Guide",
-      "User Guide"
-    ],
-    "GUID-6DF72838-4B22-4AFC-B653-A64577E28351": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-34DEA6CD-2AFB-4E02-862B-BCA31196E12A": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-8BBCB12E-75F4-45D6-B209-DB3F3FDAE8A9": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-A169B668-1FAA-455D-95D4-70AE83EAAA38": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-09DF91A0-61EE-4E24-B3E9-EC6996F17470": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-7F1BF24B-618B-407A-9BDA-F8C039CCA08C": [
-      "Troubleshooting Guide"
-    ],
-    "GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB": [
-      "User Guide"
-    ],
-    "GUID-A638C946-95D0-4FA3-9AFC-112378A4DFF0": [
-      "User Guide"
-    ],
-    "GUID-63966E27-D798-4125-9F8D-E772AE35573B": [
-      "User Guide"
-    ],
-    "GUID-C0B9E1AB-3F25-4569-8C42-F79CC6AD6544": [
-      "User Guide"
-    ]
-  },
-  "publications": [
-    {
-      "title": "User Guide",
-      "map_guid": "GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB"
+      "guid": "GUID-4B5545BB-F2F5-47CE-89C0-053844161C65",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_machan_ug_e13_Introduction=GUID-4B5545BB-F2F5-47CE-89C0-053844161C65=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_machan_ug_e13_Introduction=GUID-4B5545BB-F2F5-47CE-89C0-053844161C65=2=en-US=.xml"
     },
     {
-      "title": "Troubleshooting Guide",
-      "map_guid": "GUID-51CD87A0-5FCD-452D-90B5-15E5ECCF73A7"
+      "guid": "GUID-3A48CEF4-528F-4491-8277-7147D91E6EDB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_machan_ug_e13_Licensing=GUID-3A48CEF4-528F-4491-8277-7147D91E6EDB=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_machan_ug_e13_Licensing=GUID-3A48CEF4-528F-4491-8277-7147D91E6EDB=1=en-US=.xml"
     },
     {
-      "title": "Printing Guide",
-      "map_guid": "GUID-05FB2A11-03EA-4929-90FA-6CA3E0AB23A9"
+      "guid": "GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_sw-solutions_ug_HP-click=GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_sw-solutions_ug_HP-click=GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F=2=en-US=.xml"
     },
     {
-      "title": "Copying Guide",
-      "map_guid": "GUID-2EA98930-2EEB-4A49-8F4F-DE233C31F3FA"
+      "guid": "GUID-D3D5A76D-BFB8-4098-86AD-561EA75AC7A8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_sw-solutions_ug_Job-preparation_hp-click=GUID-D3D5A76D-BFB8-4098-86AD-561EA75AC7A8=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_sw-solutions_ug_Job-preparation_hp-click=GUID-D3D5A76D-BFB8-4098-86AD-561EA75AC7A8=1=en-US=.xml"
     },
     {
-      "title": "Photo Printing",
-      "map_guid": "GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4"
+      "guid": "GUID-5C24AAAD-9C8C-4051-B6DE-81280C6FA858",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_sw-solutions_ug_Preferences_hp-click=GUID-5C24AAAD-9C8C-4051-B6DE-81280C6FA858=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_sw-solutions_ug_Preferences_hp-click=GUID-5C24AAAD-9C8C-4051-B6DE-81280C6FA858=1=en-US=.xml"
     },
     {
-      "title": "Bluetooth Printing",
-      "map_guid": "GUID-EA857808-3F1B-458E-912E-A3082982F4EF"
+      "guid": "GUID-7F0628DD-62E0-4524-ACFD-DC52B84D0541",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/c_sw-solutions_ug_Troubleshooting_hp-click=GUID-7F0628DD-62E0-4524-ACFD-DC52B84D0541=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "c_sw-solutions_ug_Troubleshooting_hp-click=GUID-7F0628DD-62E0-4524-ACFD-DC52B84D0541=1=en-US=.xml"
     },
     {
-      "title": "QuickStart",
-      "map_guid": "GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7"
+      "guid": "GUID-00383520-61F0-41B3-A1D3-AD15D4DE0A17",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Requirements=GUID-00383520-61F0-41B3-A1D3-AD15D4DE0A17=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Requirements=GUID-00383520-61F0-41B3-A1D3-AD15D4DE0A17=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A5064A86-12CF-4184-BF4C-E4105DD6C610",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Supported-file-formats=GUID-A5064A86-12CF-4184-BF4C-E4105DD6C610=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Supported-file-formats=GUID-A5064A86-12CF-4184-BF4C-E4105DD6C610=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-87B82C3B-2E84-44CD-AEF3-A91690424121",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Supported-languages=GUID-87B82C3B-2E84-44CD-AEF3-A91690424121=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Supported-languages=GUID-87B82C3B-2E84-44CD-AEF3-A91690424121=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-AAA1E081-C388-4194-A0B4-F87AF89FB706",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Supported-printers=GUID-AAA1E081-C388-4194-A0B4-F87AF89FB706=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Supported-printers=GUID-AAA1E081-C388-4194-A0B4-F87AF89FB706=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-68A8C57B-1C29-4A91-992D-98BC9FB7A821",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Updates=GUID-68A8C57B-1C29-4A91-992D-98BC9FB7A821=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Updates=GUID-68A8C57B-1C29-4A91-992D-98BC9FB7A821=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DC4D8728-5DAA-4A6B-842F-EA55B29E2208",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_machan_ug_e13_Who-is-it-for=GUID-DC4D8728-5DAA-4A6B-842F-EA55B29E2208=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_machan_ug_e13_Who-is-it-for=GUID-DC4D8728-5DAA-4A6B-842F-EA55B29E2208=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BA1DBFA6-A3D2-44EA-853D-78AC852D8222",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_General-preferences_hp-click=GUID-BA1DBFA6-A3D2-44EA-853D-78AC852D8222=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_General-preferences_hp-click=GUID-BA1DBFA6-A3D2-44EA-853D-78AC852D8222=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-88C5122A-F19C-4AB5-A44F-77EBFA5E2A95",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Help-menu_hp-click=GUID-88C5122A-F19C-4AB5-A44F-77EBFA5E2A95=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Help-menu_hp-click=GUID-88C5122A-F19C-4AB5-A44F-77EBFA5E2A95=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9E2245F6-CAAD-4217-B960-4402B84E7BBB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Nesting_hp-click=GUID-9E2245F6-CAAD-4217-B960-4402B84E7BBB=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Nesting_hp-click=GUID-9E2245F6-CAAD-4217-B960-4402B84E7BBB=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6ACB7E02-A003-471B-BE4F-8CC3C5BD24E8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Page-options_hp-click=GUID-6ACB7E02-A003-471B-BE4F-8CC3C5BD24E8=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Page-options_hp-click=GUID-6ACB7E02-A003-471B-BE4F-8CC3C5BD24E8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-241AF833-E4AB-4872-9180-350D7E0CD897",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Preview_hp-click=GUID-241AF833-E4AB-4872-9180-350D7E0CD897=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Preview_hp-click=GUID-241AF833-E4AB-4872-9180-350D7E0CD897=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-1CAB68BD-0F0E-49A7-8C46-528E2E519810",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Printer-preferences_hp-click=GUID-1CAB68BD-0F0E-49A7-8C46-528E2E519810=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Printer-preferences_hp-click=GUID-1CAB68BD-0F0E-49A7-8C46-528E2E519810=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E79C2438-2A63-4B5C-9BB4-B8472E7FDAAC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Printing_hp-click=GUID-E79C2438-2A63-4B5C-9BB4-B8472E7FDAAC=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Printing_hp-click=GUID-E79C2438-2A63-4B5C-9BB4-B8472E7FDAAC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-43179BA6-9996-4E60-8313-021DA21AEE8E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/e_sw-solutions_ug_Settings_hp-click=GUID-43179BA6-9996-4E60-8313-021DA21AEE8E=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "e_sw-solutions_ug_Settings_hp-click=GUID-43179BA6-9996-4E60-8313-021DA21AEE8E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-06DCE7C4-15E7-462E-B398-475416BEE67B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/r_machan_ug_e13_Trial-license-available=GUID-06DCE7C4-15E7-462E-B398-475416BEE67B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "r_machan_ug_e13_Trial-license-available=GUID-06DCE7C4-15E7-462E-B398-475416BEE67B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0370FD20-26E9-42CF-B7EE-0A0BEEE53288",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/r_machan_ug_e13_USB-dongle-license-available=GUID-0370FD20-26E9-42CF-B7EE-0A0BEEE53288=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "r_machan_ug_e13_USB-dongle-license-available=GUID-0370FD20-26E9-42CF-B7EE-0A0BEEE53288=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B6397804-D834-446F-BFD5-07D5B2C23090",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/t_sw-solutions_ug_Getting-started_hp-click=GUID-B6397804-D834-446F-BFD5-07D5B2C23090=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "t_sw-solutions_ug_Getting-started_hp-click=GUID-B6397804-D834-446F-BFD5-07D5B2C23090=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BEE1864C-782C-451B-BBC3-363EAC01A1A7",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click/t_sw-solutions_ug_Support-tool_hp-click=GUID-BEE1864C-782C-451B-BBC3-363EAC01A1A7=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-click",
+      "chapter": "HP-click",
+      "filename": "t_sw-solutions_ug_Support-tool_hp-click=GUID-BEE1864C-782C-451B-BBC3-363EAC01A1A7=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_HP-click-driver=GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "c_sw-solutions_sm_HP-click-driver=GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9=2=en-US=.xml"
+    },
+    {
+      "guid": "GUID-1A30BC82-C159-4FAE-9E08-B7BD413500E0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_Introduction_hp-click-driver=GUID-1A30BC82-C159-4FAE-9E08-B7BD413500E0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "c_sw-solutions_sm_Introduction_hp-click-driver=GUID-1A30BC82-C159-4FAE-9E08-B7BD413500E0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9D1DD156-3840-4BE7-90AE-61CE9C86DC09",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_Printing-process=GUID-9D1DD156-3840-4BE7-90AE-61CE9C86DC09=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "c_sw-solutions_sm_Printing-process=GUID-9D1DD156-3840-4BE7-90AE-61CE9C86DC09=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-781644CD-CCA1-4C25-970F-5256436892D9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_Setup-and-installation_hp-click-driver=GUID-781644CD-CCA1-4C25-970F-5256436892D9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "c_sw-solutions_sm_Setup-and-installation_hp-click-driver=GUID-781644CD-CCA1-4C25-970F-5256436892D9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-20E05CA4-53BE-426A-85F1-E23FE74E082B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_Troubleshooting_hp-click-driver=GUID-20E05CA4-53BE-426A-85F1-E23FE74E082B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "c_sw-solutions_sm_Troubleshooting_hp-click-driver=GUID-20E05CA4-53BE-426A-85F1-E23FE74E082B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-88C6D678-B500-4240-B231-6CC2B864B7A0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/e_sw-solutions_sm_Preconditions-for-the-installations=GUID-88C6D678-B500-4240-B231-6CC2B864B7A0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "e_sw-solutions_sm_Preconditions-for-the-installations=GUID-88C6D678-B500-4240-B231-6CC2B864B7A0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-91AC0CB4-5388-449A-B4D1-356FD9820BAE",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/e_sw-solutions_sm_Print-preview-accuracy-color=GUID-91AC0CB4-5388-449A-B4D1-356FD9820BAE=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "e_sw-solutions_sm_Print-preview-accuracy-color=GUID-91AC0CB4-5388-449A-B4D1-356FD9820BAE=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C2047A32-5D91-4FB9-B125-047B5211C299",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/e_sw-solutions_sm_Supported-operating-system=GUID-C2047A32-5D91-4FB9-B125-047B5211C299=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "e_sw-solutions_sm_Supported-operating-system=GUID-C2047A32-5D91-4FB9-B125-047B5211C299=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4FCC15F2-1EB6-4F42-9400-7FDF4A1F0D94",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/e_sw-solutions_sm_Supported-printers=GUID-4FCC15F2-1EB6-4F42-9400-7FDF4A1F0D94=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "e_sw-solutions_sm_Supported-printers=GUID-4FCC15F2-1EB6-4F42-9400-7FDF4A1F0D94=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Application-non-response=GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Application-non-response=GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998=2=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C25DF430-8535-43A4-A727-495211062E7A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Comparison-of-hp-click-driver-and-hp-click-application=GUID-C25DF430-8535-43A4-A727-495211062E7A=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Comparison-of-hp-click-driver-and-hp-click-application=GUID-C25DF430-8535-43A4-A727-495211062E7A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Data-flow-overview=GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Data-flow-overview=GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD=2=en-US=.xml"
+    },
+    {
+      "guid": "GUID-41DF67BA-B031-4887-9EC0-64D6AD245F04",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Deployment-procedures=GUID-41DF67BA-B031-4887-9EC0-64D6AD245F04=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Deployment-procedures=GUID-41DF67BA-B031-4887-9EC0-64D6AD245F04=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-967805D6-FA52-480B-BE32-FAFEECF9CACE",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_How-to-capture-the-log-file-of-the-installer=GUID-967805D6-FA52-480B-BE32-FAFEECF9CACE=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_How-to-capture-the-log-file-of-the-installer=GUID-967805D6-FA52-480B-BE32-FAFEECF9CACE=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6CCA5DB6-F191-4D2B-B745-7F1F714F61B8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Installation-sources-for-hp-click-driver=GUID-6CCA5DB6-F191-4D2B-B745-7F1F714F61B8=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Installation-sources-for-hp-click-driver=GUID-6CCA5DB6-F191-4D2B-B745-7F1F714F61B8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-500F0364-A485-4168-BBDD-95A8C05A3EDA",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Interface-overview=GUID-500F0364-A485-4168-BBDD-95A8C05A3EDA=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Interface-overview=GUID-500F0364-A485-4168-BBDD-95A8C05A3EDA=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Print-preview-accuracy-content-clipped=GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3=2=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Print-preview-accuracy-content-clipped=GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3=2=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F1B6A4C5-93AA-4CEA-823A-40F787E9E47F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Product-features-and-benefits=GUID-F1B6A4C5-93AA-4CEA-823A-40F787E9E47F=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_Product-features-and-benefits=GUID-F1B6A4C5-93AA-4CEA-823A-40F787E9E47F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-51CB9372-844D-456A-BAEA-B1FDC1033E33",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_The-printer-does-not-receive-the-job=GUID-51CB9372-844D-456A-BAEA-B1FDC1033E33=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "r_sw-solutions_sm_The-printer-does-not-receive-the-job=GUID-51CB9372-844D-456A-BAEA-B1FDC1033E33=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-05897A20-7845-4FC6-AE24-35B09891138F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/t_sw-solutions_sm_Installation-process=GUID-05897A20-7845-4FC6-AE24-35B09891138F=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "t_sw-solutions_sm_Installation-process=GUID-05897A20-7845-4FC6-AE24-35B09891138F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DEDCFB51-FAAC-4F6C-883E-CF432F8E2997",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-click-driver/t_sw-solutions_sm_The-name-of-the-printer-queue-is-not-recognizable=GUID-DEDCFB51-FAAC-4F6C-883E-CF432F8E2997=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-click",
+      "chapter": "HP-click-driver",
+      "filename": "t_sw-solutions_sm_The-name-of-the-printer-queue-is-not-recognizable=GUID-DEDCFB51-FAAC-4F6C-883E-CF432F8E2997=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A641A2AD-6E3B-44F2-8CB8-AEC8D2E1A3C6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Borderless-printing=GUID-A641A2AD-6E3B-44F2-8CB8-AEC8D2E1A3C6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Borderless-printing=GUID-A641A2AD-6E3B-44F2-8CB8-AEC8D2E1A3C6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-96DF2EFB-AFF0-4D1B-A745-D4B34569F4D0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Connecting-an-hp-pagewide-xl-scanner=GUID-96DF2EFB-AFF0-4D1B-A745-D4B34569F4D0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Connecting-an-hp-pagewide-xl-scanner=GUID-96DF2EFB-AFF0-4D1B-A745-D4B34569F4D0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-98CAC54D-F2A9-4A1D-BE6D-31D2D638F356",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Document-organizer-module=GUID-98CAC54D-F2A9-4A1D-BE6D-31D2D638F356=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Document-organizer-module=GUID-98CAC54D-F2A9-4A1D-BE6D-31D2D638F356=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-10DEFDAB-F5B1-4CD4-ABA0-3549ADCEA235",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Double-sided-printing=GUID-10DEFDAB-F5B1-4CD4-ABA0-3549ADCEA235=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Double-sided-printing=GUID-10DEFDAB-F5B1-4CD4-ABA0-3549ADCEA235=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-3A478DB4-4A34-431C-ABD5-DB3AEA012831",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Edit-a-job=GUID-3A478DB4-4A34-431C-ABD5-DB3AEA012831=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Edit-a-job=GUID-3A478DB4-4A34-431C-ABD5-DB3AEA012831=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-ED703AF6-0D3A-4504-B72A-F8F26682F26D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_History=GUID-ED703AF6-0D3A-4504-B72A-F8F26682F26D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_History=GUID-ED703AF6-0D3A-4504-B72A-F8F26682F26D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-02C3ABC8-301A-4DAD-B3A7-A94F4BED5CAD",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_How-to-use-non-hp-printers-with-hp-smartstream=GUID-02C3ABC8-301A-4DAD-B3A7-A94F4BED5CAD=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_How-to-use-non-hp-printers-with-hp-smartstream=GUID-02C3ABC8-301A-4DAD-B3A7-A94F4BED5CAD=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F8F416F4-8D1E-4473-8721-FF157B36C813",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_HP-smartstream-preflight-manager=GUID-F8F416F4-8D1E-4473-8721-FF157B36C813=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_HP-smartstream-preflight-manager=GUID-F8F416F4-8D1E-4473-8721-FF157B36C813=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D97CE34E-072D-45CD-81AB-EFFAF06F6C7D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Introduction_smartstream=GUID-D97CE34E-072D-45CD-81AB-EFFAF06F6C7D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Introduction_smartstream=GUID-D97CE34E-072D-45CD-81AB-EFFAF06F6C7D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8DC32D02-3FC6-4A03-8CBB-787D898E7CBB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Job-overview=GUID-8DC32D02-3FC6-4A03-8CBB-787D898E7CBB=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Job-overview=GUID-8DC32D02-3FC6-4A03-8CBB-787D898E7CBB=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DA901F73-9F66-439D-8D10-78781099FCFF",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Job-preparation=GUID-DA901F73-9F66-439D-8D10-78781099FCFF=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Job-preparation=GUID-DA901F73-9F66-439D-8D10-78781099FCFF=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8C2B7977-6F4C-48F2-8B24-08E17F3589F9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Nesting=GUID-8C2B7977-6F4C-48F2-8B24-08E17F3589F9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Nesting=GUID-8C2B7977-6F4C-48F2-8B24-08E17F3589F9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DB3E9797-1FE1-41F3-A150-66B2C450CFC6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_OCR-renaming=GUID-DB3E9797-1FE1-41F3-A150-66B2C450CFC6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_OCR-renaming=GUID-DB3E9797-1FE1-41F3-A150-66B2C450CFC6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0896A55D-2664-47D5-91EE-C888BE68C80F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Optional-modules-for-advanced-users=GUID-0896A55D-2664-47D5-91EE-C888BE68C80F=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Optional-modules-for-advanced-users=GUID-0896A55D-2664-47D5-91EE-C888BE68C80F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9AEE5B8A-4ABA-46E1-B16C-1A1CEB5305E9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Other-considerations=GUID-9AEE5B8A-4ABA-46E1-B16C-1A1CEB5305E9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Other-considerations=GUID-9AEE5B8A-4ABA-46E1-B16C-1A1CEB5305E9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6E7764F5-48B9-4997-8356-474B23B887D0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Page-options=GUID-6E7764F5-48B9-4997-8356-474B23B887D0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Page-options=GUID-6E7764F5-48B9-4997-8356-474B23B887D0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2BBA1DF3-2C17-4A04-ACFD-C1724D7A7CB6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Pixel-analysis-module=GUID-2BBA1DF3-2C17-4A04-ACFD-C1724D7A7CB6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Pixel-analysis-module=GUID-2BBA1DF3-2C17-4A04-ACFD-C1724D7A7CB6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-52F26B0D-1D74-4C2F-BFA9-59FC9EC5E3AA",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Print-preview=GUID-52F26B0D-1D74-4C2F-BFA9-59FC9EC5E3AA=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Print-preview=GUID-52F26B0D-1D74-4C2F-BFA9-59FC9EC5E3AA=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6FA22BF5-0867-4F90-9C95-AE462F9B3DA0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Print-settings=GUID-6FA22BF5-0867-4F90-9C95-AE462F9B3DA0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Print-settings=GUID-6FA22BF5-0867-4F90-9C95-AE462F9B3DA0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8BC596FD-1B7F-45E5-AE48-B95AEB6FA6D6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Printers-pane=GUID-8BC596FD-1B7F-45E5-AE48-B95AEB6FA6D6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Printers-pane=GUID-8BC596FD-1B7F-45E5-AE48-B95AEB6FA6D6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-5443DA7D-FDB7-438E-AA15-DE8D31B79959",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Printers=GUID-5443DA7D-FDB7-438E-AA15-DE8D31B79959=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Printers=GUID-5443DA7D-FDB7-438E-AA15-DE8D31B79959=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-44F21339-34D2-4795-93F1-B1EB25709203",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Printing-on-sheets=GUID-44F21339-34D2-4795-93F1-B1EB25709203=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Printing-on-sheets=GUID-44F21339-34D2-4795-93F1-B1EB25709203=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E4EDA563-4619-4FFD-9B1D-E5B8659AAB69",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Printing=GUID-E4EDA563-4619-4FFD-9B1D-E5B8659AAB69=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Printing=GUID-E4EDA563-4619-4FFD-9B1D-E5B8659AAB69=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D58221DC-8C3B-4D8E-AED3-0356AD3BF58C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Recommended-ways-to-set-up-the-software=GUID-D58221DC-8C3B-4D8E-AED3-0356AD3BF58C=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Recommended-ways-to-set-up-the-software=GUID-D58221DC-8C3B-4D8E-AED3-0356AD3BF58C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DDB2EB4F-E88A-4AC5-8E22-C6072CF6610E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Rename-pages=GUID-DDB2EB4F-E88A-4AC5-8E22-C6072CF6610E=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Rename-pages=GUID-DDB2EB4F-E88A-4AC5-8E22-C6072CF6610E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E118FB59-4F5C-44F1-84B5-DB0A15AC4C15",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Scanning=GUID-E118FB59-4F5C-44F1-84B5-DB0A15AC4C15=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Scanning=GUID-E118FB59-4F5C-44F1-84B5-DB0A15AC4C15=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4BC47A17-804B-46C2-9013-8B88D349FB8F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Set-preferences=GUID-4BC47A17-804B-46C2-9013-8B88D349FB8F=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Set-preferences=GUID-4BC47A17-804B-46C2-9013-8B88D349FB8F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B6457516-9991-4BD7-8948-CF14C11347A3",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Stamps=GUID-B6457516-9991-4BD7-8948-CF14C11347A3=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Stamps=GUID-B6457516-9991-4BD7-8948-CF14C11347A3=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-907E3602-1C02-4837-B273-B40077A71A69",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Submission-driver=GUID-907E3602-1C02-4837-B273-B40077A71A69=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Submission-driver=GUID-907E3602-1C02-4837-B273-B40077A71A69=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6ACAF531-81EC-4ED5-B388-8E8837C638E9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Troubleshooting_smartstream=GUID-6ACAF531-81EC-4ED5-B388-8E8837C638E9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Troubleshooting_smartstream=GUID-6ACAF531-81EC-4ED5-B388-8E8837C638E9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DE23A388-A76E-476C-B382-50937394B4A1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_Vertical-trimmer=GUID-DE23A388-A76E-476C-B382-50937394B4A1=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_Vertical-trimmer=GUID-DE23A388-A76E-476C-B382-50937394B4A1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-CED3779F-08DE-4576-8CAD-169B2F76C6C9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_skylon_ug_What-do-i-see-on-the-screen=GUID-CED3779F-08DE-4576-8CAD-169B2F76C6C9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_skylon_ug_What-do-i-see-on-the-screen=GUID-CED3779F-08DE-4576-8CAD-169B2F76C6C9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_sw-solutions_ug_HP-smartstream=GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB=2=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_sw-solutions_ug_HP-smartstream=GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB=2=en-US=.xml"
+    },
+    {
+      "guid": "GUID-98293183-A3CE-4B11-B080-905FD544E183",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/c_sw-solutions_ug_Shortcut-keys=GUID-98293183-A3CE-4B11-B080-905FD544E183=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "c_sw-solutions_ug_Shortcut-keys=GUID-98293183-A3CE-4B11-B080-905FD544E183=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-AF654D8F-0222-4ABE-B0C0-3286A390A6CC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_Skylon_UG-change-a-printers-ip-address-or-hostname=GUID-AF654D8F-0222-4ABE-B0C0-3286A390A6CC=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_Skylon_UG-change-a-printers-ip-address-or-hostname=GUID-AF654D8F-0222-4ABE-B0C0-3286A390A6CC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9E0BE42A-7002-4956-8A98-FFC201E54C3C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Accessory-status=GUID-9E0BE42A-7002-4956-8A98-FFC201E54C3C=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Accessory-status=GUID-9E0BE42A-7002-4956-8A98-FFC201E54C3C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-169FAA10-1299-485B-848E-EB0082B270BA",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Automatic-alignment=GUID-169FAA10-1299-485B-848E-EB0082B270BA=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Automatic-alignment=GUID-169FAA10-1299-485B-848E-EB0082B270BA=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B3138E0A-EFAB-4A93-92CF-E7B60E400FE6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Automatic-attribute-detection-and-setting-assignment=GUID-B3138E0A-EFAB-4A93-92CF-E7B60E400FE6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Automatic-attribute-detection-and-setting-assignment=GUID-B3138E0A-EFAB-4A93-92CF-E7B60E400FE6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-971E66FE-6686-4125-975B-C54E8B5C4265",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Cancel-jobs=GUID-971E66FE-6686-4125-975B-C54E8B5C4265=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Cancel-jobs=GUID-971E66FE-6686-4125-975B-C54E8B5C4265=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-60AC632F-0F8A-4451-BAF0-2A94DD499F86",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Color-management=GUID-60AC632F-0F8A-4451-BAF0-2A94DD499F86=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Color-management=GUID-60AC632F-0F8A-4451-BAF0-2A94DD499F86=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8F8F7D6F-7211-49A8-8F10-3209B68D0A35",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Delete-a-job=GUID-8F8F7D6F-7211-49A8-8F10-3209B68D0A35=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Delete-a-job=GUID-8F8F7D6F-7211-49A8-8F10-3209B68D0A35=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9282B0E0-702A-4470-B045-813F40C93B9E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Delete-pages=GUID-9282B0E0-702A-4470-B045-813F40C93B9E=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Delete-pages=GUID-9282B0E0-702A-4470-B045-813F40C93B9E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-510F4417-8C24-4C4D-8AF7-69AE2B1AFCFA",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Discipline=GUID-510F4417-8C24-4C4D-8AF7-69AE2B1AFCFA=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Discipline=GUID-510F4417-8C24-4C4D-8AF7-69AE2B1AFCFA=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DA0014AD-D459-4346-BE57-4143DB28E25A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Double-sided-nesting=GUID-DA0014AD-D459-4346-BE57-4143DB28E25A=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Double-sided-nesting=GUID-DA0014AD-D459-4346-BE57-4143DB28E25A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-39CB49D0-21EF-44C8-A431-C3EA7602CE29",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_End-to-end-printing-workflow=GUID-39CB49D0-21EF-44C8-A431-C3EA7602CE29=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_End-to-end-printing-workflow=GUID-39CB49D0-21EF-44C8-A431-C3EA7602CE29=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-00A0304F-7521-4AB1-91B9-CDE458BD86D2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Filtered-and-unchecked-pages=GUID-00A0304F-7521-4AB1-91B9-CDE458BD86D2=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Filtered-and-unchecked-pages=GUID-00A0304F-7521-4AB1-91B9-CDE458BD86D2=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-ECCEEC45-F0CE-449F-89FC-AD9B76C4D02C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Gloss-enhancer=GUID-ECCEEC45-F0CE-449F-89FC-AD9B76C4D02C=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Gloss-enhancer=GUID-ECCEEC45-F0CE-449F-89FC-AD9B76C4D02C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8EEC8710-665C-47AC-8E8E-AA54BD3DFAC0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_History=GUID-8EEC8710-665C-47AC-8E8E-AA54BD3DFAC0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_History=GUID-8EEC8710-665C-47AC-8E8E-AA54BD3DFAC0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-24DA36E4-04FE-4A7D-B55F-AD72F86C2CD0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_How-can-i-adjust-the-hp-smartstream-window=GUID-24DA36E4-04FE-4A7D-B55F-AD72F86C2CD0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_How-can-i-adjust-the-hp-smartstream-window=GUID-24DA36E4-04FE-4A7D-B55F-AD72F86C2CD0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-FEC86B3D-0EA0-40DF-B95C-528BF8DCD04B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_How-to-use-it_borderless-printing=GUID-FEC86B3D-0EA0-40DF-B95C-528BF8DCD04B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_How-to-use-it_borderless-printing=GUID-FEC86B3D-0EA0-40DF-B95C-528BF8DCD04B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9820B78B-8F75-4881-A233-D60DFEFCC4EE",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_How-to-use-it_vertical-trimmer=GUID-9820B78B-8F75-4881-A233-D60DFEFCC4EE=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_How-to-use-it_vertical-trimmer=GUID-9820B78B-8F75-4881-A233-D60DFEFCC4EE=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D54F1BA5-4A8C-4841-AD5F-D93B4FEEA555",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Image-page-and-roll=GUID-D54F1BA5-4A8C-4841-AD5F-D93B4FEEA555=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Image-page-and-roll=GUID-D54F1BA5-4A8C-4841-AD5F-D93B4FEEA555=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A9F81888-6F18-4EAD-BC50-4C88198C4646",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Job-details=GUID-A9F81888-6F18-4EAD-BC50-4C88198C4646=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Job-details=GUID-A9F81888-6F18-4EAD-BC50-4C88198C4646=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-7A6FE2AC-965A-4E34-B6AF-34539547933C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Move-or-copy-a-job-or-pages-to-another-printer=GUID-7A6FE2AC-965A-4E34-B6AF-34539547933C=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Move-or-copy-a-job-or-pages-to-another-printer=GUID-7A6FE2AC-965A-4E34-B6AF-34539547933C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-171B0E18-E69E-48B2-AF2C-2295862E914B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Other-limitations=GUID-171B0E18-E69E-48B2-AF2C-2295862E914B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Other-limitations=GUID-171B0E18-E69E-48B2-AF2C-2295862E914B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-ED898C73-5D88-4FF1-B182-1BF51BC06806",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Presets=GUID-ED898C73-5D88-4FF1-B182-1BF51BC06806=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Presets=GUID-ED898C73-5D88-4FF1-B182-1BF51BC06806=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6FC99DBE-15C1-4C35-9434-270EC0C0CC72",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Preview-tools=GUID-6FC99DBE-15C1-4C35-9434-270EC0C0CC72=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Preview-tools=GUID-6FC99DBE-15C1-4C35-9434-270EC0C0CC72=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-ADF7C71F-659A-4EB9-9C47-207BE95E0C55",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Preview=GUID-ADF7C71F-659A-4EB9-9C47-207BE95E0C55=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Preview=GUID-ADF7C71F-659A-4EB9-9C47-207BE95E0C55=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-57A0084C-6CD5-44B3-8A36-AD7847B011FB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Printer-preferences=GUID-57A0084C-6CD5-44B3-8A36-AD7847B011FB=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Printer-preferences=GUID-57A0084C-6CD5-44B3-8A36-AD7847B011FB=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A09FE1F5-3C9D-4949-8398-29226E355544",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Printer-queue=GUID-A09FE1F5-3C9D-4949-8398-29226E355544=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Printer-queue=GUID-A09FE1F5-3C9D-4949-8398-29226E355544=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-873AD611-3302-4CDB-8FD0-A9EF010659E7",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Printer-status=GUID-873AD611-3302-4CDB-8FD0-A9EF010659E7=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Printer-status=GUID-873AD611-3302-4CDB-8FD0-A9EF010659E7=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-7683D4D2-D414-48A5-A3DD-3354CC3725B5",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Printing-interruptions=GUID-7683D4D2-D414-48A5-A3DD-3354CC3725B5=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Printing-interruptions=GUID-7683D4D2-D414-48A5-A3DD-3354CC3725B5=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C7E10A6F-8716-4579-99F5-A18C6518B2C0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Reconfigure-a-job=GUID-C7E10A6F-8716-4579-99F5-A18C6518B2C0=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Reconfigure-a-job=GUID-C7E10A6F-8716-4579-99F5-A18C6518B2C0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-067DFAE9-E9F8-4F3E-865E-2F9ED8450589",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Remove-jobs-from-the-history=GUID-067DFAE9-E9F8-4F3E-865E-2F9ED8450589=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Remove-jobs-from-the-history=GUID-067DFAE9-E9F8-4F3E-865E-2F9ED8450589=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D23C5602-4F0E-4156-9433-F105FD9CE041",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Reprint-a-job=GUID-D23C5602-4F0E-4156-9433-F105FD9CE041=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Reprint-a-job=GUID-D23C5602-4F0E-4156-9433-F105FD9CE041=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C39400AF-068A-4A07-801C-6AE2F8FF0931",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Resolution-center=GUID-C39400AF-068A-4A07-801C-6AE2F8FF0931=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Resolution-center=GUID-C39400AF-068A-4A07-801C-6AE2F8FF0931=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-37CC2D52-F64A-41F2-9687-484F891D6196",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Search-the-history=GUID-37CC2D52-F64A-41F2-9687-484F891D6196=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Search-the-history=GUID-37CC2D52-F64A-41F2-9687-484F891D6196=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9262A0C7-F900-4C2F-AA2E-DA217379DB52",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_What-is-it-for=GUID-9262A0C7-F900-4C2F-AA2E-DA217379DB52=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_What-is-it-for=GUID-9262A0C7-F900-4C2F-AA2E-DA217379DB52=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4D854CEA-7746-42BE-947F-7E2BBF45E1A1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/e_skylon_ug_Workflow-management-module=GUID-4D854CEA-7746-42BE-947F-7E2BBF45E1A1=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "e_skylon_ug_Workflow-management-module=GUID-4D854CEA-7746-42BE-947F-7E2BBF45E1A1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2F7A6AC7-6278-4B8C-A424-29747028314C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Accounting-preferences=GUID-2F7A6AC7-6278-4B8C-A424-29747028314C=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Accounting-preferences=GUID-2F7A6AC7-6278-4B8C-A424-29747028314C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BD76530E-5E5D-4A0F-8A98-A5C6541A2A65",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Accounting=GUID-BD76530E-5E5D-4A0F-8A98-A5C6541A2A65=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Accounting=GUID-BD76530E-5E5D-4A0F-8A98-A5C6541A2A65=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D791E1DE-8B60-4234-B3B0-EE4B00FE5401",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Add-metadata=GUID-D791E1DE-8B60-4234-B3B0-EE4B00FE5401=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Add-metadata=GUID-D791E1DE-8B60-4234-B3B0-EE4B00FE5401=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6DC29F8F-96FA-4A2A-9DAB-54F2B47F7ECC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Autoprofiles=GUID-6DC29F8F-96FA-4A2A-9DAB-54F2B47F7ECC=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Autoprofiles=GUID-6DC29F8F-96FA-4A2A-9DAB-54F2B47F7ECC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-22017384-EB9A-4DC7-87C4-3E17640C5789",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Batch-renaming=GUID-22017384-EB9A-4DC7-87C4-3E17640C5789=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Batch-renaming=GUID-22017384-EB9A-4DC7-87C4-3E17640C5789=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-916CF48D-92A1-4AEE-A3F4-07BC9916B213",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Calculating-pixel-coverage=GUID-916CF48D-92A1-4AEE-A3F4-07BC9916B213=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Calculating-pixel-coverage=GUID-916CF48D-92A1-4AEE-A3F4-07BC9916B213=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C38F5775-34E7-47F9-9409-AA37A8ADBAA9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Categories-and-thresholds=GUID-C38F5775-34E7-47F9-9409-AA37A8ADBAA9=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Categories-and-thresholds=GUID-C38F5775-34E7-47F9-9409-AA37A8ADBAA9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-5FD688FD-275F-4257-A5F7-2E381E677D8A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Cropping=GUID-5FD688FD-275F-4257-A5F7-2E381E677D8A=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Cropping=GUID-5FD688FD-275F-4257-A5F7-2E381E677D8A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A658F514-9F99-442A-8F1E-851150AF1E4D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Crystal-preview=GUID-A658F514-9F99-442A-8F1E-851150AF1E4D=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Crystal-preview=GUID-A658F514-9F99-442A-8F1E-851150AF1E4D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0FF654ED-D6A3-4A56-A326-43B9BD76F18E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Double-sided-printing-order=GUID-0FF654ED-D6A3-4A56-A326-43B9BD76F18E=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Double-sided-printing-order=GUID-0FF654ED-D6A3-4A56-A326-43B9BD76F18E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0B6E6579-E229-4D73-A96C-1EDC52655A75",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Error-codes=GUID-0B6E6579-E229-4D73-A96C-1EDC52655A75=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Error-codes=GUID-0B6E6579-E229-4D73-A96C-1EDC52655A75=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BF78DA09-E4D1-4F90-AD5C-A6456C34D4BC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Exit-the-application-while-printing=GUID-BF78DA09-E4D1-4F90-AD5C-A6456C34D4BC=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Exit-the-application-while-printing=GUID-BF78DA09-E4D1-4F90-AD5C-A6456C34D4BC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-AD68B66A-61D0-47B8-B815-E08079759241",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Extract-pages=GUID-AD68B66A-61D0-47B8-B815-E08079759241=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Extract-pages=GUID-AD68B66A-61D0-47B8-B815-E08079759241=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A2C8095E-CDA2-478F-84F2-FB7CE9373AAC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_File-error-detection=GUID-A2C8095E-CDA2-478F-84F2-FB7CE9373AAC=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_File-error-detection=GUID-A2C8095E-CDA2-478F-84F2-FB7CE9373AAC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-FB77620B-D847-41E1-8E2C-F4B525304B88",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Filter-pages=GUID-FB77620B-D847-41E1-8E2C-F4B525304B88=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Filter-pages=GUID-FB77620B-D847-41E1-8E2C-F4B525304B88=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2E13C3BB-C28D-4B18-AE1B-3CDAD3551844",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_General-preferences=GUID-2E13C3BB-C28D-4B18-AE1B-3CDAD3551844=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_General-preferences=GUID-2E13C3BB-C28D-4B18-AE1B-3CDAD3551844=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-42077A6E-8C56-41F7-9977-5B904E643AF5",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_General-settings=GUID-42077A6E-8C56-41F7-9977-5B904E643AF5=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_General-settings=GUID-42077A6E-8C56-41F7-9977-5B904E643AF5=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D37192CB-3F88-49E6-9143-87DA58FF2E51",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Globals=GUID-D37192CB-3F88-49E6-9143-87DA58FF2E51=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Globals=GUID-D37192CB-3F88-49E6-9143-87DA58FF2E51=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6CF7C2FD-491B-4B31-88A0-76706D4B2A36",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Hot-folders=GUID-6CF7C2FD-491B-4B31-88A0-76706D4B2A36=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Hot-folders=GUID-6CF7C2FD-491B-4B31-88A0-76706D4B2A36=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D5563BAE-6D6E-4C38-89D3-4907AB0D2BE2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Icon-toolbar-selectors=GUID-D5563BAE-6D6E-4C38-89D3-4907AB0D2BE2=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Icon-toolbar-selectors=GUID-D5563BAE-6D6E-4C38-89D3-4907AB0D2BE2=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6B982B6B-C5FB-4FA3-BD24-E30BB1B03DB2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Ink-density-profile=GUID-6B982B6B-C5FB-4FA3-BD24-E30BB1B03DB2=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Ink-density-profile=GUID-6B982B6B-C5FB-4FA3-BD24-E30BB1B03DB2=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4706EB0C-0080-48E3-B75C-A97950B063AC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Introduction=GUID-4706EB0C-0080-48E3-B75C-A97950B063AC=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Introduction=GUID-4706EB0C-0080-48E3-B75C-A97950B063AC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-1590923D-5C9D-4DCC-B5E9-0EBCE1661DD3",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Job-details=GUID-1590923D-5C9D-4DCC-B5E9-0EBCE1661DD3=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Job-details=GUID-1590923D-5C9D-4DCC-B5E9-0EBCE1661DD3=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-955496AC-8AD9-412C-9370-CBBAC5CD0863",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Job-options=GUID-955496AC-8AD9-412C-9370-CBBAC5CD0863=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Job-options=GUID-955496AC-8AD9-412C-9370-CBBAC5CD0863=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-85592C71-9C13-4EF3-91A1-E914FC892A47",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Job-selectors=GUID-85592C71-9C13-4EF3-91A1-E914FC892A47=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Job-selectors=GUID-85592C71-9C13-4EF3-91A1-E914FC892A47=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2468DF23-0093-45DB-ACFF-27E017F8640A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Job-separators-hp-pagewide-xl-only=GUID-2468DF23-0093-45DB-ACFF-27E017F8640A=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Job-separators-hp-pagewide-xl-only=GUID-2468DF23-0093-45DB-ACFF-27E017F8640A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9AA89AC6-02E5-4E46-81B6-8FD60D475616",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Job-summary=GUID-9AA89AC6-02E5-4E46-81B6-8FD60D475616=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Job-summary=GUID-9AA89AC6-02E5-4E46-81B6-8FD60D475616=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DD77B3C9-481E-4B7B-99B2-D105476A3A8C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Labels=GUID-DD77B3C9-481E-4B7B-99B2-D105476A3A8C=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Labels=GUID-DD77B3C9-481E-4B7B-99B2-D105476A3A8C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F84F7A76-CC63-44C8-AD90-DB2C4B35A49B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Manual-renaming=GUID-F84F7A76-CC63-44C8-AD90-DB2C4B35A49B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Manual-renaming=GUID-F84F7A76-CC63-44C8-AD90-DB2C4B35A49B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-35DAF6D1-668A-4DA2-ADBA-4888403CD7C7",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Mirror=GUID-35DAF6D1-668A-4DA2-ADBA-4888403CD7C7=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Mirror=GUID-35DAF6D1-668A-4DA2-ADBA-4888403CD7C7=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0420D07D-400D-4254-85A7-4DE6A0FB607B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Nesting-preferences-on-roll-paper=GUID-0420D07D-400D-4254-85A7-4DE6A0FB607B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Nesting-preferences-on-roll-paper=GUID-0420D07D-400D-4254-85A7-4DE6A0FB607B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B93ECFA8-EAF2-4EC5-AEC4-F1BA8BF5278D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Nesting-preferences-on-sheet-paper=GUID-B93ECFA8-EAF2-4EC5-AEC4-F1BA8BF5278D=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Nesting-preferences-on-sheet-paper=GUID-B93ECFA8-EAF2-4EC5-AEC4-F1BA8BF5278D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F33156ED-2D30-4997-BFFD-01332D7BE857",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Notifications=GUID-F33156ED-2D30-4997-BFFD-01332D7BE857=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Notifications=GUID-F33156ED-2D30-4997-BFFD-01332D7BE857=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-86C77C12-39C4-4588-A090-26E9D9FBC6D4",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_OCR-simulation=GUID-86C77C12-39C4-4588-A090-26E9D9FBC6D4=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_OCR-simulation=GUID-86C77C12-39C4-4588-A090-26E9D9FBC6D4=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6EA93D38-36B6-45B9-93ED-669419E38761",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Overall-selectors=GUID-6EA93D38-36B6-45B9-93ED-669419E38761=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Overall-selectors=GUID-6EA93D38-36B6-45B9-93ED-669419E38761=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A474AB50-B401-4CA6-B0AD-653652424F34",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Page-options=GUID-A474AB50-B401-4CA6-B0AD-653652424F34=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Page-options=GUID-A474AB50-B401-4CA6-B0AD-653652424F34=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8753ACCB-4A3C-4B55-954B-7081465BE68A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Paper-source-options=GUID-8753ACCB-4A3C-4B55-954B-7081465BE68A=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Paper-source-options=GUID-8753ACCB-4A3C-4B55-954B-7081465BE68A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E2E881EC-25DA-419C-8AE3-95CE5E390DD4",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Preparing-a-job=GUID-E2E881EC-25DA-419C-8AE3-95CE5E390DD4=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Preparing-a-job=GUID-E2E881EC-25DA-419C-8AE3-95CE5E390DD4=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8465B85C-F9A6-4457-A507-C32D9081F7FE",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Presets=GUID-8465B85C-F9A6-4457-A507-C32D9081F7FE=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Presets=GUID-8465B85C-F9A6-4457-A507-C32D9081F7FE=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-EC7A3B73-5B07-499A-A0BB-0FCFF79D4C52",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Preview-features=GUID-EC7A3B73-5B07-499A-A0BB-0FCFF79D4C52=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Preview-features=GUID-EC7A3B73-5B07-499A-A0BB-0FCFF79D4C52=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-47F7A145-7F2F-413E-9F61-A3769709F61C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Preview-selectors=GUID-47F7A145-7F2F-413E-9F61-A3769709F61C=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Preview-selectors=GUID-47F7A145-7F2F-413E-9F61-A3769709F61C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-FFCDADEA-514D-4992-84B3-001181664CB3",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Printer-specific-preferences=GUID-FFCDADEA-514D-4992-84B3-001181664CB3=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Printer-specific-preferences=GUID-FFCDADEA-514D-4992-84B3-001181664CB3=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E348E76B-E162-48AE-9A33-CA164CF59112",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Printing-queue=GUID-E348E76B-E162-48AE-9A33-CA164CF59112=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Printing-queue=GUID-E348E76B-E162-48AE-9A33-CA164CF59112=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-07226E56-4E1E-4664-B4DB-86CC585F9AFD",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_QR-codes=GUID-07226E56-4E1E-4664-B4DB-86CC585F9AFD=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_QR-codes=GUID-07226E56-4E1E-4664-B4DB-86CC585F9AFD=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0B6D36BE-F0BC-436E-AB54-94E07C9ECF88",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Resolution-center=GUID-0B6D36BE-F0BC-436E-AB54-94E07C9ECF88=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Resolution-center=GUID-0B6D36BE-F0BC-436E-AB54-94E07C9ECF88=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DB67A6E7-3639-42C7-BB64-DC3A7A260313",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Side-to-side-registration=GUID-DB67A6E7-3639-42C7-BB64-DC3A7A260313=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Side-to-side-registration=GUID-DB67A6E7-3639-42C7-BB64-DC3A7A260313=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-6DB4CA8E-A6C0-4442-AA63-E4630C24224F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Sort-pages=GUID-6DB4CA8E-A6C0-4442-AA63-E4630C24224F=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Sort-pages=GUID-6DB4CA8E-A6C0-4442-AA63-E4630C24224F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-74C308E2-437A-4134-94A5-5B100293B3F0",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Stamps-in-the-preview=GUID-74C308E2-437A-4134-94A5-5B100293B3F0=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Stamps-in-the-preview=GUID-74C308E2-437A-4134-94A5-5B100293B3F0=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0A1E9F73-1285-4A10-B118-74DBE4BE4F39",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Submit-jobs-for-printing=GUID-0A1E9F73-1285-4A10-B118-74DBE4BE4F39=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Submit-jobs-for-printing=GUID-0A1E9F73-1285-4A10-B118-74DBE4BE4F39=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-DF2D6E29-1B5A-4338-90DE-8A2303C0A168",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Toolbar=GUID-DF2D6E29-1B5A-4338-90DE-8A2303C0A168=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Toolbar=GUID-DF2D6E29-1B5A-4338-90DE-8A2303C0A168=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-1228BAF6-D332-4033-AC8C-669D5321292B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Tracking-files-added-to-the-job=GUID-1228BAF6-D332-4033-AC8C-669D5321292B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Tracking-files-added-to-the-job=GUID-1228BAF6-D332-4033-AC8C-669D5321292B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9D7287E9-DDB5-4C30-B162-5DBB3B576475",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Troubleshooting-tool=GUID-9D7287E9-DDB5-4C30-B162-5DBB3B576475=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Troubleshooting-tool=GUID-9D7287E9-DDB5-4C30-B162-5DBB3B576475=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-31ED9E5E-D146-47E0-86DA-DD2B346657A8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Undock-the-preview=GUID-31ED9E5E-D146-47E0-86DA-DD2B346657A8=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Undock-the-preview=GUID-31ED9E5E-D146-47E0-86DA-DD2B346657A8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-928CB851-B766-452E-A1D0-B5D5BC7C8B86",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Visual-job-overview=GUID-928CB851-B766-452E-A1D0-B5D5BC7C8B86=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Visual-job-overview=GUID-928CB851-B766-452E-A1D0-B5D5BC7C8B86=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-69545EE9-395A-4A3A-8273-5F7D38DD2D56",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_skylon_ug_Zoom-to-legend-box=GUID-69545EE9-395A-4A3A-8273-5F7D38DD2D56=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_skylon_ug_Zoom-to-legend-box=GUID-69545EE9-395A-4A3A-8273-5F7D38DD2D56=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-539D04FD-88E4-4A76-A463-25CE272A0D2E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/r_SW-Soliutions-SmartStream_UG-preflight-desk=GUID-539D04FD-88E4-4A76-A463-25CE272A0D2E=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "r_SW-Soliutions-SmartStream_UG-preflight-desk=GUID-539D04FD-88E4-4A76-A463-25CE272A0D2E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-85B76A3E-9934-4439-8102-23C082203790",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_Skylon_UG-delete-a-printer=GUID-85B76A3E-9934-4439-8102-23C082203790=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_Skylon_UG-delete-a-printer=GUID-85B76A3E-9934-4439-8102-23C082203790=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8BC7036E-E14A-4218-9A0D-39F185B8945D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Add-the-hot-folder-in-hp-smartstream=GUID-8BC7036E-E14A-4218-9A0D-39F185B8945D=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Add-the-hot-folder-in-hp-smartstream=GUID-8BC7036E-E14A-4218-9A0D-39F185B8945D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-FFA5A705-4BC2-468A-8B32-F59C1831B0D8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Create-a-new-ocr-profile=GUID-FFA5A705-4BC2-468A-8B32-F59C1831B0D8=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Create-a-new-ocr-profile=GUID-FFA5A705-4BC2-468A-8B32-F59C1831B0D8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-702DAA5F-CAEC-4C9C-97D0-93EFCAD323D4",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Distributed-workflows=GUID-702DAA5F-CAEC-4C9C-97D0-93EFCAD323D4=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Distributed-workflows=GUID-702DAA5F-CAEC-4C9C-97D0-93EFCAD323D4=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D9751CCA-8F0B-4CA8-920E-A1E41A962291",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Folding=GUID-D9751CCA-8F0B-4CA8-920E-A1E41A962291=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Folding=GUID-D9751CCA-8F0B-4CA8-920E-A1E41A962291=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-CDAFFB62-A09C-4D9B-8CB6-F254B9C39B1B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_HP-applications-center=GUID-CDAFFB62-A09C-4D9B-8CB6-F254B9C39B1B=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_HP-applications-center=GUID-CDAFFB62-A09C-4D9B-8CB6-F254B9C39B1B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D2B46210-75DF-4044-B25F-70107392A33E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Installing-the-printer=GUID-D2B46210-75DF-4044-B25F-70107392A33E=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Installing-the-printer=GUID-D2B46210-75DF-4044-B25F-70107392A33E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2DBD142D-1812-4087-997F-8218B515DDD1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Restrict-account-ids=GUID-2DBD142D-1812-4087-997F-8218B515DDD1=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Restrict-account-ids=GUID-2DBD142D-1812-4087-997F-8218B515DDD1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-51E0418C-BF8D-447D-92F2-39282BD4AED8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_The-job-preparation-process=GUID-51E0418C-BF8D-447D-92F2-39282BD4AED8=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_The-job-preparation-process=GUID-51E0418C-BF8D-447D-92F2-39282BD4AED8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-54A8AE9E-A1C3-4243-954C-0910BC7E0C1D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Using-a-multifunction-printer-that-includes-a-scanner=GUID-54A8AE9E-A1C3-4243-954C-0910BC7E0C1D=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Using-a-multifunction-printer-that-includes-a-scanner=GUID-54A8AE9E-A1C3-4243-954C-0910BC7E0C1D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-502F98D8-4171-4023-B105-DCCA9F36BC3C",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_skylon_ug_Using-an-hp-pagewide-xl-scanner=GUID-502F98D8-4171-4023-B105-DCCA9F36BC3C=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_skylon_ug_Using-an-hp-pagewide-xl-scanner=GUID-502F98D8-4171-4023-B105-DCCA9F36BC3C=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8755A230-F32F-43C2-801F-CBA1D6FFAD17",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_sw-solutions_ug_Add-a-printer_smartstream=GUID-8755A230-F32F-43C2-801F-CBA1D6FFAD17=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_sw-solutions_ug_Add-a-printer_smartstream=GUID-8755A230-F32F-43C2-801F-CBA1D6FFAD17=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-937694A6-87B5-4735-BE84-7EA97F8E1E06",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smartstream/t_sw-solutions_ug_Getting-started_smartstream=GUID-937694A6-87B5-4735-BE84-7EA97F8E1E06=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smartstream",
+      "chapter": "HP-smartstream",
+      "filename": "t_sw-solutions_ug_Getting-started_smartstream=GUID-937694A6-87B5-4735-BE84-7EA97F8E1E06=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C4B8A12B-B6E0-4FCD-8AE1-ED19A62824A8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Connectivity=GUID-C4B8A12B-B6E0-4FCD-8AE1-ED19A62824A8=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Connectivity=GUID-C4B8A12B-B6E0-4FCD-8AE1-ED19A62824A8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4C5472A7-77FA-45D4-9467-9C7937DC8524",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Database-management=GUID-4C5472A7-77FA-45D4-9467-9C7937DC8524=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Database-management=GUID-4C5472A7-77FA-45D4-9467-9C7937DC8524=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-3089499A-ED51-49B6-9838-558B015C574D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Import-export-csv=GUID-3089499A-ED51-49B6-9838-558B015C574D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Import-export-csv=GUID-3089499A-ED51-49B6-9838-558B015C574D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E6653E00-FC8A-4203-95D1-CDAE2266627B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Options=GUID-E6653E00-FC8A-4203-95D1-CDAE2266627B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Options=GUID-E6653E00-FC8A-4203-95D1-CDAE2266627B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-72B53A17-3822-4F8C-8F2E-BCF1011FA06B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Printers=GUID-72B53A17-3822-4F8C-8F2E-BCF1011FA06B=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Printers=GUID-72B53A17-3822-4F8C-8F2E-BCF1011FA06B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-03042701-0386-420F-AB6B-795DA155C26A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Printing-workflow-authentication=GUID-03042701-0386-420F-AB6B-795DA155C26A=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Printing-workflow-authentication=GUID-03042701-0386-420F-AB6B-795DA155C26A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BF138412-C1F7-4590-A140-8C604509F8D9",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_smarttracker_ug_Selecting-the-required-touch-points=GUID-BF138412-C1F7-4590-A140-8C604509F8D9=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_smarttracker_ug_Selecting-the-required-touch-points=GUID-BF138412-C1F7-4590-A140-8C604509F8D9=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A218CD72-85AB-4932-B406-36678D7E1756",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/c_sw-solutions_ug_HP-smarttracker=GUID-A218CD72-85AB-4932-B406-36678D7E1756=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "c_sw-solutions_ug_HP-smarttracker=GUID-A218CD72-85AB-4932-B406-36678D7E1756=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BE6E0F67-54E4-426B-AB51-990587C1D5A5",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Custom-jobs-pages-raw-data=GUID-BE6E0F67-54E4-426B-AB51-990587C1D5A5=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Custom-jobs-pages-raw-data=GUID-BE6E0F67-54E4-426B-AB51-990587C1D5A5=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C5ED23FF-1D48-4EA9-9AA4-9572404FC58D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Generating-reports=GUID-C5ED23FF-1D48-4EA9-9AA4-9572404FC58D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Generating-reports=GUID-C5ED23FF-1D48-4EA9-9AA4-9572404FC58D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2106B9D4-D1F8-453E-A7EE-A0506CDF91A8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Manual-update=GUID-2106B9D4-D1F8-453E-A7EE-A0506CDF91A8=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Manual-update=GUID-2106B9D4-D1F8-453E-A7EE-A0506CDF91A8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-8172680F-68B6-48A0-A877-693C6273FD3F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Removing-a-filter=GUID-8172680F-68B6-48A0-A877-693C6273FD3F=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Removing-a-filter=GUID-8172680F-68B6-48A0-A877-693C6273FD3F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B0373CD3-4DDC-4A62-948E-10630AD8AA4D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Restore=GUID-B0373CD3-4DDC-4A62-948E-10630AD8AA4D=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Restore=GUID-B0373CD3-4DDC-4A62-948E-10630AD8AA4D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-B8EB3826-FB9B-46E4-A82B-096BB7585281",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Setting-a-company-logo-for-reports=GUID-B8EB3826-FB9B-46E4-A82B-096BB7585281=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Setting-a-company-logo-for-reports=GUID-B8EB3826-FB9B-46E4-A82B-096BB7585281=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-85AD2389-85DB-43B8-A28B-727D022D93B6",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Setting-the-application-language=GUID-85AD2389-85DB-43B8-A28B-727D022D93B6=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Setting-the-application-language=GUID-85AD2389-85DB-43B8-A28B-727D022D93B6=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-E432FCFB-F85B-42E7-8063-CB63409A6D13",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Setting-the-application-units=GUID-E432FCFB-F85B-42E7-8063-CB63409A6D13=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Setting-the-application-units=GUID-E432FCFB-F85B-42E7-8063-CB63409A6D13=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-44C0EAF3-D014-4B10-95F5-D634DBAA86AB",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Setting-the-costs-and-prices-configuration=GUID-44C0EAF3-D014-4B10-95F5-D634DBAA86AB=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Setting-the-costs-and-prices-configuration=GUID-44C0EAF3-D014-4B10-95F5-D634DBAA86AB=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-9CBE4A8C-0319-44BA-97AC-C795EFB280A1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/e_smarttracker_ug_Setting-the-currency=GUID-9CBE4A8C-0319-44BA-97AC-C795EFB280A1=1=en-US=.xml",
+      "topic_type": "concept",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "e_smarttracker_ug_Setting-the-currency=GUID-9CBE4A8C-0319-44BA-97AC-C795EFB280A1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-719BD398-A502-4712-A346-1EEE34B39865",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_About-the-home-screen=GUID-719BD398-A502-4712-A346-1EEE34B39865=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_About-the-home-screen=GUID-719BD398-A502-4712-A346-1EEE34B39865=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4B758575-5F73-49A3-A73D-B7E75244F669",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Advanced-network-interface=GUID-4B758575-5F73-49A3-A73D-B7E75244F669=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Advanced-network-interface=GUID-4B758575-5F73-49A3-A73D-B7E75244F669=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-F06FE746-D7BC-4C0F-B8B8-CD8D8841C9BC",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Authentication-error-cases=GUID-F06FE746-D7BC-4C0F-B8B8-CD8D8841C9BC=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Authentication-error-cases=GUID-F06FE746-D7BC-4C0F-B8B8-CD8D8841C9BC=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2C3A086A-F04C-460F-9607-6AAF37D40043",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Backup-restore-database=GUID-2C3A086A-F04C-460F-9607-6AAF37D40043=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Backup-restore-database=GUID-2C3A086A-F04C-460F-9607-6AAF37D40043=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-5805A23E-9AD0-47EC-8FD6-538D1DD2C053",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Clean-up-database=GUID-5805A23E-9AD0-47EC-8FD6-538D1DD2C053=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Clean-up-database=GUID-5805A23E-9AD0-47EC-8FD6-538D1DD2C053=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2F79D863-DA14-4B04-9C79-E03B4EFFE5B3",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Configuration-import-csv=GUID-2F79D863-DA14-4B04-9C79-E03B4EFFE5B3=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Configuration-import-csv=GUID-2F79D863-DA14-4B04-9C79-E03B4EFFE5B3=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0B8113BC-6613-483F-9765-82635FC111D2",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Configuration-via-active-directory=GUID-0B8113BC-6613-483F-9765-82635FC111D2=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Configuration-via-active-directory=GUID-0B8113BC-6613-483F-9765-82635FC111D2=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0FD65775-DC7B-46F1-AD19-08E0A8DE51E8",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Configuring-printers=GUID-0FD65775-DC7B-46F1-AD19-08E0A8DE51E8=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Configuring-printers=GUID-0FD65775-DC7B-46F1-AD19-08E0A8DE51E8=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-97A1BF35-F179-437A-A19C-67AD57704A92",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Configuring-users-of-printers-and-printer-groups=GUID-97A1BF35-F179-437A-A19C-67AD57704A92=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Configuring-users-of-printers-and-printer-groups=GUID-97A1BF35-F179-437A-A19C-67AD57704A92=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-263336D0-6D55-4D33-920A-405E19E4EA28",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Costs=GUID-263336D0-6D55-4D33-920A-405E19E4EA28=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Costs=GUID-263336D0-6D55-4D33-920A-405E19E4EA28=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C9D78ECA-6279-4BC6-BB91-A267C81DA42F",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Custom-logo=GUID-C9D78ECA-6279-4BC6-BB91-A267C81DA42F=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Custom-logo=GUID-C9D78ECA-6279-4BC6-BB91-A267C81DA42F=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-37E9C7C2-D46F-4E99-A608-AD41CAD65ECF",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Custom=GUID-37E9C7C2-D46F-4E99-A608-AD41CAD65ECF=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Custom=GUID-37E9C7C2-D46F-4E99-A608-AD41CAD65ECF=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-599E9BB5-9920-4DE8-9218-A33001C7E917",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Departments=GUID-599E9BB5-9920-4DE8-9218-A33001C7E917=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Departments=GUID-599E9BB5-9920-4DE8-9218-A33001C7E917=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-0325E131-0A9A-4D6B-9DDE-2475380CE47D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Editing-a-printer=GUID-0325E131-0A9A-4D6B-9DDE-2475380CE47D=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Editing-a-printer=GUID-0325E131-0A9A-4D6B-9DDE-2475380CE47D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-73503653-A72F-4FA1-B38C-844E2130F754",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Export-csv=GUID-73503653-A72F-4FA1-B38C-844E2130F754=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Export-csv=GUID-73503653-A72F-4FA1-B38C-844E2130F754=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-EF1F4124-B01D-486E-B509-C9A8BB9A1F78",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Filtering=GUID-EF1F4124-B01D-486E-B509-C9A8BB9A1F78=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Filtering=GUID-EF1F4124-B01D-486E-B509-C9A8BB9A1F78=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-22672201-8122-4B0F-9AC9-797852E3D7A1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_HP-smarttrackers-email-service=GUID-22672201-8122-4B0F-9AC9-797852E3D7A1=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_HP-smarttrackers-email-service=GUID-22672201-8122-4B0F-9AC9-797852E3D7A1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-3EDDA4A2-B4A6-455C-ACB0-C4D809E05C9B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Launching-hp-smarttracker-the-first-time=GUID-3EDDA4A2-B4A6-455C-ACB0-C4D809E05C9B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Launching-hp-smarttracker-the-first-time=GUID-3EDDA4A2-B4A6-455C-ACB0-C4D809E05C9B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-5392C249-3506-4D13-BC74-BC83685D8840",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Logging-out=GUID-5392C249-3506-4D13-BC74-BC83685D8840=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Logging-out=GUID-5392C249-3506-4D13-BC74-BC83685D8840=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-BBB3C0DB-90E5-47E1-8391-47207795A847",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Marking-a-job-as-billable=GUID-BBB3C0DB-90E5-47E1-8391-47207795A847=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Marking-a-job-as-billable=GUID-BBB3C0DB-90E5-47E1-8391-47207795A847=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-01BB1171-3FAE-492F-AC53-411DEC7FDF87",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Permissions=GUID-01BB1171-3FAE-492F-AC53-411DEC7FDF87=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Permissions=GUID-01BB1171-3FAE-492F-AC53-411DEC7FDF87=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-D55DD9C1-1F65-402A-A28F-153B6B07A43E",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Prices=GUID-D55DD9C1-1F65-402A-A28F-153B6B07A43E=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Prices=GUID-D55DD9C1-1F65-402A-A28F-153B6B07A43E=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-4261787D-490E-4F59-BFB7-0F3E5E497578",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Printing-from-the-users-pc=GUID-4261787D-490E-4F59-BFB7-0F3E5E497578=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Printing-from-the-users-pc=GUID-4261787D-490E-4F59-BFB7-0F3E5E497578=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-2D3799EE-97A0-4A92-A43A-7F89CC06EBC1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Printing-scanning-or-copying-from-the-printers-control-panel=GUID-2D3799EE-97A0-4A92-A43A-7F89CC06EBC1=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Printing-scanning-or-copying-from-the-printers-control-panel=GUID-2D3799EE-97A0-4A92-A43A-7F89CC06EBC1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-26EFB279-2B26-445B-A7A9-CA246959421D",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Projects=GUID-26EFB279-2B26-445B-A7A9-CA246959421D=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Projects=GUID-26EFB279-2B26-445B-A7A9-CA246959421D=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-05E8252B-C1BD-482E-AC5B-94C92E26E7EF",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Reports=GUID-05E8252B-C1BD-482E-AC5B-94C92E26E7EF=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Reports=GUID-05E8252B-C1BD-482E-AC5B-94C92E26E7EF=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-1FD43016-60F4-4322-8FB7-2D550857AA16",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Schedule-and-email-user-project-or-department-reports=GUID-1FD43016-60F4-4322-8FB7-2D550857AA16=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Schedule-and-email-user-project-or-department-reports=GUID-1FD43016-60F4-4322-8FB7-2D550857AA16=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-702B37D0-5D8F-457F-8275-5522264E8636",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Scheduling-and-emailing-reports=GUID-702B37D0-5D8F-457F-8275-5522264E8636=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Scheduling-and-emailing-reports=GUID-702B37D0-5D8F-457F-8275-5522264E8636=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C0F210E1-5A5B-424E-A728-1631C4B38890",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Server-address-configuration=GUID-C0F210E1-5A5B-424E-A728-1631C4B38890=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Server-address-configuration=GUID-C0F210E1-5A5B-424E-A728-1631C4B38890=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-07752B38-A522-462E-BE54-D1A7DB136937",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Summary=GUID-07752B38-A522-462E-BE54-D1A7DB136937=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Summary=GUID-07752B38-A522-462E-BE54-D1A7DB136937=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-C5D39688-DD0A-41BD-BB05-8C54944B38D1",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Support-tool=GUID-C5D39688-DD0A-41BD-BB05-8C54944B38D1=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Support-tool=GUID-C5D39688-DD0A-41BD-BB05-8C54944B38D1=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-78F15B3C-22D0-4A1B-9580-E169D80C914B",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/r_smarttracker_ug_Touch-points=GUID-78F15B3C-22D0-4A1B-9580-E169D80C914B=1=en-US=.xml",
+      "topic_type": "reference",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "r_smarttracker_ug_Touch-points=GUID-78F15B3C-22D0-4A1B-9580-E169D80C914B=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-7852EC40-C5E7-4804-91EC-E44B4DB2C382",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/t_smarttracker_ug_Creating-a-group-of-printers=GUID-7852EC40-C5E7-4804-91EC-E44B4DB2C382=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "t_smarttracker_ug_Creating-a-group-of-printers=GUID-7852EC40-C5E7-4804-91EC-E44B4DB2C382=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-90A922E0-E336-4579-8342-5F6BAEE7D44A",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/t_smarttracker_ug_Deleting-a-group-of-printers=GUID-90A922E0-E336-4579-8342-5F6BAEE7D44A=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "t_smarttracker_ug_Deleting-a-group-of-printers=GUID-90A922E0-E336-4579-8342-5F6BAEE7D44A=1=en-US=.xml"
+    },
+    {
+      "guid": "GUID-A52DE604-972D-4C09-A500-97E36F91E691",
+      "title": "",
+      "shortdesc": "",
+      "body_preview": "",
+      "path": "content/solutions/Title/HP-smarttracker/t_smarttracker_ug_Editing-a-group-of-printers=GUID-A52DE604-972D-4C09-A500-97E36F91E691=1=en-US=.xml",
+      "topic_type": "task",
+      "product": "hp-smarttracker",
+      "chapter": "HP-smarttracker",
+      "filename": "t_smarttracker_ug_Editing-a-group-of-printers=GUID-A52DE604-972D-4C09-A500-97E36F91E691=1=en-US=.xml"
     }
   ]
 }
