@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
+<?ish ishref="GUID-083793BE-0368-4799-9114-F005F4073F48" version="2" lang="en-US"?><concept id="GUID-083793BE-0368-4799-9114-F005F4073F48" outputclass="context" xml:lang="en-US">
+	<title id="GUID-93722E79-E1EB-4607-B6EB-DD67EDB640FE">How to set up a print server</title>
+	<shortdesc>The objective of a print server is to streamline and optimize printing tasks throughout the network. The print server works as an intermediary between client computers and printers, handling print jobs and ensuring efficient print management.</shortdesc>
+	<task>
+		<prereq>
+			<item>Ensure you have administrative rights on the server.</item>
+			<item>Verify network connectivity is established.</item>
+			<item>Check that SNMP is enabled on the network.</item>
+		</prereq>
+		<steps>
+			<step>
+				<cmd>Open the Server Manager on your Windows Server.</cmd>
+			</step>
+			<step>
+				<cmd>For Windows Server 2019:</cmd>
+				<substeps>
+					<step>
+						<cmd>Navigate to 'Add roles and features'.</cmd>
+					</step>
+					<step>
+						<cmd>Select 'Print and Document Services' and then 'Print Server'.</cmd>
+					</step>
+				</substeps>
+			</step>
+			<step>
+				<cmd>For Windows Server 2022:</cmd>
+				<substeps>
+					<step>
+						<cmd>Navigate to 'Add roles and features'.</cmd>
+					</step>
+					<step>
+						<cmd>Select 'Print and Document Services' and then 'Print Server'.</cmd>
+					</step>
+				</substeps>
+			</step>
+			<step>
+				<cmd>Complete the installation and restart the server if prompted.</cmd>
+			</step>
+		</steps>
+		<note>
+			<title>Troubleshooting</title>
+			<p>If you encounter issues with SNMP or bi-directionality, refer to the following topics:</p>
+			<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+			<xref scope="local" href="t_sw-solutions_sm_Bi-directionality-troubleshooting=GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F=3=en-US=.xml#GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F" />
+		</note>
+		<!-- NEW_START -->
+		<image href="Print_Server_Architecture_v2.png" width="600px" height="400px"/>
+		<!-- NEW_END -->
+	</task>
+</concept>
