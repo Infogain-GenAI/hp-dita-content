@@ -3,7 +3,7 @@
   "product": "HP Software Solutions",
   "structure": "Tridion Docs (GUID-based) - SW Solutions UG",
   "last_updated": "2026-06-09T16:45:00Z",
-  "total_topics": 269,
+  "total_topics": 246,
   "topics": [
     {
       "guid": "GUID-EAA2571A-398C-4313-BC91-9AFD979E2B47",
@@ -39,17 +39,6 @@
       "filename": "r_sw-solutions_ug_About-this-edition=GUID-DA105829-7C51-4BD0-9EBD-88321DF3520A=1=en-US=.xml"
     },
     {
-      "guid": "GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760",
-      "title": "Conrefs",
-      "shortdesc": "These are the conrefs.",
-      "body_preview": "The following sections provide details for this topic. The following steps provide the complete procedure for this topic. This topic provides a full set of reference information for this subject. This topic explains the concepts involved in this subject. Product Documentation Site Preparation Guide How to prepare your site for the installation of the product. Instructions on installing, using, and troubleshooting your printer hardware and software.",
-      "path": "content/solutions/_unplaced/topics/l-generic-short-descriptions=GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760=8=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-solutions",
-      "chapter": "topics",
-      "filename": "l-generic-short-descriptions=GUID-8B3A02E6-17F5-4BA5-A3A5-E879FD45A760=8=en-US=.xml"
-    },
-    {
       "guid": "GUID-86659381-6644-4ECF-BD51-8BDC1AF11609",
       "title": "",
       "shortdesc": "Use this template to create sources for conrefs for paragraphs, inline text, admonishments, and images. Delete structures not needed for your library topic.\n            \n                For block elements, set the id attribute of the element you will reference to a unique value. Block images should be wrapped in a &lt;fig&gt; even if you do not reference the &lt;fig&gt;. \n                \n                    Block images must be wrapped in &lt;fig&gt; or else translation issues can occur with &lt;alt&gt; text strings running together in a single segment.\n                \n            \n            \n                For inline elements, including inline images, insert a separate &lt;p&gt; for each one. Then insert the inline element and set the id attribute to a unique value. Inline images should not include &lt;alt&gt;.\n            \n            \n                For block and inline images, update the href attribute to point to the GUID of the image in the repository.\n            \n            \n                For text strings, insert a separate &lt;p&gt; for each one. Insert a child &lt;ph&gt; and set the id attribute of the &lt;ph&gt; to a unique value.",
@@ -72,17 +61,6 @@
       "filename": "c_sw-solutions_sm_Distribute-msi-package=GUID-2EDC92F2-507B-4273-B7CF-898BD5F5D09C=1=en-US=.xml"
     },
     {
-      "guid": "GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921",
-      "title": "Drivers",
-      "shortdesc": "This is the User Guide for SW Solutions Drivers.",
-      "body_preview": "",
-      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Drivers=GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "c_sw-solutions_sm_Drivers=GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-837E1A5A-1048-4CC8-AD3F-2CC5665505DD",
       "title": "How to check the driver version under Windows and macOS",
       "shortdesc": "This section explains how to check the driver version both under Windows and under macOS.",
@@ -92,28 +70,6 @@
       "product": "hp-drivers",
       "chapter": "Drivers",
       "filename": "c_sw-solutions_sm_How-to-check-the-driver-version=GUID-837E1A5A-1048-4CC8-AD3F-2CC5665505DD=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-083793BE-0368-4799-9114-F005F4073F48",
-      "title": "How to set up a print server",
-      "shortdesc": "The objective of a print server is to streamline and optimize printing tasks throughout the network. The print server works as an intermediary between client computers and printers, handling print jobs and ensuring efficient print management.",
-      "body_preview": "",
-      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_How-to-set-up-a-print-server=GUID-083793BE-0368-4799-9114-F005F4073F48=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "c_sw-solutions_sm_How-to-set-up-a-print-server=GUID-083793BE-0368-4799-9114-F005F4073F48=2=en-US=.xml"
-    },
-    {
-      "guid": "GUID-A1365872-69CB-4A95-AFF4-29142BD0430E",
-      "title": "Setup and installation",
-      "shortdesc": "",
-      "body_preview": "",
-      "path": "content/solutions/Title/Drivers/c_sw-solutions_sm_Setup-and-installation_drivers=GUID-A1365872-69CB-4A95-AFF4-29142BD0430E=3=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "c_sw-solutions_sm_Setup-and-installation_drivers=GUID-A1365872-69CB-4A95-AFF4-29142BD0430E=3=en-US=.xml"
     },
     {
       "guid": "GUID-7BC77407-9AE7-42F2-AA4A-23AF23B4680B",
@@ -136,28 +92,6 @@
       "product": "hp-drivers",
       "chapter": "Drivers",
       "filename": "c_sw-solutions_sm_Troubleshooting=GUID-86F73047-E082-4D0D-9A0C-3E4A1D8796C2=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED",
-      "title": "Introduction",
-      "shortdesc": "The following is a summary of the compatibility matrix for the driver software.",
-      "body_preview": "Compatibility matrix OS Driver Windows 10, 11 Windows Server 2012\u20132022 PCL3 v4 for design PDF v4 for design Windows 11 HP Click driver macOS 13 macOS 14 macOS 15 Generic raster PostScript (+12 m p.I.) Recommendation Matrix Priority Fidelity and transparency Line accuracy OS Windows 10, 11 Windows Server 2012\u20132023 PDF PCL3 v4 macOS macOS PostScript driver macOS raster driver Graphic and color applications CAD",
-      "path": "content/solutions/Title/Drivers/e_sw-solutions_sm_Introduction_drivers=GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED=4=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "e_sw-solutions_sm_Introduction_drivers=GUID-9F6D4D0F-8A85-4C99-ABF1-ED50DE4467ED=4=en-US=.xml"
-    },
-    {
-      "guid": "GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE",
-      "title": "Transitioning from V3/V4 drivers to an IPP class driver",
-      "shortdesc": "Migrating from legacy V3/V4 print drivers to the HP Click driver, powered by IPP class driver technology, brings significant improvements in security, simplified IT management, and a smoother printing experience. By utilizing Microsoft\u2019s Print Support Apps (PSA) framework and the Internet Printing Protocol (IPP) over HTTPS, the HP Click driver reduces many of the risks and complexities associated with traditional drivers.",
-      "body_preview": "Understanding legacy V3 print drivers Designed for early Windows versions (XP, 7). Operate in kernel mode, meaning they have unrestricted access to the system. Security risks: Vulnerabilities in drivers can be exploited to gain unauthorized system control. Stability issues: Faulty drivers can cause system crashes, including Blue Screen Of Death (BSOD) errors. Kernel mode and its security vulnerabilities Kernel mode allows drivers to execute with the highest privileges in the system, meaning: If ",
-      "path": "content/solutions/Title/Drivers/e_sw-solutions_sm_Transitioning-from-v3v4-drivers-to-ipp-class-driver=GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE=3=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "e_sw-solutions_sm_Transitioning-from-v3v4-drivers-to-ipp-class-driver=GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE=3=en-US=.xml"
     },
     {
       "guid": "GUID-D296C403-323B-40DE-9949-CFCD3B1E2DA7",
@@ -204,28 +138,6 @@
       "filename": "e_sw-solutions_ug_V4-drivers=GUID-6B48171A-0DC0-4BC4-AA6D-C813DE891BF6=1=en-US=.xml"
     },
     {
-      "guid": "GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72",
-      "title": "Distribute an MSI package through GPO (client)",
-      "shortdesc": "On the client's side, it is necessary to restart the computer and update the policies.",
-      "body_preview": "Users/employees must restart their computers or update the policies of their computer to install the new policy (the .msi is trying to being installed). Install driver. After rebooting the system, if the employee goes to Print Management they will see the driver already installed . Connect to the Server as usual and then connect to the shared printer. Afterwards, the queue appears and tried to open, the UI will work. For detailed steps and visual guidance, refer to the video tutorials provided:",
-      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_distribute-MSI-package-client=GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72=3=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "r_sw-solutions_sm_distribute-MSI-package-client=GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72=3=en-US=.xml"
-    },
-    {
-      "guid": "GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654",
-      "title": "Distribute an MSI package through GPO (server)",
-      "shortdesc": "Distributing an MSI package can be useful in those environments in which Windows update is unavailable.",
-      "body_preview": "Install the driver and then save driver installer (.exe) as a .msi. Share the folder that contains the .msi. Share the folder that contains the .msi. Allow reading permissions for \u2018Domain Users\u2019 and \u2018Authenticated Users\u2019. Create the GPO (Group Policy Object) through Server Manager. Add the path where we allocated the .msi and manages the employees or users who are going to use this policy. Create the GPO. Set the deployment method as Assigned so it will self-install when booting up. Set the depl",
-      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_distribute-MSI-package-server=GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "r_sw-solutions_sm_distribute-MSI-package-server=GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-513B3075-6AA8-496F-B37D-1B701037C5E5",
       "title": "First actions",
       "shortdesc": "",
@@ -235,61 +147,6 @@
       "product": "hp-drivers",
       "chapter": "Drivers",
       "filename": "r_sw-solutions_sm_First-actions_support-elevation=GUID-513B3075-6AA8-496F-B37D-1B701037C5E5=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-7A3160C5-594E-435E-892C-3BEAB92F3750",
-      "title": "How to reach HP Support",
-      "shortdesc": "For the elevation process, the following information will be required:",
-      "body_preview": "Driver version number Print path: Application version number Settings applied OS version number Troubleshooting done: bi-di, spooler reset, reinstallation .prn file",
-      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_How-to-reach-hp-support=GUID-7A3160C5-594E-435E-892C-3BEAB92F3750=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "r_sw-solutions_sm_How-to-reach-hp-support=GUID-7A3160C5-594E-435E-892C-3BEAB92F3750=2=en-US=.xml"
-    },
-    {
-      "guid": "GUID-69A58DC9-3BA2-416B-A733-83729739DE45",
-      "title": "Select job processing side",
-      "shortdesc": "It is important to select the Render print jobs on the client computers checkbox to ensure an efficient print when using a shared printer.",
-      "body_preview": "Render print jobs on client computers. To share a printer, perform the following steps in the order presented: Go to the Control Panel and select Hardware and Sound &gt; Devices and Printers . Right-click the printer you want to share, then click Printer properties . Printer properties Mark the checkboxes for the Share this printer and Render print jobs on client computers options. Render print jobs on client computers",
-      "path": "content/solutions/Title/Drivers/r_sw-solutions_sm_Select-job-processing-side_drivers=GUID-69A58DC9-3BA2-416B-A733-83729739DE45=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "r_sw-solutions_sm_Select-job-processing-side_drivers=GUID-69A58DC9-3BA2-416B-A733-83729739DE45=2=en-US=.xml"
-    },
-    {
-      "guid": "GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F",
-      "title": "Bi-directionality troubleshooting",
-      "shortdesc": "If bi-directionality is no longer present, try these steps to troubleshoot the issue.",
-      "body_preview": "Click the Refresh link in Paper source . Check that SNMP is enabled in the Embedded Web Server and Configure Standard TCP/IP Port Monitor . Install driver Change/Re-create the printer port.",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_Bi-directionality-troubleshooting=GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F=3=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_Bi-directionality-troubleshooting=GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F=3=en-US=.xml"
-    },
-    {
-      "guid": "GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD",
-      "title": "How to check the driver version under macOS",
-      "shortdesc": "This section explains how to check the version of the driver under macOS.",
-      "body_preview": "Go to Printers &amp; Scanners , find the printer that is using the driver, and click Options &amp; Supplies . Click Options &amp; Supplies. The version of the driver is in the General tab. Driver version is in the General tab.",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-check-the-driver-version-under-macos=GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD=2=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_How-to-check-the-driver-version-under-macos=GUID-A5BF28E8-7398-4641-BA7B-3296F4B92EBD=2=en-US=.xml"
-    },
-    {
-      "guid": "GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C",
-      "title": "How to check the driver version under Windows",
-      "shortdesc": "In the driver\u2019s user interface, there is no information about the driver version. If you need to check it, open \u201cPrint Management\u201d and check the driver version.",
-      "body_preview": "Open the Control Panel and go to View devices and printers . View devices and printers. Open the driver UI by clicking Printing Preferences . Click the information icon in the top right-hand corner of the screen.",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-check-the-driver-version-under-windows=GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C=3=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_How-to-check-the-driver-version-under-windows=GUID-A40DAE4D-02A8-4787-933B-888241ACEE4C=3=en-US=.xml"
     },
     {
       "guid": "GUID-B27047DD-F4B6-458B-AD47-AEA9984E2AC2",
@@ -303,28 +160,6 @@
       "filename": "t_sw-solutions_sm_How-to-install-a-driver-assisted-under-Windows=GUID-B27047DD-F4B6-458B-AD47-AEA9984E2AC2=1=en-US=.xml"
     },
     {
-      "guid": "GUID-860392D6-ECC9-45CC-A757-E6986872708E",
-      "title": "How to install a driver (.inf) under Windows",
-      "shortdesc": "",
-      "body_preview": "Download the driver (.exe) from hp.support.com . Double-click the downloaded file to start the extracting process. Start extracting process. Open the Windows Control Panel and select View devices and printers . Select View devices and printers. Click Add a printer . Add a printer. Select The printer that I want isn\u2019t listed . Select The printer that I want isn't listed. Select add IPP, TCP/IP. Select add IPP; TCP/IP. Add the printer using the IP. Add a printer using IP address or hostname. Selec",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_How-to-install-a-driver-inf-under-Windows=GUID-860392D6-ECC9-45CC-A757-E6986872708E=2=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_How-to-install-a-driver-inf-under-Windows=GUID-860392D6-ECC9-45CC-A757-E6986872708E=2=en-US=.xml"
-    },
-    {
-      "guid": "GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7",
-      "title": "Installed base handbook",
-      "shortdesc": "This is a valuable resource to understand the features available for a specific printer.",
-      "body_preview": "Go to https://dgt.bcn.rd.hpicorp.net/ to discover all the features available for a specific printer model. For example, the features of the T950 MFP are listed in the following image: Features for T950 MFP.",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_Installed-base-handbook=GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7=2=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_Installed-base-handbook=GUID-E48DB8ED-48C1-4282-826E-D529BC9F61C7=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A",
       "title": "V3 print architecture",
       "shortdesc": "",
@@ -334,17 +169,6 @@
       "product": "hp-drivers",
       "chapter": "Drivers",
       "filename": "t_sw-solutions_sm_V3-print-archecture=GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-28BA4614-46FE-4443-AEBD-A050312456B5",
-      "title": "V4 print architecture",
-      "shortdesc": "",
-      "body_preview": "Client connects to the shared printer on the server. Server sends driver details to the client. Client checks whether it has the necessary HP v4 driver. If not found in local store, client uses Windows Update to fetch the HP v4 driver. If Windows Update is unavailable, client prompts user to provide the HP v4 driver manually. Once the HP v4 driver is installed, client uses Windows Update to fetch any necessary printer extensions and PDFs.",
-      "path": "content/solutions/Title/Drivers/t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=2=en-US=.xml",
-      "topic_type": "task",
-      "product": "hp-drivers",
-      "chapter": "Drivers",
-      "filename": "t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=2=en-US=.xml"
     },
     {
       "guid": "GUID-C624F152-3D31-41B3-B633-5E56998234D0",
@@ -358,17 +182,6 @@
       "filename": "c_machan_ug_e13_Installation=GUID-C624F152-3D31-41B3-B633-5E56998234D0=1=en-US=.xml"
     },
     {
-      "guid": "GUID-4B5545BB-F2F5-47CE-89C0-053844161C65",
-      "title": "Introduction",
-      "shortdesc": "",
-      "body_preview": "",
-      "path": "content/solutions/Title/HP-click/c_machan_ug_e13_Introduction=GUID-4B5545BB-F2F5-47CE-89C0-053844161C65=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-click",
-      "chapter": "HP-click",
-      "filename": "c_machan_ug_e13_Introduction=GUID-4B5545BB-F2F5-47CE-89C0-053844161C65=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-3A48CEF4-528F-4491-8277-7147D91E6EDB",
       "title": "Licensing",
       "shortdesc": "For further information on how to install a USB license and to get the trial license, go to the website.",
@@ -378,17 +191,6 @@
       "product": "hp-click",
       "chapter": "HP-click",
       "filename": "c_machan_ug_e13_Licensing=GUID-3A48CEF4-528F-4491-8277-7147D91E6EDB=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F",
-      "title": "HP Click printing software",
-      "shortdesc": "This is the User Guide for SW Solutions HP Click printing software.",
-      "body_preview": "",
-      "path": "content/solutions/Title/HP-click/c_sw-solutions_ug_HP-click=GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-click",
-      "chapter": "HP-click",
-      "filename": "c_sw-solutions_ug_HP-click=GUID-A2C5372A-CA57-41BC-A277-1083A25FED0F=2=en-US=.xml"
     },
     {
       "guid": "GUID-D3D5A76D-BFB8-4098-86AD-561EA75AC7A8",
@@ -633,17 +435,6 @@
       "filename": "t_sw-solutions_ug_Support-tool_hp-click=GUID-BEE1864C-782C-451B-BBC3-363EAC01A1A7=1=en-US=.xml"
     },
     {
-      "guid": "GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9",
-      "title": "HP Click driver",
-      "shortdesc": "This is the User Guide for SW Solutions HP Click Driver.",
-      "body_preview": "",
-      "path": "content/solutions/Title/HP-click-driver/c_sw-solutions_sm_HP-click-driver=GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-click",
-      "chapter": "HP-click-driver",
-      "filename": "c_sw-solutions_sm_HP-click-driver=GUID-F69679B6-56DE-4DE0-8FF3-63DA5B6180F9=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-1A30BC82-C159-4FAE-9E08-B7BD413500E0",
       "title": "Introduction",
       "shortdesc": "The HP Click driver is an advanced, software-driven printer driver designed to optimize print workflows, reduce errors, and improve user experience. By integrating Printer Support App (PSA) functions, it simplifies the printing process for users.",
@@ -732,17 +523,6 @@
       "filename": "e_sw-solutions_sm_Supported-printers=GUID-4FCC15F2-1EB6-4F42-9400-7FDF4A1F0D94=1=en-US=.xml"
     },
     {
-      "guid": "GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998",
-      "title": "Application non-response",
-      "shortdesc": "If any Windows application is unresponsive when selecting a printing device, ensure that the printer is powered on and then restart the application.",
-      "body_preview": "",
-      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Application-non-response=GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-click",
-      "chapter": "HP-click-driver",
-      "filename": "r_sw-solutions_sm_Application-non-response=GUID-223B5FA9-1C3D-4FC4-A9CD-5E0DFF4BF998=2=en-US=.xml"
-    },
-    {
       "guid": "GUID-C25DF430-8535-43A4-A727-495211062E7A",
       "title": "Comparison of HP Click driver and HP Click application",
       "shortdesc": "The following table outlines the distinct capabilities of the HP Click driver compared to the HP Click application, highlighting its exclusive features and functions for Windows 11 users.",
@@ -752,17 +532,6 @@
       "product": "hp-click",
       "chapter": "HP-click-driver",
       "filename": "r_sw-solutions_sm_Comparison-of-hp-click-driver-and-hp-click-application=GUID-C25DF430-8535-43A4-A727-495211062E7A=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD",
-      "title": "Data flow overview",
-      "shortdesc": "The HP Click driver\u2019s data flow is designed to provide users with control over document preview and error-free transmission.",
-      "body_preview": "Data flow overview Direct print (preview off): With print preview disabled, data is transmitted directly through the IPP protocol in PCL3GUI format, bypassing the preview step. Preview enabled: When the preview is on, print data is sent to the HP Click application, displaying a preview for user confirmation and final adjustments before printing. Save as PDF option: When enabled, a PDF of the document is saved concurrently with the print job. Communication Protocols Utilized: IPP (Internet Printi",
-      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Data-flow-overview=GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-click",
-      "chapter": "HP-click-driver",
-      "filename": "r_sw-solutions_sm_Data-flow-overview=GUID-D3F210A0-5ECD-4A19-9D2B-4C98DBBBA3DD=2=en-US=.xml"
     },
     {
       "guid": "GUID-41DF67BA-B031-4887-9EC0-64D6AD245F04",
@@ -807,17 +576,6 @@
       "product": "hp-click",
       "chapter": "HP-click-driver",
       "filename": "r_sw-solutions_sm_Interface-overview=GUID-500F0364-A485-4168-BBDD-95A8C05A3EDA=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3",
-      "title": "Print preview accuracy (Content clipped)",
-      "shortdesc": "If you change the page size in the application\u2019s print dialog, and the page size is smaller than the content to be printed, and you do not select the \u2018Fit to content\u2019 option, the print preview result may not be accurate. It will show only the portion of the content that fits within the size selected on the print dialog.",
-      "body_preview": "Troubleshooting Cancel the job on the print preview. Open the application print dialog again ( CTRL + P ) and select the appropriate page size or select Fit to content on it. Click Print and review the job on print preview.",
-      "path": "content/solutions/Title/HP-click-driver/r_sw-solutions_sm_Print-preview-accuracy-content-clipped=GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3=2=en-US=.xml",
-      "topic_type": "reference",
-      "product": "hp-click",
-      "chapter": "HP-click-driver",
-      "filename": "r_sw-solutions_sm_Print-preview-accuracy-content-clipped=GUID-DCE583D5-EE65-49C3-B9A1-0450C2053BD3=2=en-US=.xml"
     },
     {
       "guid": "GUID-F1B6A4C5-93AA-4CEA-823A-40F787E9E47F",
@@ -1214,17 +972,6 @@
       "product": "hp-smartstream",
       "chapter": "HP-smartstream",
       "filename": "c_skylon_ug_What-do-i-see-on-the-screen=GUID-CED3779F-08DE-4576-8CAD-169B2F76C6C9=1=en-US=.xml"
-    },
-    {
-      "guid": "GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB",
-      "title": "HP SmartStream",
-      "shortdesc": "This is the User Guide for SW Solutions HP SmartStream.",
-      "body_preview": "",
-      "path": "content/solutions/Title/HP-smartstream/c_sw-solutions_ug_HP-smartstream=GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB=2=en-US=.xml",
-      "topic_type": "concept",
-      "product": "hp-smartstream",
-      "chapter": "HP-smartstream",
-      "filename": "c_sw-solutions_ug_HP-smartstream=GUID-D46C064E-305D-47B9-8AC7-790A684A0CCB=2=en-US=.xml"
     },
     {
       "guid": "GUID-98293183-A3CE-4B11-B080-905FD544E183",
