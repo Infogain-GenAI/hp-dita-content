@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/generalTask.dtd"[]>
+<?ish ishref="GUID-05897A20-7845-4FC6-AE24-35B09891138F" version="1" lang="en-US"?><task id="GUID-05897A20-7845-4FC6-AE24-35B09891138F" xml:lang="en-US" outputclass="procedure">
+ <title id="GUID-AC8FBD5D-0EEB-4F5F-A33C-04FDB6EAB343">Installation process</title>
+ <shortdesc>Follow the steps in the order presented.</shortdesc>
+ <taskbody><prereq id="GUID-PREREQ-1234">
+ <p>Before you begin, ensure the following prerequisites are met:</p>
+ <ul>
+ <li>Administrative rights on the server.</li>
+ <li>Network connectivity is established.</li>
+ <li>SNMP is enabled on the network. </li>
+ </ul>
+ </prereq>
+ <steps id="GUID-1562AB1F-0400-4655-A376-A216B1277092">
+ <step>
+ <cmd><b>Download the installer package:</b> Obtain from one of the approved sources previously mentioned.</cmd>
+ </step>
+ <step>
+ <cmd><b>Run the installer:</b></cmd>
+ <substeps id="GUID-17DF42C5-5D38-48C1-8F8C-271D28AEC1DC">
+ <substep>
+ <cmd>Automatic detection: Run the installer to detect compatible printers automatically on the network.</cmd>
+ </substep>
+ <substep>
+ <cmd>Manual configuration: If detection fails, enter the device IP address manually for setup.</cmd>
+ </substep>
+ </substeps>
+ </step>
+ <step>
+ <cmd><b>Printer queue setup:</b> Confirm the printer queue for proper print job alignment within Windows.</cmd>
+ <stepxmp>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-01=GUID-32F44EEB-BD5D-4550-AA8E-5A2C26A542CA=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-02=GUID-3C662B61-3DA9-421B-9EBF-86EDE1F17CA6=1=en-US=Low.png" width="500" />
+ </fig>
+ </stepxmp>
+ </step>
+ <step>
+ <cmd>If the autodiscovery did not find the device, continue by adding the device manually</cmd>
+ <stepxmp>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-03=GUID-F3514623-1C59-429C-8761-14734F935F1E=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-04=GUID-A6273240-05D2-4FCE-8E73-50BE67B5B387=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-05=GUID-9D0DEC42-BF00-407D-AB13-4B4AEDF96176=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-06=GUID-D4582672-F035-486C-BE2C-D6BD303359A4=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-07=GUID-B0AB16A7-F4F1-49D6-8D63-75EC1D4C2C17=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-08=GUID-25979A6B-7A4D-4333-89B0-A55BF3EB8043=1=en-US=Low.png" width="500" />
+ </fig>
+ <fig>
+ <image href="i_sw-solutions-Installation Process-09=GUID-BC9E4442-9CA4-4696-88B3-CA4E000D5800=1=en-US=Low.png" width="500" />
+ </fig>
+ </stepxmp>
+ </step>
+ <step>
+ <cmd><b>Windows Server 2019 Setup:</b></cmd>
+ <substeps id="GUID-WS2019-SETUP">
+ <substep>
+ <cmd>Open the Server Manager and select 'Add roles and features'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Choose 'Print and Document Services' and proceed with the installation.</cmd>
+ </substep>
+ </substeps>
+ </step>
+ <step>
+ <cmd><b>Windows Server 2022 Setup:</b></cmd>
+ <substeps id="GUID-WS2022-SETUP">
+ <substep>
+ <cmd>Open the Server Manager and select 'Add roles and features'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Choose 'Print and Document Services' and proceed with the installation.</cmd>
+ </substep>
+ </substeps>
+ </step>
+ </steps>
+ <note>
+ <p>If you encounter issues with SNMP or bi-directionality, refer to the troubleshooting guide. </p>
+ </note>
+ <fig>
+ <image href="Print_Server_Architecture_v2.png" />
+ </fig></taskbody>
+</task>
