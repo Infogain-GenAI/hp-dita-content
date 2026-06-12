@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//SDL//DTD DITA Map//EN" "sdlMap.dtd"[]>
+<?ish ishref="GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB" version="2" lang="en-US"?><map id="GUID-0F45A833-1864-458E-8341-4F7BF90ED2AB" xml:lang="en-US" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"> 
+<title id="GUID-32DA8536-84B2-4CB9-8DBE-EC5BBA92D904"><ph varref="Model"> AIO</ph> Printer User Guide</title> 
+<topicref format="dita" href="GUID-A638C946-95D0-4FA3-9AFC-112378A4DFF0" type="concept">
+  <topicmeta><navtitle>Introduction</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref format="ditamap" href="GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7">
+  <topicmeta><navtitle>QuickStart</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref format="ditamap" href="GUID-05FB2A11-03EA-4929-90FA-6CA3E0AB23A9">
+  <topicmeta><navtitle>Printing Guide</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref format="ditamap" href="GUID-2EA98930-2EEB-4A49-8F4F-DE233C31F3FA">
+  <topicmeta><navtitle>Copying Guide</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref href="GUID-471E7567-03EC-4E94-9326-2B6CC6C8AFF4" format="ditamap"><topicmeta></topicmeta></topicref><topicref format="ditamap" href="GUID-51CD87A0-5FCD-452D-90B5-15E5ECCF73A7">
+  <topicmeta><navtitle>Troubleshooting Guide</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref format="dita" href="GUID-63966E27-D798-4125-9F8D-E772AE35573B" type="reference">
+  <topicmeta><navtitle>Support</navtitle>
+  </topicmeta>
+</topicref> 
+<topicref format="dita" href="GUID-C0B9E1AB-3F25-4569-8C42-F79CC6AD6544" type="reference">
+  <topicmeta><navtitle>Specifications</navtitle>
+  </topicmeta>
+</topicref> 
+</map>

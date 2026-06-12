@@ -2,3 +2,5 @@
 Thumbs.db
 *.tmp
 *.bak
+desktop.ini
+_rebuild_index.py

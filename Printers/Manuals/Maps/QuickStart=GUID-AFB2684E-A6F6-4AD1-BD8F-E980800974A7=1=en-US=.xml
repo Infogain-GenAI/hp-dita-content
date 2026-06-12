@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//SDL//DTD DITA Map//EN" "sdlMap.dtd"[]>
+<?ish ishref="GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7" version="1" lang="en-US"?><map id="GUID-AFB2684E-A6F6-4AD1-BD8F-E980800974A7" xml:lang="en-US" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"> 
+<title id="GUID-76BE90F3-F4A3-42C5-BDF2-EFF7C039CA41"><ph varref="Model"> AIO</ph> Printer QuickStart Guide</title> 
+<topicmeta> 
+  <copyright>
+      <copyryear year="2025" />
+      <copyrholder>Acadian Corporation</copyrholder>
+    </copyright> 
+</topicmeta> 
+<topicref collection-type="sequence" format="dita" href="GUID-20CF1AD0-AD51-4512-B52D-0F7E048C569C" linking="normal" scope="local" type="concept" ishcondition="PublicationType=QuickStart"> 
+  <topicmeta><navtitle>QuickStart</navtitle> 
+  </topicmeta> 
+  <topicref format="dita" href="GUID-612687DB-EDDE-4DF0-86CE-905D8E0000A8" linking="none" scope="local" type="concept"> 
+	 <topicmeta><navtitle>What's in the Box</navtitle> 
+	 </topicmeta> 
+  </topicref> 
+  <topicref format="dita" href="GUID-A85DAEEA-DFDB-4318-BC7F-EBFE2ACA0ED8" scope="local" type="task"> 
+	 <topicmeta><navtitle>Unpack the Box and Assemble Printer</navtitle> 
+	 </topicmeta> 
+  </topicref> 
+  <topicref format="dita" href="GUID-AB78677D-E18D-42DE-81DE-8B8CDFE53CD0" linking="none" scope="local" type="concept"> 
+	 <topicmeta><navtitle>Printer Components</navtitle> 
+	 </topicmeta> 
+	 <topicref href="GUID-D1C00C11-E412-452B-9E94-C60423412D96" format="dita"> 
+		<topicmeta><navtitle>Operation Panel</navtitle> 
+		</topicmeta> 
+	 </topicref> 
+  </topicref> 
+  <topicref format="dita" href="GUID-B191D266-062D-4FBA-9A78-736652EA94A0" scope="local" type="task"> 
+	 <topicmeta><navtitle>Install Ink Cartridges</navtitle> 
+	 </topicmeta> 
+  </topicref> 
+  <topicref format="dita" href="GUID-57E71C4B-56B4-41B2-B07A-B15B61CE110D" scope="local" type="task"> 
+	 <topicmeta><navtitle>Load the Paper</navtitle> 
+	 </topicmeta> 
+	 <topicref format="dita" href="GUID-A51E42C1-2A69-49AE-A342-67EC5756B99D" type="reference">
+		<topicmeta><navtitle>Paper Loading Guidelines</navtitle> 
+		</topicmeta> 
+	 </topicref> 
+  </topicref> 
+  <topicref format="dita" href="GUID-32F3CA70-7A23-4067-97E1-9435DE65A8C5" scope="local" type="task"> 
+	 <topicmeta><navtitle>Connect the Printer to the Computer</navtitle> 
+	 </topicmeta> 
+  </topicref> 
+</topicref> 
+<reltable id="RELTABLE_CAE58B45951F4E71A70B733D93FC8E84" toc="no"><title id="GUID-E85EA0D1-0D4C-4D5C-951A-22057451BABB">cross type links</title> 
+  <relheader> 
+	 <relcolspec type="task" /> 
+	 <relcolspec type="concept" /> 
+	 <relcolspec type="reference" /> 
+  </relheader> 
+  <relrow> 
+	 <relcell> 
+		<topicref collection-type="sequence" format="dita" href="GUID-20CF1AD0-AD51-4512-B52D-0F7E048C569C" linking="normal" scope="local" type="concept"> 
+		  <topicmeta><navtitle>810AIO QuickStart</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-612687DB-EDDE-4DF0-86CE-905D8E0000A8" linking="normal" scope="local" type="concept"> 
+		  <topicmeta><navtitle>What's in the Box</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+		<topicref format="dita" href="GUID-AB78677D-E18D-42DE-81DE-8B8CDFE53CD0" linking="normal" scope="local" type="concept"> 
+		  <topicmeta><navtitle>Printer Components</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell /> 
+  </relrow> 
+  <relrow> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-A85DAEEA-DFDB-4318-BC7F-EBFE2ACA0ED8" scope="local" type="task"> 
+		  <topicmeta><navtitle>Unpack the Box and Assemble Printer</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-612687DB-EDDE-4DF0-86CE-905D8E0000A8" linking="normal" scope="local" type="concept"> 
+		  <topicmeta><navtitle>What's in the Box</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell /> 
+  </relrow> 
+  <relrow> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-B191D266-062D-4FBA-9A78-736652EA94A0" scope="local" type="task"> 
+		  <topicmeta><navtitle>Install Ink Cartridges</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell /> 
+	 <relcell /> 
+  </relrow> 
+  <relrow> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-57E71C4B-56B4-41B2-B07A-B15B61CE110D" scope="local" type="task"> 
+		  <topicmeta><navtitle>Load the Paper</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell /> 
+	 <relcell /> 
+  </relrow> 
+  <relrow> 
+	 <relcell> 
+		<topicref format="dita" href="GUID-32F3CA70-7A23-4067-97E1-9435DE65A8C5" scope="local" type="task"> 
+		  <topicmeta><navtitle>Connect the Printer to the Computer</navtitle> 
+		  </topicmeta> 
+		</topicref> 
+	 </relcell> 
+	 <relcell /> 
+	 <relcell /> 
+  </relrow> 
+</reltable> 
+<reltable id="RELTABLE_2959836750F74B16986E13B289428F48" toc="no"><title id="GUID-7ECFB3BB-E43E-47D7-ABAE-BD07C8E026CB">same type links</title> 
+  <relheader> 
+	 <relcolspec type="task" /> 
+	 <relcolspec type="concept" /> 
+	 <relcolspec type="reference" /> 
+  </relheader> 
+  <relrow> 
+	 <relcell /> 
+	 <relcell> 
+		  <topicref format="dita" href="GUID-612687DB-EDDE-4DF0-86CE-905D8E0000A8" linking="normal" scope="local" type="concept"> 
+			 <topicmeta><navtitle>What's in the Box</navtitle> 
+			 </topicmeta> 
+		  </topicref> 
+		  <topicref format="dita" href="GUID-AB78677D-E18D-42DE-81DE-8B8CDFE53CD0" linking="normal" scope="local" type="concept"> 
+			 <topicmeta><navtitle>Printer Components</navtitle> 
+			 </topicmeta> 
+		  </topicref> 	 
+	 </relcell> 
+	 <relcell /> 
+  </relrow> 
+</reltable> 
+</map> 

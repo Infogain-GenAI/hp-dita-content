@@ -26,76 +26,83 @@
 
 ```
 dita-content-repo/
-├── content/                        ← ALL DITA source files live here
-│   ├── laserjet/                   ← Product line
-│   │   ├── v1.0/                   ← Product version
-│   │   │   ├── concepts/           ← Topic type
-│   │   │   ├── tasks/
-│   │   │   ├── references/
-│   │   │   └── maps/               ← .ditamap files
-│   │   └── v2.0/
-│   ├── officejet/
-│   ├── designjet/
-│   └── shared/                     ← Reusable topics across products
-│       ├── concepts/
-│       ├── tasks/
-│       └── references/
-├── published/                      ← Built output (committed for history)
-│   ├── pdf/
-│   └── html/
-├── index.json                      ← Auto-generated catalogue of all topics
+├── content/
+│   ├── V2/                         ← HP SW Solutions UG Version 2 (Tridion export)
+│   │   └── p_SW-Solutions_UG/
+│   │       └── rm_sw-solutions_ug/
+│   │           └── c_sw-solutions_ug_Title/
+│   │               ├── m_sw-solutions_Drivers/
+│   │               ├── m_sw-solutions_HP-click/
+│   │               ├── m_sw-solutions_HP-smartstream/
+│   │               └── m_sw-solutions_HP-smarttracker/
+│   └── V3/                         ← HP SW Solutions UG Version 3 (Tridion export)
+│       └── p_SW-Solutions_UG/
+│           └── rm_sw-solutions_ug/
+│               └── c_sw-solutions_ug_Title/
+│                   ├── m_sw-solutions_Drivers/
+│                   ├── m_sw-solutions_HP-click/
+│                   ├── m_sw-solutions_HP-smartstream/
+│                   └── m_sw-solutions_HP-smarttracker/
+├── Printers/                       ← HP Printer documentation (manuals, topics, images)
+│   └── Manuals/
+│       ├── Images/
+│       ├── Libraries/
+│       ├── Maps/
+│       └── Topics/
+├── index.json                      ← Auto-generated catalogue (664 topics)
 └── README.md
 ```
 
 ---
 
-## Workflow: JIRA Ticket → Published Doc
+## Content Statistics
+
+| Version | Topics | Type |
+|---------|--------|------|
+| V2 | 312 | SW Solutions UG (Tridion Docs export) |
+| V3 | 319 | SW Solutions UG (Tridion Docs export) |
+| Printers | 33 | Printer manuals & guides |
+| **Total** | **664** | |
+
+---
+
+## Workflow: AI Agent → Published Doc
 
 ```
-JIRA Ticket Created
+User request via Streamlit UI
        ↓
-AI Agent fetches ticket + searches RAG for context
+AI Agent searches RAG (ChromaDB) for matching topics
        ↓
-GPT-4o generates DITA XML
+GPT-4o edits DITA XML based on user instructions
        ↓
-File saved to  content/{product}/{version}/{type}/{ticket_id}_{slug}.dita
+File saved to GitHub: content/{V2|V3}/p_SW-Solutions_UG/...
        ↓
-Git commit:  "[HP-101] Add task: Install printer driver"
+Git commit: "[publish] Updated: {topic_title}"
        ↓
-RAG index auto-updated (sync_to_rag.py)
+RAG index auto-updated (ChromaDB sync)
        ↓
-DITA-OT publishes → PDF / HTML5
+DITA-OT publishes → PDF
        ↓
-Published output committed to published/
-       ↓
-JIRA ticket updated → In Review
+PDF uploaded to GitHub
 ```
 
 ---
 
-## Naming Convention
+## File Naming Convention
 
+DITA topics follow the Tridion Docs export naming:
 ```
-{ticket_id}_{slug}_{date}.dita
-e.g.  HP-101_install-printer-driver_20260513.dita
-```
-
-## Commit Message Convention
-
-```
-[{ticket_id}] {action} {topic_type}: {short_description}
-e.g. [HP-101] Add task: Install HP LaserJet printer driver on Windows 11
-     [HP-102] Update concept: HP LaserJet Pro M404 Overview
-     [HP-103] Fix reference: Configuration parameters table
+{topic_type}_{slug}=GUID-{uuid}={version}={language}=.xml
+e.g.  c_sw-solutions_sm_Drivers=GUID-7D77B9C1-5432-4B3A-AA27-DDA9E8D7C921=2=en-US=.xml
 ```
 
 ---
 
-## For HP Integration (Phase 2)
+## For HP Integration
 
-When HP provides access to their real DITA content:
-1. Copy all `.dita` / `.ditamap` files into `content/`
-2. `git add . && git commit -m "Import HP production content"`
-3. Delete `../hp-dita-agent/chroma_db/`
-4. Run `python ../hp-dita-agent/rag/sync_to_rag.py`
-5. Zero code changes required — agent automatically picks up new content
+Content is sourced from HP Tridion Docs via structured export:
+1. Export from Tridion Docs in structured XML format
+2. Place V2 content under `content/V2/`
+3. Place V3 content under `content/V3/`
+4. Run `python _rebuild_index.py` to regenerate the index
+5. Agent automatically picks up new content via RAG sync

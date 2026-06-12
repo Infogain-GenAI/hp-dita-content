@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE concept PUBLIC "-//SDL//DTD DITA Concept//EN" "sdlConcept.dtd"[
+]>
+<?ish ishref="GUID-A790A878-5F17-41CD-994E-53FF50493215" version="1" lang="en-US"?>
+<concept id="GUID-A790A878-5F17-41CD-994E-53FF50493215" xml:lang="en-US"> 
+  <title id="GUID-E6E53D0D-182B-40B4-8787-0750E401D822">Bluetooth Printing from a Handheld Device</title> 
+  <conbody> 
+	 <p>Before printing you will need to download and install a third party printing application compatible with the handheld device. 
+	 </p> 
+	 <p>The basic steps to configure printing from the handheld device include: 
+	 <ol id="OL_8A2EFAAF7E6B4778933E159020204761"> 
+		<li id="LI_F30B1747C0ED4DF689D7E546FB473C73">Install a third-party printing application. 
+		</li> 
+		<li id="LI_091DC5BCC7BC444B9CE2DF19767E7AC4">Discover and pair the printer from the handheld device. 
+		</li> 
+		<li id="LI_BD7993E0AD844F42A3FE96798B8F706C">Print a test file. 
+		</li> 
+	 </ol> 
+	 </p> 
+  </conbody> 
+</concept>
