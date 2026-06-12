@@ -3,12 +3,12 @@
 <?ish ishref="GUID-05897A20-7845-4FC6-AE24-35B09891138F" version="1" lang="en-US"?><task id="GUID-05897A20-7845-4FC6-AE24-35B09891138F" xml:lang="en-US" outputclass="procedure">
  <title id="GUID-AC8FBD5D-0EEB-4F5F-A33C-04FDB6EAB343">Installation process</title>
  <shortdesc>Follow the steps in the order presented.</shortdesc>
- <taskbody><prereq id="GUID-PREREQ-1234">
+ <taskbody><prereq id="GUID-PREREQ-001">
  <p>Before you begin, ensure the following prerequisites are met:</p>
  <ul>
  <li>Administrative rights on the server.</li>
  <li>Network connectivity is established.</li>
- <li>SNMP is enabled on the network. </li>
+ <li>SNMP is enabled on the network.</li>
  </ul>
  </prereq>
  <steps id="GUID-1562AB1F-0400-4655-A376-A216B1277092">
@@ -64,32 +64,52 @@
  </stepxmp>
  </step>
  <step>
- <cmd><b>Windows Server 2019 Setup:</b></cmd>
- <substeps id="GUID-WS2019-SETUP">
+ <cmd><b>Set up the print server on Windows Server 2019:</b></cmd>
+ <substeps>
  <substep>
  <cmd>Open the Server Manager and select 'Add roles and features'.</cmd>
  </substep>
  <substep>
- <cmd>Choose 'Print and Document Services' and proceed with the installation.</cmd>
+ <cmd>Choose 'Role-based or feature-based installation' and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Select the server from the server pool and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Under 'Server Roles', select 'Print and Document Services' and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Proceed through the wizard to complete the installation.</cmd>
  </substep>
  </substeps>
  </step>
  <step>
- <cmd><b>Windows Server 2022 Setup:</b></cmd>
- <substeps id="GUID-WS2022-SETUP">
+ <cmd><b>Set up the print server on Windows Server 2022:</b></cmd>
+ <substeps>
  <substep>
  <cmd>Open the Server Manager and select 'Add roles and features'.</cmd>
  </substep>
  <substep>
- <cmd>Choose 'Print and Document Services' and proceed with the installation.</cmd>
+ <cmd>Choose 'Role-based or feature-based installation' and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Select the server from the server pool and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Under 'Server Roles', select 'Print and Document Services' and click 'Next'.</cmd>
+ </substep>
+ <substep>
+ <cmd>Proceed through the wizard to complete the installation.</cmd>
  </substep>
  </substeps>
  </step>
  </steps>
  <note>
- <p>If you encounter issues with SNMP or bi-directionality, refer to the troubleshooting guide. </p>
+ <p>If you encounter issues with SNMP or bi-directionality, refer to the troubleshooting sections.</p>
+ <xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+ 
  </note>
  <fig>
- <image href="Print_Server_Architecture_v2.png" />
+ <!-- IMAGE: Print_Server_Architecture_v2.png -->
  </fig></taskbody>
 </task>
