@@ -14,24 +14,18 @@
 		<section>
 			<title>Steps to set up a print server</title>
 			<ol>
-				<li>Log in to the Windows Server with administrative credentials.</li>
+				<li>Log in to the Windows Server (2019 or 2022) with administrative credentials.</li>
 				<li>Open the 'Server Manager' from the Start menu.</li>
-				<li>In the 'Server Manager' dashboard, click on 'Add roles and features'.</li>
-				<li>Follow the wizard and select 'Print and Document Services'.</li>
-				<li>Choose 'Print Server' and proceed with the installation.</li>
-				<li>Once installed, open 'Print Management' from the Tools menu.</li>
-				<li>For Windows Server 2019:
-					<ol>
-						<li>Right-click on 'Print Servers' and select 'Add/Remove Servers'.</li>
-						<li>Add the local server and configure the print queues as needed.</li>
-					</ol>
-				</li>
-				<li>For Windows Server 2022:
-					<ol>
-						<li>Navigate to 'Print Servers' and select 'Manage'.</li>
-						<li>Configure the print queues and printer drivers as required.</li>
-					</ol>
-				</li>
+				<li>Click on 'Add roles and features'.</li>
+				<li>In the 'Before You Begin' window, click 'Next'.</li>
+				<li>Select 'Role-based or feature-based installation' and click 'Next'.</li>
+				<li>Choose the server from the server pool and click 'Next'.</li>
+				<li>In the 'Select server roles' window, check 'Print and Document Services' and click 'Next'.</li>
+				<li>Click 'Next' in the 'Select features' window without making changes.</li>
+				<li>In the 'Print and Document Services' window, click 'Next'.</li>
+				<li>Check 'Print Server' and click 'Next'.</li>
+				<li>Click 'Install' to begin the installation process.</li>
+				<li>Once the installation is complete, click 'Close'.</li>
 			</ol>
 		</section>
 		<note>
@@ -41,6 +35,6 @@
 			
 		</note>
 		<fig>
-			<image href="Print_Server_Architecture_v2.png" />
+			<image href="Print_Server_Architecture_v2.png" width="6in"/>
 		</fig>
 	</conbody></concept>
