@@ -52,7 +52,7 @@
  <li>
  <p>Microsoft Store-based updates, ensuring compliance with security best practices.</p>
  </li>
- </ul><p>Microsoft Print Support Apps (PSA) framework enhances the manageability and security of print drivers by allowing updates and execution through the Microsoft Store, reducing the need for direct system access.</p></section>
+ </ul><p>Microsoft Print Support Apps (PSA) framework enhances the functionality and security of the IPP class driver by providing a modern, app-based approach to print management.</p></section>
  <section id="GUID-621ADD4E-C598-46B3-95C2-F31DDDE30571">
  <title id="GUID-51D514D9-AE44-4AF5-9702-1E7E1CB88493">Advantages of HP Click driver</title>
  <p>No kernel-mode execution – Reduces the risk of driver-based security threats.</p>
@@ -85,7 +85,7 @@
  </row>
  <row>
  <entry>Potential for BSOD crashes</entry>
- <entry>Crashes contained within application</entry>
+ <entry>Crashes contained within the application</entry>
  </row>
  <row>
  <entry>Direct access to system resources</entry>
