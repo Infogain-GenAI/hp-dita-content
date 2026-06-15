@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
+<?ish ishref="GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE" version="3" lang="en-US"?><concept id="GUID-2AA6E2CE-082B-4D26-AB30-E827FA057CEE" outputclass="explanation" xml:lang="en-US">
+ <title id="GUID-04E0AC82-A7F4-4970-9AC0-F93E1E02CC17">Transitioning from V3/V4 drivers to an IPP class driver</title>
+ <shortdesc>Migrating from legacy V3/V4 print drivers to the HP Click driver, powered by IPP class driver technology, brings significant improvements in security, simplified IT management, and a smoother printing experience. By utilizing Microsoft’s Print Support Apps (PSA) framework and the Internet Printing Protocol (IPP) over HTTPS, the HP Click driver reduces many of the risks and complexities associated with traditional drivers.</shortdesc>
+ <conbody>
+ <section id="GUID-AC524385-AE71-49D1-AF84-AF4B4C086A3F">
+ <title id="GUID-9F55BE55-FB63-4B88-A4AD-06BC4C644C78">Understanding legacy V3 print drivers</title>
+ <p>Designed for early Windows versions (XP, 7).</p>
+ <p>Operate in kernel mode, meaning they have unrestricted access to the system.</p>
+ <p>Security risks: Vulnerabilities in drivers can be exploited to gain unauthorized system control.</p>
+ <p>Stability issues: Faulty drivers can cause system crashes, including Blue Screen Of Death (BSOD) errors.</p>
+ </section>
+ <section id="GUID-CB4B5247-5898-4B62-B46C-761E25DA793A">
+ <title id="GUID-0CAAC5CC-A53E-4688-88A5-8E3D7FE89E03">Kernel mode and its security vulnerabilities</title>
+ <p>Kernel mode allows drivers to execute with the highest privileges in the system, meaning:</p>
+ <ul id="GUID-F68CB80B-AEBA-4C47-9EA1-10A58B49D908">
+ <li>
+ <p>If a malicious or faulty driver runs in kernel mode, it can cause complete system failure.</p>
+ </li>
+ <li>
+ <p>Attackers can exploit kernel-mode vulnerabilities to execute unauthorized code, steal data, or install persistent malware.</p>
+ </li>
+ <li>
+ <p>Buggy print drivers running in kernel mode can crash the entire OS, affecting business operations.</p>
+ </li>
+ </ul>
+ <p>To mitigate these risks, modern driver architectures move away from kernel mode and operate in user mode instead.</p><p>Real-World Example: PrintNightmare (CVE-2021-34527)</p>
+ <p>In July 2021, the PrintNightmare vulnerability demonstrated the danger of kernel-mode print drivers. This critical vulnerability in the Windows Print Spooler service allowed remote code execution on any Windows system with the spooler running. The attack exploited the way V3 drivers were loaded into kernel space, allowing an attacker to execute arbitrary DLLs with SYSTEM privileges. Microsoft's long-term mitigation was to push organizations toward IPP-based printing, which runs entirely in user mode.</p></section>
+ <section id="GUID-7E8FD278-6A5A-42F7-85A9-79637875020D">
+ <title id="GUID-AE920B95-85B0-453C-9BC7-C279527E81D1">V4 print drivers: Limited improvement, persistent drawbacks</title>
+ <p>Microsoft introduced V4 print drivers as an attempt to reduce the reliance on kernel-mode execution and improve manageability. However, V4 drivers still present drawbacks:</p>
+ <ul id="GUID-B4D50C75-1BDC-403D-AED7-586EE7214FD7">
+ <li>
+ <p>Operate in user mode – Unlike V3 drivers, V4 print drivers execute in user mode, which reduces system-wide failure risks but still has limitations.</p>
+ </li>
+ <li>
+ <p>Security limitations – Although V4 drivers execute in user mode, they still require direct access to system resources, creating potential attack vectors.</p>
+ </li>
+ </ul>
+ </section>
+ <section id="GUID-24931CAD-10CA-464F-B933-14CF3858D304">
+ <title id="GUID-D6E9FE30-60E3-4735-8837-BA4C7924A272">HP Click driver with PSA + IPP class driver</title>
+ <p>The HP Click driver eliminates the need for traditional drivers by leveraging:</p>
+ <ul id="GUID-005EB139-D713-4584-AD41-92B9E788F17C">
+ <li>
+ <p>IPP over HTTPS for secure communication between printers and Windows.</p>
+ </li>
+ <li>
+ <p>User-mode execution in an isolated environment, preventing system-wide failures.</p>
+ </li>
+ <li>
+ <p>Microsoft Store-based updates, ensuring compliance with security best practices.</p>
+ </li>
+ </ul><p>Microsoft Print Support Apps (PSA) framework enhances the manageability and security of print drivers by allowing updates and execution through the Microsoft Store, reducing the need for direct system access.</p></section>
+ <section id="GUID-621ADD4E-C598-46B3-95C2-F31DDDE30571">
+ <title id="GUID-51D514D9-AE44-4AF5-9702-1E7E1CB88493">Advantages of HP Click driver</title>
+ <p>No kernel-mode execution – Reduces the risk of driver-based security threats.</p>
+ <p>Isolated execution environment – The driver runs in a sandboxed user mode, ensuring vulnerabilities are contained within the application.</p>
+ <p>Prevents system-wide crashes – Eliminates the risk of BSODs caused by faulty drivers.</p>
+ <p>Automatic security updates – Ensures the latest protections through controlled Microsoft Store updates.</p>
+ <p>Limited system exposure – Since the HP Click driver operates within an isolated environment, any exploitation attempts remain at the application level and do not compromise system-wide integrity.</p>
+ <p>Reduced attack surface – Since PSA handles driver execution, it limits system-level exposure, further strengthening security.</p>
+ <p>Supports cloud and network printing – Fully compatible with IPP over HTTPS for remote printing.</p>
+ <p>Microsoft-recommended printing solution – Ensures long-term support and compatibility.</p>
+ <p>Enhanced reliability – Since the driver operates within an isolated user-mode framework, any crashes and errors do not propagate to the rest of the system.</p>
+ </section><section id="GUID-NEW-SECURITY-COMPARISON">
+ <title>Comparison: V3 Kernel Mode vs V4/IPP User Mode</title>
+ <table>
+ <tgroup cols="2">
+ <thead>
+ <row>
+ <entry>V3 Kernel Mode</entry>
+ <entry>V4/IPP User Mode</entry>
+ </row>
+ </thead>
+ <tbody>
+ <row>
+ <entry>Runs with SYSTEM privileges</entry>
+ <entry>Runs in a sandboxed environment</entry>
+ </row>
+ <row>
+ <entry>High risk of system compromise</entry>
+ <entry>Reduced risk due to isolation</entry>
+ </row>
+ <row>
+ <entry>Potential for BSOD crashes</entry>
+ <entry>Crashes contained within application</entry>
+ </row>
+ <row>
+ <entry>Direct access to system resources</entry>
+ <entry>Limited access, reducing attack vectors</entry>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </section>
+ <section id="GUID-NEW-MIGRATION-CHECKLIST">
+ <title>5-Step Migration Checklist</title>
+ <ol>
+ <li>Audit existing V3 drivers: Run Get-PrinterDriver on all print servers to inventory kernel-mode drivers.</li>
+ <li>Test IPP compatibility: Verify that target printers support IPP Everywhere or have HP UPD IPP support.</li>
+ <li>Deploy IPP class driver: Use Group Policy or SCCM to push the Microsoft IPP Class Driver to endpoints.</li>
+ <li>Configure HTTPS: Enable TLS 1.2+ on printer embedded web servers for secure IPP communication.</li>
+ <li>Decommission V3 drivers: Remove legacy V3 drivers from print servers after migration validation.</li>
+ </ol>
+ </section></conbody>
+</concept>
