@@ -14,28 +14,25 @@
 		<section>
 			<title>Steps to set up a print server</title>
 			<ol>
-				<li>Log in to the server with administrative credentials.</li>
-				<li>Open the 'Print Management' console from the Start menu.</li>
-				<li>In the 'Print Management' console, select 'Add Printer'.</li>
-				<li>Follow the wizard to add a new printer, selecting the appropriate driver and port.</li>
-				<li>Configure the printer settings as needed.</li>
-				<li>Repeat the process for each printer you wish to add.</li>
+				<li>Open the Server Manager on your Windows Server.</li>
+				<li>Navigate to <b>Add roles and features</b>.</li>
+				<li>Select <b>Role-based or feature-based installation</b> and click <b>Next</b>.</li>
+				<li>Choose the server you want to configure and click <b>Next</b>.</li>
+				<li>Under <b>Server Roles</b>, select <b>Print and Document Services</b>, then click <b>Next</b>.</li>
+				<li>In the <b>Features</b> section, ensure that all necessary features are selected, then click <b>Next</b>.</li>
+				<li>On the <b>Print and Document Services</b> page, click <b>Next</b>.</li>
+				<li>Confirm your selections and click <b>Install</b>.</li>
+				<li>Once the installation is complete, configure your printers and print queues as needed.</li>
 			</ol>
 		</section>
 		<section>
-			<title>Windows Server 2019 and 2022 Specific Steps</title>
-			<ol>
-				<li>For Windows Server 2019, ensure the 'Print and Document Services' role is installed.</li>
-				<li>For Windows Server 2022, verify that the latest updates are installed for compatibility.</li>
-			</ol>
-		</section>
-		<note>
 			<title>Troubleshooting</title>
-			If you encounter issues with SNMP or bi-directionality, refer to the following topics:
-			<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
-			
-		</note>
+			<note type="note">If you encounter issues with SNMP or bi-directionality, refer to the following topics for assistance:
+				<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+				
+			</note>
+		</section>
 		<fig>
-			<image href="Print_Server_Architecture_v2.png" width="6in"/>
+			<image href="Print_Server_Architecture_v2.png"/>
 		</fig>
 	</conbody></concept>
