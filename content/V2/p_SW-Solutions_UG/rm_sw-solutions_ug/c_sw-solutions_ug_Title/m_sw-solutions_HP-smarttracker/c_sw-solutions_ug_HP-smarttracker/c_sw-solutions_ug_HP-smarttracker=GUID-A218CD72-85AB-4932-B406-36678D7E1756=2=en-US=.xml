@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
+<?ish ishref="GUID-A218CD72-85AB-4932-B406-36678D7E1756" version="1" lang="en-US"?><concept id="GUID-A218CD72-85AB-4932-B406-36678D7E1756" xml:lang="en-US" outputclass="context">
+	<title id="GUID-EE659004-A082-436F-8F5E-EBB9CBEADBCD">HP SmartTracker</title>
+ <shortdesc>HP SmartTracker has been designed to help you control your printing costs and accurately charge your customers for the prints you do for them.</shortdesc>
+ <conbody>
+ <note type="notice">
+ <p>HP SmartTracker software is compatible only with Original HP ink supplies.</p>
+ </note><section>
+ <title>Scheduled Reports</title>
+ <p>The Scheduled Reports feature allows administrators to configure automatic email delivery of usage reports.</p>
+ <section>
+ <title>Accessing the Scheduling Interface</title>
+ <p>To access the scheduling interface, navigate to the Reports section in the HP SmartTracker dashboard and select 'Scheduled Reports'.</p>
+ </section>
+ <section>
+ <title>Setting Up Email Recipients</title>
+ <p>Administrators can set up email recipients for user, project, or department reports by entering the email addresses in the designated fields within the scheduling interface.</p>
+ </section>
+ <section>
+ <title>Choosing Report Frequency</title>
+ <p>Reports can be scheduled to be sent on a daily, weekly, or monthly basis. Select the desired frequency from the options provided in the scheduling interface.</p>
+ </section>
+ <section>
+ <title>Configuring the Email Server</title>
+ <p>To configure the email server for sending reports, follow these steps:</p>
+ <ol>
+ <li>Navigate to the Email Server Settings in the HP SmartTracker dashboard.</li>
+ <li>Enter the SMTP server address and port number.</li>
+ <li>Provide the necessary authentication details, such as username and password.</li>
+ <li>Test the configuration to ensure emails can be sent successfully.</li>
+ </ol>
+ </section>
+ <section>
+ <title>Setting a Custom Company Logo</title>
+ <p>To set a custom company logo for branded reports, upload the logo image in the 'Company Logo' section of the scheduling interface.</p>
+ </section>
+ </section></conbody>
+</concept>
