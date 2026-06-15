@@ -14,36 +14,25 @@
 		<section>
 			<title>Steps to set up a print server</title>
 			<ol>
-				<li>Log in to the server with administrative credentials.</li>
-				<li>Open the 'Print Management' console from the Control Panel.</li>
-				<li>For Windows Server 2019:
-					<ol>
-						<li>Navigate to 'Tools' and select 'Print Management'.</li>
-						<li>In the 'Print Management' console, right-click on 'Print Servers' and select 'Add/Remove Servers'.</li>
-						<li>Add the local server and click 'OK'.</li>
-					</ol>
-				</li>
-				<li>For Windows Server 2022:
-					<ol>
-						<li>Navigate to 'Tools' and select 'Print Management'.</li>
-						<li>In the 'Print Management' console, right-click on 'Print Servers' and select 'Add/Remove Servers'.</li>
-						<li>Add the local server and click 'OK'.</li>
-					</ol>
-				</li>
-				<li>Right-click on 'Printers' under the server name and select 'Add Printer'.</li>
-				<li>Follow the wizard to add a new printer, selecting the appropriate drivers and settings.</li>
+				<li>Open the Server Manager on your Windows Server.</li>
+				<li>Navigate to <b>Add roles and features</b>.</li>
+				<li>Select <b>Role-based or feature-based installation</b> and click <b>Next</b>.</li>
+				<li>Choose the server you want to configure and click <b>Next</b>.</li>
+				<li>Under <b>Server Roles</b>, select <b>Print and Document Services</b>, then click <b>Next</b>.</li>
+				<li>In the <b>Features</b> section, ensure that all necessary features are selected, then click <b>Next</b>.</li>
+				<li>On the <b>Print and Document Services</b> page, click <b>Next</b>.</li>
+				<li>Confirm your selections and click <b>Install</b>.</li>
+				<li>Once the installation is complete, configure the print server settings as needed.</li>
 			</ol>
 		</section>
 		<section>
 			<title>Troubleshooting</title>
 			<note type="note">If you encounter issues with SNMP or bi-directionality, refer to the following topics for assistance:
-				<ul>
-					<li><xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" /></li>
-					<li></li>
-				</ul>
+				<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+				<xref scope="local" href="GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F.xml#GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F" />
 			</note>
 		</section>
 		<fig>
-			<image href="Print_Server_Architecture_v2.png" width="6in"/>
+			<image href="Print_Server_Architecture_v2.png"/>
 		</fig>
 	</conbody></concept>
