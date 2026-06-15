@@ -2,6 +2,46 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
 <?ish ishref="GUID-083793BE-0368-4799-9114-F005F4073F48" version="2" lang="en-US"?><concept id="GUID-083793BE-0368-4799-9114-F005F4073F48" outputclass="context" xml:lang="en-US">
 	<title id="GUID-93722E79-E1EB-4607-B6EB-DD67EDB640FE">How to set up a print server</title>
-	<shortdesc>The objective of a print server is to streamline and optimize printing tasks throughout the network. The print server works as an intermediary between client computers and printers, handling print jobs and ensuring efficient print management.</shortdesc>
-	<conbody />
-</concept>
+	<shortdesc>The objective of a print server is to streamline and optimize printing tasks throughout the network. The print server works as an intermediary between client computers and printers, handling print jobs and ensuring efficient print management.</shortdesc><conbody>
+		<section>
+			<title>Prerequisites</title>
+			<ul>
+				<li>Ensure you have administrative rights on the server.</li>
+				<li>Verify network connectivity is established.</li>
+				<li>Check that SNMP is enabled on the network.</li>
+			</ul>
+		</section>
+		<section>
+			<title>Steps to set up a print server</title>
+			<ol>
+				<li>Log in to the server with administrative credentials.</li>
+				<li>Open the 'Server Manager' from the Start menu.</li>
+				<li>For Windows Server 2019:
+					<ol>
+						<li>Select 'Add roles and features'.</li>
+						<li>Proceed through the wizard to the 'Server Roles' page.</li>
+						<li>Check 'Print and Document Services' and click 'Next'.</li>
+						<li>Complete the installation and restart the server if prompted.</li>
+					</ol>
+				</li>
+				<li>For Windows Server 2022:
+					<ol>
+						<li>Select 'Add roles and features'.</li>
+						<li>Proceed through the wizard to the 'Server Roles' page.</li>
+						<li>Check 'Print and Document Services' and click 'Next'.</li>
+						<li>Complete the installation and restart the server if prompted.</li>
+					</ol>
+				</li>
+				<li>Configure the print server settings as required.</li>
+			</ol>
+		</section>
+		<note>
+			<title>Troubleshooting</title>
+			If you encounter issues with SNMP or bi-directionality, refer to the following topics:
+			<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+			
+		</note>
+		<fig>
+			<image href="Print_Server_Architecture_v2.png"/>
+		</fig>
+	</conbody></concept>
