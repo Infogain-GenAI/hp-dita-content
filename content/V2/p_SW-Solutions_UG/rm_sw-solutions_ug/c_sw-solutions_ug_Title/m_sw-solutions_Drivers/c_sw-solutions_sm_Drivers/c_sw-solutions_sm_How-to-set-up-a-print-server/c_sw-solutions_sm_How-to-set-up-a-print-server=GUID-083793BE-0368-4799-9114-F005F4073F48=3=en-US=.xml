@@ -14,26 +14,25 @@
 		<section>
 			<title>Steps to set up a print server</title>
 			<ol>
-				<li>Log in to the Windows Server (2019 or 2022) with administrative credentials.</li>
-				<li>Open the 'Server Manager' from the Start menu.</li>
-				<li>Click on 'Add roles and features' to launch the wizard.</li>
-				<li>In the 'Before you begin' window, click 'Next'.</li>
-				<li>Select 'Role-based or feature-based installation' and click 'Next'.</li>
-				<li>Choose the server from the server pool and click 'Next'.</li>
-				<li>In the 'Select server roles' window, check 'Print and Document Services' and click 'Next'.</li>
-				<li>Click 'Next' through the 'Features' window.</li>
-				<li>In the 'Print and Document Services' window, click 'Next'.</li>
-				<li>Confirm the installation selections and click 'Install'.</li>
-				<li>Once the installation is complete, click 'Close'.</li>
+				<li>Open the Server Manager on your Windows Server.</li>
+				<li>Navigate to <b>Add roles and features</b>.</li>
+				<li>Select <b>Role-based or feature-based installation</b> and click <b>Next</b>.</li>
+				<li>Choose the server you want to configure and click <b>Next</b>.</li>
+				<li>Under <b>Server Roles</b>, select <b>Print and Document Services</b> and click <b>Next</b>.</li>
+				<li>In the <b>Features</b> section, ensure that all necessary features are selected and click <b>Next</b>.</li>
+				<li>On the <b>Print and Document Services</b> page, click <b>Next</b>.</li>
+				<li>Confirm your selections and click <b>Install</b>.</li>
+				<li>Once the installation is complete, configure the print server settings as needed.</li>
 			</ol>
 		</section>
-		<note>
+		<section>
 			<title>Troubleshooting</title>
-			If you encounter issues with SNMP or bi-directionality, refer to the following topics:
-			<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
-			<xref scope="local" href="GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F.xml#GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F" />
-		</note>
+			<note type="note">If you encounter issues with SNMP or bi-directionality, refer to the following topics for assistance:
+				<xref scope="local" href="e_sw-solutions_sm_Enable-snmp=GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D=1=en-US=.xml#GUID-FF91A093-3A0A-43EE-9B83-651F4A8BF67D" />
+				<xref scope="local" href="GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F.xml#GUID-63EACA8F-B5D9-4355-A0A8-D42ACBECB95F" />
+			</note>
+		</section>
 		<fig>
-			<image href="Print_Server_Architecture_v2.png" width="6in"/>
+			<image href="Print_Server_Architecture_v2.png"/>
 		</fig>
 	</conbody></concept>
