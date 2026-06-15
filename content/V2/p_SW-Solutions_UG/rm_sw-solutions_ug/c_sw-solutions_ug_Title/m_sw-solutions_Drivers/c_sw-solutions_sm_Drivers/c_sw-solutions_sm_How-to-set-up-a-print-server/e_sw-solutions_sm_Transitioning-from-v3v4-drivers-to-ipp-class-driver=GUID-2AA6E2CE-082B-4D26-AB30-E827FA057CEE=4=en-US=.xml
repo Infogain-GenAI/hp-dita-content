@@ -52,7 +52,7 @@
  <li>
  <p>Microsoft Store-based updates, ensuring compliance with security best practices.</p>
  </li>
- </ul><p>Microsoft Print Support Apps (PSA) framework enhances the functionality and security of the IPP class driver by providing a modern, app-based approach to print management.</p></section>
+ </ul><p>Microsoft Print Support Apps (PSA) framework enhances the functionality and security of IPP class drivers by providing a modern, app-based approach to print management.</p></section>
  <section id="GUID-621ADD4E-C598-46B3-95C2-F31DDDE30571">
  <title id="GUID-51D514D9-AE44-4AF5-9702-1E7E1CB88493">Advantages of HP Click driver</title>
  <p>No kernel-mode execution – Reduces the risk of driver-based security threats.</p>
@@ -64,32 +64,37 @@
  <p>Supports cloud and network printing – Fully compatible with IPP over HTTPS for remote printing.</p>
  <p>Microsoft-recommended printing solution – Ensures long-term support and compatibility.</p>
  <p>Enhanced reliability – Since the driver operates within an isolated user-mode framework, any crashes and errors do not propagate to the rest of the system.</p>
- </section><section id="GUID-NEW-SECURITY-COMPARISON">
+ </section><section id="GUID-NEW-COMPARISON-TABLE">
  <title>Comparison: V3 Kernel Mode vs V4/IPP User Mode</title>
  <table>
  <tgroup cols="2">
  <thead>
  <row>
+ <entry>Feature</entry>
  <entry>V3 Kernel Mode</entry>
  <entry>V4/IPP User Mode</entry>
  </row>
  </thead>
  <tbody>
  <row>
- <entry>Runs with SYSTEM privileges</entry>
- <entry>Runs in a sandboxed environment</entry>
+ <entry>Execution Level</entry>
+ <entry>Kernel Mode</entry>
+ <entry>User Mode</entry>
  </row>
  <row>
- <entry>High risk of system compromise</entry>
- <entry>Reduced risk due to isolation</entry>
+ <entry>Security Risk</entry>
+ <entry>High (system-wide impact)</entry>
+ <entry>Low (sandboxed environment)</entry>
  </row>
  <row>
- <entry>Potential for BSOD crashes</entry>
- <entry>Crashes contained within the application</entry>
+ <entry>System Stability</entry>
+ <entry>Prone to BSOD</entry>
+ <entry>Isolated failures</entry>
  </row>
  <row>
- <entry>Direct access to system resources</entry>
- <entry>Limited access, reducing attack vectors</entry>
+ <entry>Communication</entry>
+ <entry>Direct system access</entry>
+ <entry>HTTPS secured</entry>
  </row>
  </tbody>
  </tgroup>
