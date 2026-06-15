@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
+<?ish ishref="GUID-E6653E00-FC8A-4203-95D1-CDAE2266627B" version="1" lang="en-US"?><concept id="GUID-E6653E00-FC8A-4203-95D1-CDAE2266627B" xml:lang="en-US" outputclass="context">
+ <title id="GUID-5D8C2C3F-3F2E-4113-83B3-92B34987B47F">Options</title>
+ <shortdesc>In the <uicontrol>Options</uicontrol> tab you can configure a variety of settings for the HP SmartTracker application: application language, accounting units, accounting currency, logo to be included in reports, and touch points where authentication will be required.</shortdesc>
+ <prolog>
+ <metadata>
+ <keywords>
+ <indexterm>options</indexterm>
+ </keywords>
+ </metadata>
+ </prolog><conbody>
+ <section>
+ <title>Accessing the Scheduling Interface</title>
+ <p>To access the scheduling interface for SmartTracker reports, navigate to the <uicontrol>Reports</uicontrol> section in the HP SmartTracker application. Click on <uicontrol>Scheduled Reports</uicontrol> to open the scheduling interface.</p>
+ </section>
+ <section>
+ <title>Choosing Report Frequency</title>
+ <p>Within the scheduling interface, you can choose the frequency of the reports. Options include:</p>
+ <ul>
+ <li>Daily</li>
+ <li>Weekly</li>
+ <li>Monthly</li>
+ </ul>
+ </section>
+ <section>
+ <title>Setting a Custom Company Logo</title>
+ <p>To set a custom company logo for branded reports, go to the <uicontrol>Options</uicontrol> tab. Under the <uicontrol>Logo</uicontrol> section, upload your company's logo file. This logo will be included in all scheduled email reports.</p>
+ </section>
+ </conbody></concept>
