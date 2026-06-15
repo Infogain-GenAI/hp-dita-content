@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/concept.dtd"[]>
+<?ish ishref="GUID-2106B9D4-D1F8-453E-A7EE-A0506CDF91A8" version="1" lang="en-US"?><concept id="GUID-2106B9D4-D1F8-453E-A7EE-A0506CDF91A8" xml:lang="en-US" outputclass="explanation">
+ <title id="GUID-C14127A3-84A0-4CC4-A755-C26D545E9805">Manual update</title>
+ <shortdesc>Whenever a new version of the application is available, the SmartTracker client notifies you. You can download the client and the server from hp.com.</shortdesc>
+ <prolog>
+ <metadata>
+ <keywords>
+ <indexterm>manual update</indexterm>
+ </keywords>
+ </metadata>
+ </prolog>
+ <conbody>
+ <p> If you prefer not to update at that time, just discard the message and check for updates whenever you like from the <uicontrol>About</uicontrol> menu in the client application.</p>
+ <p>If the outgoing email has been properly configured, an email is sent to the administrator.</p>
+ <p>Make sure to update the server, plus any client that is installed, with exactly the same version number. Other versions may not be compatible.</p><section>
+ <title>Setting Up Email Recipients for Reports</title>
+ <p>Administrators can configure email recipients for user, project, or department reports in HP SmartTracker. Follow these steps to set up the recipients:</p>
+ <ol>
+ <li>Access the SmartTracker application and navigate to the <uicontrol>Reports</uicontrol> section.</li>
+ <li>Select the <uicontrol>Scheduled Reports</uicontrol> option to open the scheduling interface.</li>
+ <li>In the scheduling interface, choose the type of report you want to configure: user, project, or department.</li>
+ <li>Enter the email addresses of the recipients in the designated field. You can add multiple email addresses separated by commas.</li>
+ <li>Save the configuration to ensure that the reports are sent to the specified recipients.</li>
+ </ol>
+ </section></conbody>
+</concept>
