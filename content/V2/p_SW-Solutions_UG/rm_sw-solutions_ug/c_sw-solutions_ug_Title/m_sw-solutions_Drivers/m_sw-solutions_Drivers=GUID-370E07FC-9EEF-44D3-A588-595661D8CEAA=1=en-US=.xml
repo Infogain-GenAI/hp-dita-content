@@ -16,7 +16,7 @@
                 </topicref>
                 <topicref href="c_sw-solutions_sm_How-to-set-up-a-print-server=GUID-083793BE-0368-4799-9114-F005F4073F48=3=en-US=.xml" format="dita">
                     <topicref href="t_sw-solutions_sm_V3-print-archecture=GUID-1FB68B05-DEC1-4F65-8299-DD785471AB3A=1=en-US=.xml" format="dita" />
-                    <topicref href="t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=2=en-US=.xml" format="dita" />
+                    <topicref href="t_sw-solutions_sm_V4-print-architecture=GUID-28BA4614-46FE-4443-AEBD-A050312456B5=3=en-US=.xml" format="dita" />
                     <topicref href="c_sw-solutions_sm_Distribute-msi-package=GUID-2EDC92F2-507B-4273-B7CF-898BD5F5D09C=1=en-US=.xml" format="dita">
                         <topicref href="r_sw-solutions_sm_distribute-MSI-package-server=GUID-4A8DE430-1407-4DC1-8B4E-A2176C1F7654=2=en-US=.xml" format="dita" />
                         <topicref href="r_sw-solutions_sm_distribute-MSI-package-client=GUID-B0037FE0-3ADF-4274-AC47-B84E78171A72=3=en-US=.xml" format="dita" />
