@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "file:///D:/InfoShare/Web/Author/ASP/DocTypes/dita-oasis/1.2/technicalContent/dtd/generalTask.dtd"[]>
+<?ish ishref="GUID-28BA4614-46FE-4443-AEBD-A050312456B5" version="2" lang="en-US"?><task id="GUID-28BA4614-46FE-4443-AEBD-A050312456B5" outputclass="procedure" xml:lang="en-US">
+ <title id="GUID-AB4F6017-B1CC-4042-AA84-C379FE3FA466">V4 print architecture</title>
+ <shortdesc />
+ <taskbody>
+ <steps id="GUID-4B4E0BEA-E235-4800-8551-3137339F3111">
+ <step>
+ <cmd>Client connects to the shared printer on the server.</cmd>
+ </step>
+ <step>
+ <cmd>Server sends driver details to the client.</cmd>
+ </step>
+ <step>
+ <cmd>Client checks whether it has the necessary HP v4 driver.</cmd>
+ </step>
+ <step>
+ <cmd>If not found in local store, client uses Windows Update to fetch the HP v4 driver.</cmd>
+ </step>
+ <step>
+ <cmd>If Windows Update is unavailable, client prompts user to provide the HP v4 driver manually.</cmd>
+ </step>
+ <step>
+ <cmd>Once the HP v4 driver is installed, client uses Windows Update to fetch any necessary printer extensions and PDFs.</cmd>
+ </step>
+ </steps><fig>
+ <image href="network_architecture.png" />
+ <title>Figure 1 - HP DesignJet Z6 Pro Network Architecture</title>
+ </fig></taskbody>
+</task>
